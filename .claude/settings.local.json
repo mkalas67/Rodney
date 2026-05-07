@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"b3uonjii88s65evca4oa67cc3db0adgj\" \"C:/Users/Marta/AppData/Local/Programs/Claude\" 2>/dev/null | head -5 | cut -c1-200)",
+      "PowerShell(cmd /c \"dir /aL C:\\\\Users\\\\Marta\" 2>&1)"
+    ]
+  }
+}
