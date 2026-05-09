@@ -1,0 +1,26 @@
+# Credentials & secrets - never commit these
+*.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# API tokens and config with secrets
+secrets.*
+credentials.*
+config.local.*
+auth.*
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
