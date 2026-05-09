@@ -16,6 +16,9 @@ credentials.*
 config.local.*
 auth.*
 
+# Claude Code internals
+.claude/
+
 # OS clutter
 .DS_Store
 Thumbs.db
