@@ -21,7 +21,7 @@ METRIC_LABELS = {
 
 
 def get_or_create_sheet(creds: Credentials, sheet_id: str | None, sheet_name: str) -> gspread.Spreadsheet:
-    gc = gspread.authorize(creds)
+    gc = gspread.Client(auth=creds)
     if sheet_id:
         return gc.open_by_key(sheet_id)
     spreadsheet = gc.create(sheet_name)
@@ -33,7 +33,7 @@ def get_or_create_sheet(creds: Credentials, sheet_id: str | None, sheet_name: st
 def get_or_create_tab(spreadsheet: gspread.Spreadsheet, tab_name: str) -> gspread.Worksheet:
     try:
         return spreadsheet.worksheet(tab_name)
-    except gspread.WorksheetNotFound:
+    except gspread.exceptions.WorksheetNotFound:
         return spreadsheet.add_worksheet(title=tab_name, rows=50, cols=10)
 
 

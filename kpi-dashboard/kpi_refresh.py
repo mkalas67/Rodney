@@ -25,7 +25,14 @@ def run():
     # Load credentials
     print("Loading credentials...")
     personal_creds = load_credentials(PERSONAL_ADC, GA4_SCOPES)
-    personal_sheets_creds = load_credentials(SHEETS_ADC, SHEETS_SCOPES)
+
+    try:
+        personal_sheets_creds = load_credentials(SHEETS_ADC, SHEETS_SCOPES)
+    except FileNotFoundError as e:
+        print(f"ERROR: {e}")
+        print("Run setup_sheets_auth.py first, then retry.")
+        sys.exit(1)
+
     try:
         workspace_creds = load_credentials(WORKSPACE_ADC, GA4_SCOPES)
     except FileNotFoundError as e:
@@ -80,10 +87,10 @@ def run():
         write_property_tab(spreadsheet, entry["tab"], entry["label"], entry["data"], today)
         print(f"  Written: {entry['tab']}")
 
-    # Print sheet URL for first run
     print(f"\nDone. Sheet: {spreadsheet.url}")
-    print(f"Sheet ID: {spreadsheet.id}")
-    print("\nIMPORTANT: Copy the Sheet ID above into config.py SHEET_ID so future runs update the same sheet.")
+    if not SHEET_ID:
+        print(f"\nFirst run — sheet created. Add this to config.py:")
+        print(f'  SHEET_ID = "{spreadsheet.id}"')
 
 
 if __name__ == "__main__":

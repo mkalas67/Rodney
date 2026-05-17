@@ -1,3 +1,10 @@
 gmail-mcp-credentials-transfer.md
 gmail-auth-config.ps1
 .claude/settings.local.json
+.claude/worktrees/
+
+# Cloned project repos (each has its own remote)
+golders-green-community/
+academy-for-pet-loss/
+Tradce-memorial/
+apartmentbudapest/
