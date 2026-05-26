@@ -1,106 +1,147 @@
 ---
-slug: pricing-pet-loss-sessions-london
 title: How to Price Your Pet Loss Support Sessions in London
-description: Concrete pricing guidance for pet bereavement practitioners in London, including current market rates, session structures, memorial page pricing, and realistic income scenarios.
-location: London
-page_type: pricing
+meta_description: How to price TRACE pet bereavement support sessions in London. Package vs per-session pricing, current London rates, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-london
+geo_target: London, UK
+primary_keyword: pet loss counselling prices London
+secondary_keywords: pet bereavement support cost London, TRACE practitioner pricing UK
 ---
 
 # How to Price Your Pet Loss Support Sessions in London
 
-Setting your prices is one of the first practical decisions you will face, and it is one that many new practitioners get wrong, usually by undercharging. This page gives you specific numbers, market context, and a clear framework for pricing your pet bereavement support sessions in London.
+London pricing feels complicated because the range is wide. You will see practitioners in this city charging anywhere from £60 to well over £150 for a session, and it is not always obvious what accounts for the difference or where you should sit.
+
+The more important question is not where the market sits. It is what your sessions are actually worth, and how to communicate that honestly.
+
+Most people who come to this work do not come to it through ambition. They come because they understand what it is to lose an animal, and they want to be there for someone else going through the same thing. That is a genuinely good motivation. It is also, sometimes, the reason pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of someone's grief," this page is written for you.
 
 ---
 
-## What Are Other Pet Loss Practitioners Charging in London?
+## Why Pricing Feels Difficult
 
-Pet loss practitioners in London currently charge between £70 and £120 per session in the early stages of their practice (the first six to twelve months, typically before they have built a body of reviews and a steady referral stream). Established practitioners, those with a good number of reviews, consistent referral relationships with vets, and twelve or more months of active practice, typically charge £90 to £160 per session.
+The discomfort most new practitioners feel around charging is not about greed. It is about doubt. The question underneath it is: am I actually giving them enough to justify this?
 
-For comparison, a human grief counsellor in London charges between £60 and £120 per session with a qualified therapist, and up to £180 with a senior BACP-registered psychotherapist. Pet bereavement support sits comfortably in the middle of that range, which reflects the level of skill, emotional labour, and preparation involved.
+The answer lies in what you are actually delivering.
 
-A single session runs between 50 and 90 minutes depending on your structure. Most practitioners in London use either a 60-minute or 75-minute session as their standard. There is no significant difference in what clients will pay for those two formats, so choose the length that suits your working style.
+TRACE is not a conversation. It is a structured, five-session programme grounded in established grief theory. Each session has a specific purpose. Each stage builds on the last. Your client is not paying for your time or your company, though both matter. They are paying for a defined process that helps them move through their grief with structure and intention.
 
-The key pricing principle in this field is that you are not selling hourly labour. You are providing a specialised service that is genuinely difficult to find, that addresses a real emotional need, and that can meaningfully reduce a client's suffering. Clients in London are accustomed to paying professional rates for professional services. Pricing below £70 per session in London is likely to undermine your credibility rather than make you more accessible.
+That is worth a professional fee.
 
----
-
-## Session Structures That Work
-
-A single one-off session is the simplest offering and is often what first-time clients request. It is low-commitment for the client and gives them a way to assess whether they want to continue.
-
-A package of three to five sessions is your most effective offering once a client has had an initial session. A common structure in London is an introductory three-session package at a slight discount to the per-session rate, followed by individual sessions as needed. This gives the client a sense of a clear beginning, middle, and end without an open-ended commitment.
-
-A free 20-minute introductory call before the first paid session reduces the barrier to entry significantly and dramatically improves the conversion rate from enquiry to booking. It is worth the time investment. During this call, you explain how the TRACE framework works, what the client can expect, and answer any questions. By the end, they either book or they do not; in most cases, a warm, specific introductory call converts.
-
-A monthly support retainer, covering two or three sessions per month at a slightly reduced rate, works well for clients who are navigating longer or more complex bereavements and want consistent scheduled support. This is not for every client, but it creates predictable recurring income.
+When you charge an appropriate amount, you are doing something more than collecting payment. You are signalling to your client that this is real work, with real value. That signal matters. It helps them arrive properly, take the sessions seriously, and actually benefit from the process. Charging less does not make you more generous. It makes the whole thing feel less serious, and your client deserves better than that. The fee is part of the trust.
 
 ---
 
-## How Memorial Pages Fit into Your Pricing
+## TRACE Is a Programme, Not an Open-Ended Service
 
-Your TRACE Practitioner Certification includes the ability to create up to ten memorial pages for clients upon completing the programme. Memorial pages are hosted on the Academy platform for three years and serve as a dedicated, permanent tribute to the client's pet.
+This is important to understand before you set any price.
 
-You set the price for memorial pages yourself. Most practitioners charge between £80 and £120 per page. At £99, which is the commonly quoted baseline, a memorial page represents a straightforward add-on that most clients welcome when offered sensitively. It is a tangible, lasting deliverable, not an ongoing service commitment.
+General grief therapists often charge by the hour. That makes sense for their work, because it is open-ended. They do not know how many sessions a client will need, or where the conversations will go. The hourly rate reflects that uncertainty.
 
-The most natural moment to offer a memorial page is at the end of your final session together, when the client has moved through the TRACE framework and is in the "Embrace What Remains" phase. Framing it as a way to give the pet a permanent place in their story is authentic and appropriate.
+TRACE is different. It is a five-session programme. Each session corresponds to one step in the framework: Tell the Story, Recognise the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What Remains. The process has a beginning, a shape, and a defined end.
 
-Memorial pages also have a referral dimension. Clients who have a memorial page created often share it with family members or post about it on social media, which can generate enquiries from people who were not already aware of your practice.
+This means the right way to price it is as a package, not as an hourly rate multiplied by however many sessions happen to occur.
 
-If you have a relationship with a local cremation service, you can offer memorial pages as an add-on to their aftercare process, either directly or through a referral arrangement.
-
----
-
-## Income Potential in London
-
-Here is what realistic income looks like at different levels of practice intensity.
-
-At five client sessions per week, which is a manageable part-time caseload alongside other commitments, and charging £95 per session (a mid-range early career rate for London), you generate £475 per week before tax. Over 48 working weeks, accounting for holidays and quiet periods, that is approximately £22,800 per year. Add two memorial pages per month at £99 each, and you add roughly £2,376 per year, bringing your total to approximately £25,000.
-
-At ten to fifteen client sessions per week, which approaches a full-time dedicated practice, the numbers change significantly. At ten sessions weekly at £110 per session (a realistic established rate in London), you generate £1,100 per week, or approximately £52,800 per year. At fifteen sessions at the same rate, that rises to £79,200 annually. Both scenarios assume 48 working weeks. Memorial pages and packages add further to these figures.
-
-These are gross income figures before tax, National Insurance, insurance premiums, platform subscriptions, and any room hire costs. They are, however, achievable figures for practitioners who have built consistent referral relationships and a credible online presence. The practitioners reaching the higher end of these ranges are typically those who have invested in their certification, maintained a strong directory listing, and built relationships with at least two or three steady referral sources.
+Each session runs for forty to fifty minutes. This is intentional. Each session has one specific focus, and that focus does not require a full clinical hour. Forty-five minutes of structured, purposeful conversation on one stage of the journey is enough. In practice, it is often more effective than a longer session that loses its thread.
 
 ---
 
-## When and How to Raise Your Prices
+## The Pricing Model We Recommend
 
-The right time to raise your prices is when you have a waiting list or when you are consistently at your desired client capacity. You do not need permission to charge more as you become more experienced, more sought-after, and more effective.
+Offer both options and be clear about the difference between them.
 
-Four natural trigger points for a price review are: immediately after completing your TRACE certification; after receiving your first five or six strong reviews; after twelve months of active practice; and when you introduce your Extended Programme training, which adds Complex Loss and Widening the Circle to your qualifications.
+**Per-session rate**
 
-When you raise prices, you are not obliged to raise them for existing long-term clients immediately. A common approach is to honour existing client rates for three months while applying the new rate to all new bookings. This is fair and maintains the goodwill you have built.
+A single session for clients who are cautious, or who want to experience the first session before committing to the full programme. Set this at your full rate. In London, that currently sits between £70 and £120 per session for a newly certified practitioner.
+
+**Five-session package**
+
+Price this at roughly sixty to eighty percent of what five individual sessions would cost. At £90 per session, five sessions individually would total £450. A package price of £315 to £360 represents a meaningful saving and reflects the reality that the programme is designed to be taken as a whole.
+
+**Why the package matters**
+
+Someone who has committed to the complete journey is far more likely to complete it and benefit from it. Each session builds on the previous one. A client who stops after two sessions has not had half the experience; they have had an incomplete one. Being clear from the outset that TRACE is a five-session programme, and pricing it accordingly, sets the right expectation and serves your clients well.
+
+There is no obligation to offer both options. Some practitioners prefer to offer only the package. Others offer the single-session rate for the first session and the package from session two. You decide what works for you and your clients.
 
 ---
 
-## Sliding Scale and Reduced-Fee Options
+## What London Practitioners Charge
 
-Offering a small number of sliding-scale or reduced-fee sessions is entirely optional. It is not an expectation, and there is no ethical requirement to undercharge to make your service universally accessible.
+London has a well-established culture of paying professional rates for wellbeing services. Clients here generally accept a fair rate without resistance, provided you present yourself professionally and can speak clearly about what TRACE is and what the programme involves.
 
-If you do offer reduced-fee places, the clearest approach is to decide in advance how many you will hold at any one time, usually one or two maximum, and to communicate clearly that these places are limited. This avoids the common burnout pattern of practitioners whose caseload gradually shifts toward undercharging because they find it hard to say no to hardship cases.
+For reference, pet bereavement support practitioners in London currently tend to work within these ranges:
 
-Directing clients who genuinely cannot afford your fee toward free or low-cost resources, including Blue Cross pet bereavement support lines or local animal charities, is a compassionate and appropriate alternative to discounting your own rates indiscriminately.
+**Newly certified practitioners:**
+£70 to £120 per individual session
+£280 to £480 for a five-session package
+
+**Established practitioners with a local referral network:**
+£90 to £160 per individual session
+£360 to £640 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not set fees and does not recommend any specific rate. What you charge is your decision, based on your own circumstances, your confidence, and your read of your community.
+
+---
+
+## Memorial Pages as an Optional Addition
+
+Your TRACE certification includes ten memorial page credits on completion of the programme. These are digital memorial pages you can offer clients: a lasting, online space for the story of their animal, hosted for three years.
+
+How you use these is entirely your choice. Some practitioners include a memorial page within a package. Others offer it as an optional extra at the end of the programme, when the work reaches the Celebrate the Life stage and a memorial page becomes a natural part of the conversation. Others hold them for clients who seem to want something tangible to mark the end of the journey.
+
+There is no right answer. You set the price. The important thing is that you are offering something of genuine value, at whatever price reflects that value to you.
 
 ---
 
 ## Frequently Asked Questions
 
-### Is £95 per session too expensive for a pet loss service in London?
-No. £95 is within the lower-middle range for this service in London. Pet owners in the city are accustomed to paying £50 to £80 for a single veterinary consultation and significantly more for ongoing treatment. Specialist emotional support for a significant loss is well within what motivated clients expect to pay.
+**Why charge a package rate rather than an hourly rate?**
 
-### Should I charge more for the first session because it is longer?
-Many practitioners do charge a slightly higher rate for an extended first session, typically 90 minutes, compared to a standard 60-minute follow-up session. This is common practice and clients generally understand it. It is simpler than a sliding scale and covers the additional time you spend on intake.
+Because TRACE is a structured programme, not an open-ended service. General grief therapists charge hourly because their work does not follow a fixed structure and the number of sessions is unknown. TRACE is five sessions with a clear shape. Pricing it as a package reflects that honestly and helps clients commit to completing the journey, which is where the value lies.
 
-### How should I handle clients who want to negotiate my fees?
-You are not obliged to negotiate. A straightforward response is: "My fee is £X per session. I do hold a small number of reduced-fee places and am happy to let you know when one is available, but my standard rate is currently fixed." Handling this clearly and calmly is itself a demonstration of professional confidence.
+**Could the sessions turn into ongoing therapy?**
 
-### Can I charge for a missed session?
-Yes. Your cancellation policy should be set out clearly in your client agreement before the first session begins. A standard cancellation policy for London practitioners is full fee charged for cancellations with less than 24 hours notice, with 48 hours notice required for a full refund. Be consistent with this policy from the start.
+No, and a responsible TRACE practitioner makes that clear from the first session. The five-session structure is the complete programme. TRACE counsellors are not therapists. The training does not prepare practitioners to offer clinical, open-ended therapeutic support, and it would be wrong to present it as such. When the five sessions are complete, the practitioner's role within TRACE is done. If a client needs something more after that, the right response is a warm, clear referral to a qualified grief therapist or their GP.
 
-### Do I charge VAT?
-You only need to charge VAT if your annual turnover exceeds the current VAT registration threshold (£90,000 as of 2024). Almost all new solo practitioners are well below this threshold and charge without VAT.
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest about that. TRACE prepares practitioners to guide clients through a specific, structured programme. What a client may need beyond those five sessions could be many things, and a TRACE practitioner is not trained to assess or provide it. The responsible and caring response is to acknowledge the limit of your role and support your client in finding appropriate clinical help. This is not a failure. It is professional integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a TRACE counsellor. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy, psychological assessment, or any intervention beyond the five-session TRACE programme. It is important that you never present yourself as a therapist, and that you are clear with clients, referral partners, and anyone else about what you are and what you offer. This clarity protects your clients and protects you.
+
+**Should I charge less because London has such a wide range of incomes?**
+
+No. The structure of the work is what makes it valuable, and a professional fee reflects that. London's income range is wide, but the population seeking professional wellbeing support is spread across it. Reducing your rate does not make you more compassionate. Charge a fair rate. If you choose to hold a small number of reduced-rate spaces for clients in genuine financial difficulty, make that a specific, limited offer rather than an open-ended sliding scale.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for clients in genuine financial difficulty. This is a personal decision, not an obligation. If you do offer reduced rates, be specific about what they are and how many you hold. Open-ended sliding scales create awkward conversations and unclear expectations. Your own sustainability matters too.
 
 ---
 
-## Understand Your Value Before You Quote
+## More guides for London practitioners
 
-Your TRACE certification represents specialised training in a field that very few practitioners enter. The emotional labour of holding space for grief is significant, and the work you do has a measurable impact on your clients' lives. Before you set your prices, understand what you are offering. The Academy for Pet Loss TRACE programme will give you the training, the framework, and the confidence to price your work appropriately. Enrol today and build a practice that sustains you.
+This is part of a series of guides for pet bereavement practitioners in London:
+
+- [How to Set Up a Pet Bereavement Counselling Practice in London](/blog/setup-pet-loss-practice-london)
+- [How to Advertise Your Pet Loss Practice in London](/blog/advertise-pet-loss-practice-london)
+- [How to Run Online Pet Loss Sessions in London](/blog/online-pet-loss-sessions-london)
+- [What to Expect as a Pet Bereavement Counsellor in London](/blog/what-to-expect-pet-loss-counsellor-london)
+
+For an overview: [Starting a Pet Bereavement Support Practice in London](/blog/start-pet-loss-business-london)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome as it is. It is the moment when someone says, for the first time, what their animal really meant to them, and feels genuinely heard.
+
+You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Programme is $395 and the Extended Programme is $525. Both are self-paced and designed to fit around your existing life.
+
+If this feels like the right thing for you to do, the Academy for Pet Loss is ready when you are: [www.academyforpetloss.com](https://www.academyforpetloss.com).
