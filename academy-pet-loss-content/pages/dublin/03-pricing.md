@@ -1,99 +1,135 @@
+---
+title: How to Price Your Pet Loss Support Sessions in Dublin
+meta_description: How to price TRACE pet bereavement support sessions in Dublin. Package vs per-session pricing, current Dublin rates in euros, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-dublin
+geo_target: Dublin, Ireland
+primary_keyword: pet loss counselling prices Dublin
+secondary_keywords: pet bereavement support cost Dublin Ireland, TRACE practitioner pricing Ireland
+---
+
 # How to Price Your Pet Loss Support Sessions in Dublin
 
-Getting your pricing right is one of the most important business decisions you will make as a pet bereavement practitioner in Dublin. Most practitioners start too low, either out of uncertainty about their value or from a mistaken assumption that Irish clients need to be eased in with discount rates. This guide gives you a concrete picture of what sessions command in the Dublin market, how to structure your offering, how to build a sustainable income, and when and how to raise your rates. All session prices in this guide are in EUR unless otherwise noted.
+Most people who come to this work do not come to it through ambition. They come because they understand what it is to lose an animal, and they want to be there for someone else going through the same thing. That is a genuinely good motivation. It is also, sometimes, the reason pricing feels uncomfortable.
 
-## What Pet Bereavement Support Sessions Cost in Dublin
-
-Dublin is one of the most expensive cities in the eurozone for professional services, and this works in your favour as a practitioner. A population accustomed to paying professional rates for specialist services will not baulk at fees that reflect genuine training, a structured approach, and demonstrated expertise.
-
-**Early stage rates** for a new pet bereavement practitioner in Dublin, someone who has completed their TRACE certification and is working with their first clients, typically sit between €65 and €110 per session. Starting in the lower part of this range is reasonable while you build your initial client base and accumulate reviews and referrals. Do not price below €65. Your training, your professional approach, and the genuine scarcity of what you offer justify a professional rate from the outset.
-
-**Established rates** for practitioners with a track record, clear referral relationships, and a visible professional presence range from €85 to €140 per session. Practitioners who have completed the Extended Programme, have additional experience in complex grief, or who have built a reputation in Dublin's professional community can comfortably operate at the upper end of this range.
-
-Sessions are typically 50 to 60 minutes and are priced as single sessions or in bundles. Bundles offer the client a modest saving and give you more stable, predictable income. Both structures are well-established in the Dublin wellbeing market.
-
-## Session Structures That Work Well
-
-**Single session (50-60 minutes): €75-€115.** The standard offering for most practitioners. Appropriate for clients who are in early acute grief, exploring whether pet bereavement support feels right for them, or dealing with a relatively straightforward loss who need structured support rather than extended work.
-
-**Session bundle, three sessions: €200-€295.** A 10-15% saving on single session rates. Works well as a starter package with a clear beginning, middle, and end. Many clients find that three sessions moves them through the most acute phase of grief with enough structure to carry them forward.
-
-**Session bundle, six sessions: €380-€560.** For clients working through more complex grief, losses entangled with guilt around euthanasia, multiple losses, or the loss of a working or assistance animal. This package allows fuller exploration of the TRACE framework across multiple sessions and accommodates clients who need more time.
-
-**Initial consultation (30 minutes): €40-€60.** A shorter introductory session for clients who are uncertain whether pet bereavement support is the right step. Not all practitioners offer this, but it lowers the entry barrier and tends to convert well into full sessions once the client has experienced the approach.
-
-Structure your bundle pricing so that the per-session rate within any bundle is lower than your single session rate, but not so much lower that it creates a significant disincentive to single session bookings. A discount of 10-15% across the bundle is the right range.
-
-## Memorial Pages: An Additional Revenue Stream
-
-Your TRACE certification includes the ability to create up to ten memorial pages for your clients upon completing the programme. Memorial pages are hosted by the Academy for Pet Loss for three years and provide a dedicated, lasting online space where a client can honour their animal companion.
-
-You set the price for memorial pages yourself. The typical market rate is approximately $99 USD per page, which at current exchange rates is roughly €90 EUR, though you may choose to price in EUR for clarity. This is a meaningful additional revenue line that also differentiates your practice from any practitioner offering sessions alone.
-
-Memorial pages work best when introduced towards the end of a session bundle, at the point in the TRACE framework where the work naturally moves towards Celebrating the Life and Embracing What Remains. At that moment, a memorial page is not a commercial add-on. It is a genuine, meaningful next step in the grief journey that many clients will embrace readily.
-
-## Income Potential in Dublin
-
-To make the income picture concrete, here are some realistic calculations for a Dublin practice.
-
-**Part-time practice (8 sessions per week, 44 working weeks per year):**
-At an average rate of €90 per session, this generates approximately €31,680 gross per year. After tax, PRSI, and USC as a sole trader (rates depend on your individual circumstances and other income), this represents a solid supplementary income or a foundation for a full practice.
-
-**Full-time practice (16 sessions per week, 44 working weeks per year):**
-At an average rate of €105 per session, this generates approximately €73,920 gross per year. This is an achievable target for an established Dublin practitioner two to three years into a well-run practice, before memorial page income is added. At Dublin's cost of living, this represents a genuinely sustainable full-time income.
-
-**Memorial pages as additional income:**
-Ten memorial pages per year at €90 each adds €900 to your gross income for no additional session time. As your client base grows, this can scale materially.
-
-These figures are illustrations based on market rates and realistic session volumes, not guarantees. Your income will depend on how consistently you show up, how well you build your referral network, and how effectively you market your practice.
-
-## Year-One Loyalty Discount
-
-After your first year with the Academy for Pet Loss, you receive a permanent 50% discount on all renewals and Academy services. This includes your directory listing renewal and any additional modules or Academy resources. The long-term cost of maintaining your professional Academy presence is very modest, which makes the ongoing return on investment strongly positive.
-
-## When to Raise Your Prices
-
-Pricing inertia is one of the most common problems in independent practice. Practitioners who set a rate at the start often keep it far longer than the evidence supports. Here are the clearest signals that it is time to move your rates up.
-
-You are consistently fully booked and turning enquiries away. This is the most reliable signal that your price is below the market clearing level. Raise rates for new clients immediately.
-
-You have accumulated ten or more genuine positive reviews and your reputation is clearly established. Social proof reduces price sensitivity. Your second year of practice should be priced differently from your first.
-
-You have completed additional training, including the Extended Programme modules. Additional expertise justifies additional fees.
-
-You have been operating at the same rate for more than eighteen months while your costs have increased. Inflation applies to your practice as much as anywhere else.
-
-Give existing ongoing clients four to six weeks' notice of a rate change. Raise rates for new clients without notice. There is no requirement to explain a rate increase, but a brief, confident statement is sufficient and professional.
-
-## Sliding Scale and Accessibility
-
-Ireland has a strong cultural tradition of community support, and many Dublin practitioners feel genuine tension between professional pricing and accessibility. A sliding scale is one way to navigate this thoughtfully.
-
-The most workable approach is to hold a small number of genuinely reduced-rate spaces, perhaps two to three sessions per week, specifically for clients who could not otherwise access support. Be specific about what that reduced rate is rather than leaving it entirely open, as open-ended sliding scales create uncertainty and awkward conversations.
-
-You are not obligated to offer reduced rates, and your professional sustainability is not a less valid concern than accessibility. Many practitioners find that pricing confidently at full rates and holding two reduced-rate spaces is the most honest and workable balance.
-
-## Frequently Asked Questions
-
-**Should I charge in USD because the TRACE programme is priced in USD?**
-No. Your clients are in Dublin and you should price in EUR. The TRACE programme is priced in USD because it is an international programme, but all your client-facing pricing should be in the currency of your market.
-
-**Is it appropriate to discuss pricing on my website or should I wait for enquiries?**
-Displaying your pricing clearly on your website is generally better for conversion than keeping it private. Clients who are comfortable with your rates will book. Clients who are not will self-select out, saving you both time. Transparency around pricing is also increasingly expected by consumers.
-
-**How do I take payment as a Dublin sole trader?**
-Bank transfer (to your Irish bank account) is the most common payment method for professional services in Ireland. Stripe and PayPal both operate in Ireland and process EUR payments. Stripe integrates with booking platforms such as Calendly and is the most seamless option for automated online booking and payment.
-
-**Should I factor in the cost of the TRACE programme when setting my rates?**
-Your TRACE certification is a business investment. At $395-$525 USD, it is recovered within your first three to five client sessions. It does not need to be an ongoing pricing consideration, but its value, the structure, the certificate, and the directory listing, should inform your confidence in charging a professional rate.
-
-**Do I need to charge VAT on my sessions?**
-You are required to register for VAT only if your annual service revenue exceeds €37,500. Below this threshold, most practitioners do not charge VAT. Confirm the current threshold with a Revenue Commissioners adviser or a local accountant.
+If you find yourself thinking that you do not want to make money out of someone's grief, this page is written for you.
 
 ---
 
-Dublin is a city where professional expertise is valued and well-compensated. Specialist pet bereavement support is scarce, the demand is real, and clients here are willing to pay for skilled, structured, compassionate care.
+## Why Pricing Feels Difficult
 
-The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework and the credential to justify a professional rate from your very first session.
+The discomfort most new practitioners feel around charging is not about greed. It is about doubt. The question underneath it is: am I actually giving them enough to justify this?
 
-Enrol today at the Academy for Pet Loss and build a Dublin practice with pricing that reflects the value of what you offer.
+The answer lies in what you are actually delivering.
+
+TRACE is not a conversation. It is a structured, five-session programme grounded in established grief theory. Each session has a specific purpose. Each stage builds on the last. Your client is not paying for your time or your company, though both matter. They are paying for a defined process that helps them move through their grief with structure and intention.
+
+That is worth a professional fee.
+
+When you charge an appropriate amount, you are signalling to your client that this is real work with real value. That signal matters. It helps them arrive properly, take the sessions seriously, and actually benefit from the process. Charging less does not make you more generous. It makes the whole thing feel less serious, and your client deserves better than that. The fee is part of the trust.
+
+---
+
+## TRACE Is a Programme, Not an Open-Ended Service
+
+General grief therapists and counsellors charge by the hour. That makes sense for their work, because it is open-ended. They do not know how many sessions a client will need, or where the conversations will lead. The hourly rate reflects that uncertainty.
+
+TRACE is different. It is exactly five sessions. Each session corresponds to one step in the framework: Tell the Story, Recognise the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What Remains. The process has a beginning, a shape, and a defined end.
+
+This means the right way to price it is as a package, not as an hourly rate multiplied by however many sessions happen to occur.
+
+Each session runs for forty to fifty minutes. This is intentional. Each stage of TRACE requires a focused, purposeful conversation, not an extended ramble. Forty-five minutes of structured, purposeful conversation at the right moment in someone's grief is more valuable than a longer session that loses its thread.
+
+---
+
+## The Pricing Model
+
+Offer both options and be clear about the difference between them.
+
+**Per-session rate**
+
+A single session for clients who are cautious, or who want to experience the first session before committing to the full programme. Set this at your full rate. In Dublin, that currently sits between €65 and €110 per session for a newly certified practitioner.
+
+**Five-session package**
+
+Price this at roughly sixty to eighty percent of what five individual sessions would cost. At €85 per session, five sessions individually would total €425. A package price of €300 to €340 represents a meaningful saving and reflects the reality that the programme is designed to be taken as a whole.
+
+Someone who has committed to the complete journey is far more likely to complete it and benefit from it. Each session builds on the previous one. A client who stops after two sessions has not had half the experience; they have had an incomplete one. Being clear from the outset that TRACE is a five-session programme, and pricing it accordingly, sets the right expectation.
+
+---
+
+## What Dublin Practitioners Charge
+
+Dublin has a well-developed professional wellbeing market. Clients here, particularly in the tech sector and professional communities, are familiar with paying professional rates for quality services.
+
+**Newly certified practitioners:**
+€65 to €110 per individual session
+€260 to €440 for a five-session package
+
+**Established practitioners with a local referral network:**
+€85 to €140 per individual session
+€340 to €560 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not set fees and does not recommend any specific rate. What you charge is your decision, based on your own circumstances, your confidence, and your read of your community.
+
+---
+
+## A Note on Currency
+
+The TRACE Practitioner Certification from the Academy for Pet Loss is priced in US dollars ($395 for the Core Programme, $525 for the Extended Programme). Your sessions, however, are priced and invoiced in euros for Irish clients. There is no requirement to align your euro rates to any dollar equivalent.
+
+---
+
+## Memorial Pages
+
+Your TRACE certification includes ten memorial page credits on completion of the programme. These are digital memorial pages: a lasting online space for the story of a client's animal, hosted for three years.
+
+How you use these is entirely your choice. Some practitioners include one as part of a package. Others offer it as an optional extra at the end of the programme, when the work reaches the Celebrate the Life stage. There is no right answer. You set the price.
+
+---
+
+## Frequently Asked Questions
+
+**Why charge a package rate rather than an hourly rate?**
+
+Because TRACE is a structured programme, not an open-ended service. Pricing it as a package reflects that honestly and helps clients commit to completing the journey, which is where the value lies.
+
+**Could the sessions turn into ongoing therapy?**
+
+No, and a responsible TRACE practitioner makes that clear from the first session. TRACE counsellors are not therapists. The training does not prepare practitioners to offer clinical, open-ended therapeutic support. When the five sessions are complete, the practitioner's role within TRACE is done. If a client needs something more after that, the right response is a warm, clear referral to a qualified grief therapist or their GP.
+
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest about that. What a client may need beyond the five sessions could be many things, and a TRACE practitioner is not trained to assess or provide it. The responsible response is to acknowledge the limit of your role and support your client in finding appropriate clinical help. This is professional integrity, not a failure.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a TRACE counsellor. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy or any intervention beyond the five-session TRACE programme. This clarity protects your clients and protects you.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners hold a small number of reduced-rate spaces for clients in genuine financial difficulty. This is a personal decision, not an obligation. If you offer reduced rates, be specific about terms and limit the number of spaces available. Your own financial sustainability matters.
+
+---
+
+## More guides for Dublin practitioners
+
+This is part of a series of guides for pet bereavement practitioners in Dublin:
+
+- [How to Set Up a Pet Bereavement Counselling Practice in Dublin](/blog/setup-pet-loss-practice-dublin)
+- [How to Advertise Your Pet Loss Practice in Dublin](/blog/advertise-pet-loss-practice-dublin)
+- [How to Run Online Pet Loss Sessions in Dublin](/blog/online-pet-loss-sessions-dublin)
+- [What to Expect as a Pet Bereavement Counsellor in Dublin](/blog/what-to-expect-pet-loss-counsellor-dublin)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Dublin](/blog/start-pet-loss-business-dublin)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome as it is. It is the moment when someone says, for the first time, what their animal really meant to them, and feels genuinely heard.
+
+You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Programme is $395 and the Extended Programme is $525. Both are self-paced.
+
+If this feels like the right thing for you to do, the Academy for Pet Loss is ready when you are: [www.academyforpetloss.com](https://www.academyforpetloss.com).

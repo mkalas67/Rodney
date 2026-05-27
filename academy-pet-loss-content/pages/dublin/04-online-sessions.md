@@ -1,106 +1,109 @@
+---
+title: How to Run Online Pet Loss Support Sessions in Dublin
+meta_description: How to deliver TRACE pet bereavement support sessions online in Dublin. Platform setup, professional environment, EU GDPR, and reaching clients across Ireland.
+slug: online-pet-loss-sessions-dublin
+geo_target: Dublin, Ireland
+primary_keyword: online pet loss support sessions Dublin
+secondary_keywords: pet bereavement counselling online Dublin Ireland, TRACE sessions video call Ireland
+---
+
 # How to Run Online Pet Loss Support Sessions in Dublin
 
-Online sessions are not a compromise for a Dublin pet bereavement practitioner. For a significant proportion of your clients, they are the preferred format. Dublin's large tech-sector workforce is one of the most digitally comfortable populations in Europe. Combined with the inherently private and home-centred nature of grief, this makes online delivery not just viable but often optimal. This guide covers how to set up and deliver professional online pet bereavement sessions in Dublin, including platform choice, tech setup, client experience, scheduling, payments, and your obligations under GDPR.
+Dublin's tech sector has normalised online professional services in a way that benefits TRACE practitioners directly. A significant portion of the city's working population already conducts professional meetings, coaching sessions, and consultations over video as a matter of course. The idea of a structured support session delivered online raises no practical objections here.
 
-## Why Online Works Especially Well for Pet Loss Support in Dublin
-
-Pet bereavement is an emotionally private experience. Many clients feel social pressure to minimise their grief, to "move on" faster than they are ready to. Coming to a practitioner's physical premises, potentially running into neighbours or colleagues, can feel like a declaration of vulnerability that many people are not ready to make.
-
-The home environment removes that barrier. Clients can receive support from their sofa, with their surviving pet nearby, surrounded by photographs of the animal they have lost. This is not simply a convenience. For many clients working through the TRACE framework, being in the space where they lived with their animal has real therapeutic relevance, particularly in the Tell the Story and Celebrate the Life steps.
-
-Dublin's geography also makes online sessions practical. The city's traffic and public transport patterns mean that a 5pm appointment at a practitioner's office might require leaving work at 4pm. Online eliminates this entirely, opening your diary to a full professional working day's worth of clients rather than only those who can manage commute times around sessions.
-
-And online means you are not limited to Dublin. A well-marketed online practice can serve clients across Ireland, reaching grieving pet owners in Leinster, Munster, Connacht, and Ulster who have no local practitioner available to them at all.
-
-## Platform Comparison
-
-**Zoom** is the recommended platform for online pet bereavement sessions in Ireland and across Ireland more broadly. It is the most widely recognised video call platform among adults, meaning the vast majority of your clients will arrive at a session already knowing how to use it. Its waiting room feature lets you control when clients enter, giving you the professional equivalent of a reception space. Its paid plans allow you to disable local recording by default, protecting client privacy. Sessions on the free plan are limited to 40 minutes, which is insufficient for professional use. A paid plan (currently around €14/month for the Pro tier) is essential.
-
-**Microsoft Teams** is familiar to many corporate professionals in Dublin, but its interface is less suited to personal client work and it has less flexibility for independent practitioners managing their own booking and session links.
-
-**Google Meet** is free and reliable but lacks a waiting room and carries a slightly less professional signal. It is adequate in a pinch but not the first choice for a professional practice.
-
-**WhatsApp Video and FaceTime** are not appropriate for professional practice. They blur professional boundaries, are not designed for session-structured work, and are not compliant with professional data handling standards.
-
-Zoom is the right choice. Set up a dedicated paid account, use a consistent meeting link or waiting room for all sessions, and disable local recording by default.
-
-## Tech Setup for Professional Online Sessions
-
-Your tech does not need to be expensive, but it does need to be reliable and to present you as professional.
-
-**Camera.** The built-in webcam on most modern laptops is adequate. If you are working on an older machine or a desktop without a built-in camera, a dedicated USB webcam in the Logitech C920 range (around €60-€80) is a noticeable improvement in image quality.
-
-**Microphone.** Audio quality matters more than video quality in a support session. Poor audio breaks presence and trust more quickly than a slightly soft image. A USB condenser microphone (Blue Yeti or Blue Snowball, around €50-€80) or a quality headset with a dedicated microphone will transform the professionalism of your sessions. Quality in-ear headphones such as AirPods with their built-in microphones are also a substantial improvement over a laptop's built-in microphone.
-
-**Lighting.** Natural light directed at your face is ideal. A ring light behind your screen (under €30 from most electronics retailers in Dublin) solves the problem of dark evenings and north-facing rooms effectively.
-
-**Background.** A clean, neutral background is all that is needed. If your home environment does not provide this, a simple, calm virtual background on Zoom is acceptable. Avoid novelty or unprofessional backgrounds. The visual impression you create says something about your professionalism before you speak a word.
-
-**Internet connection.** A wired ethernet connection is more stable than Wi-Fi for video calls. If you must use Wi-Fi, position yourself as close to the router as possible. A minimum upload speed of 5 Mbps will support reliable video quality. Most Dublin domestic broadband packages significantly exceed this.
-
-**Environment.** Protect your sessions from interruption. Close the door, silence all devices except your computer, and ensure you will not be overheard. This is not just about professionalism. It is what allows clients to be fully present.
-
-## Managing the Client Experience Online
-
-Log in a few minutes before the session is due to begin. Check your audio and video. Have water nearby. Be present and calm in the waiting room so that when the client enters, their first impression is a practitioner who is ready.
-
-At the start of the first session with any new client, briefly explain how you work and what the session will involve. This is particularly important online, where the absence of a physical shared space means the session's structure needs to be communicated more explicitly. Confirming that you can hear each other clearly, that the client is in a private space, and that they have what they need (a glass of water, a tissue if needed) takes less than two minutes and significantly reduces the client's anxiety.
-
-Invite clients to have their surviving pets nearby if they wish. This is one of the genuine advantages of online sessions for pet bereavement work: the presence of a beloved animal can be genuinely comforting, and it also provides a natural opening to the Tell the Story step of the TRACE framework.
-
-Manage the ending of sessions carefully. Do not let the call end abruptly when the time runs out. Allow the final five minutes to bring the client back to the present, acknowledge what was covered, confirm the next step, and close the session with warmth. A well-managed ending is part of the therapeutic structure, not a nicety.
-
-## Scheduling and Payment
-
-**Calendly** is the scheduling tool used by the majority of independent wellbeing practitioners in Ireland. It integrates directly with Zoom (automatically generating a unique meeting link for each booking), with Google Calendar, and with Stripe and PayPal for payment collection. The Essential paid plan (around €10/month) provides all the features a sole practitioner needs.
-
-Set your availability windows carefully. Pet bereavement sessions are emotionally intensive for both client and practitioner. Build buffer time between sessions. Twenty minutes minimum between consecutive sessions allows you to write notes, decompress briefly, and be genuinely present for the next client rather than carrying the residue of the previous one.
-
-**Stripe** is the recommended payment processor for online bookings in Ireland. It processes EUR payments, integrates with Calendly and most website platforms, handles card payments securely, and deposits funds directly to your Irish bank account, typically within two business days. Transaction fees are approximately 1.4% plus €0.25 per European card payment.
-
-**PayPal** is widely used in Ireland and is a reasonable alternative or supplement to Stripe, particularly for clients who prefer not to enter card details into a third-party platform.
-
-**Bank transfer** remains common for professional services in Ireland. The main limitation is that it cannot be automated at the point of booking, which adds administrative friction. Many Dublin practitioners accept both bank transfer and card payment and let clients choose.
-
-Require payment in advance or at the time of booking. A clear cancellation policy, such as full payment retained for cancellations within 24 hours, protects your income and communicates professional standards from the first interaction.
-
-## Data Protection and GDPR
-
-As a practitioner based in Dublin, you process personal data under the EU General Data Protection Regulation (GDPR) and the Irish Data Protection Acts 1988 to 2018. The regulator in Ireland is the Data Protection Commission (DPC), reachable at dataprotection.ie.
-
-Your core obligations are as follows.
-
-**Register as a data controller.** If you are processing personal data in the course of a commercial activity, you must register with the DPC. Registration is done online and costs €25 per year for most small organisations.
-
-**Have a privacy notice.** Your website must include a privacy notice that clearly explains what personal data you collect from clients, your lawful basis for processing it, how long you retain it, and how clients can exercise their data subject rights (including the right to access, correct, or erase their data).
-
-**Store data securely.** Client contact details, session notes, and any other personal information must be stored securely. A password-protected folder on an encrypted device, or a reputable cloud storage service with access controls (such as a paid Google Workspace or Microsoft 365 for Business account), is appropriate for most sole practitioners.
-
-**Do not record sessions without explicit consent.** Zoom allows recording, but you must obtain explicit, informed consent from your client before recording any session. In most pet bereavement practice there is no reason to record sessions, and not recording is the simpler and more compliant approach.
-
-**Data retention.** Do not retain client records longer than necessary. A retention period in the range of five to seven years is commonly used in counselling and support practice, in line with professional body guidance. Confirm the appropriate period with the DPC guidance documentation or a data protection adviser if you are uncertain.
-
-**Cross-border data transfers.** If you use US-based tools such as Zoom, Calendly, or Stripe, you should check their data processing addenda to understand how they handle EU data. Major platforms typically maintain EU data processing agreements that are GDPR-compliant, but confirm this before use.
-
-## Frequently Asked Questions
-
-**Can I run a fully online pet bereavement practice in Dublin without offering in-person sessions?**
-Yes. Many successful practitioners operate entirely online. The TRACE framework functions equally effectively via video call as in person, and Dublin clients are comfortable with this format. Online also lets you serve clients across Ireland rather than just in your immediate area.
-
-**What should I do if a client becomes highly distressed during an online session and I am concerned for their safety?**
-Prepare for this before it arises. Confirm the client's address and phone number at the start of the first session in case you need to direct emergency services. Know the numbers for Samaritans Ireland (116 123), the HSE crisis text line, and local mental health services. Be clear in your own mind about where the boundary of your scope lies and how you would facilitate a warm handover to clinical support.
-
-**Do I need a specific room in my home to run professional online sessions legally?**
-No. You need a private, uninterrupted space, but this does not need to be a dedicated room. What is non-negotiable is that the space is private and that you will not be overheard.
-
-**Is it legal to use Zoom as a GDPR-compliant platform in Ireland?**
-Zoom maintains a Data Processing Addendum and complies with EU GDPR requirements for data transfer. Use your Zoom account settings to ensure data is processed within the EU where the option is available, and review Zoom's current GDPR documentation. This situation is straightforward for most practitioners using Zoom's standard business plans.
-
-**How do I send clients a link to their session if I use Calendly?**
-When Calendly is integrated with your Zoom account, it automatically generates a unique Zoom meeting link for each booking and includes it in the confirmation email sent to the client. You do not need to send the link manually.
+Online delivery also solves a geographic problem that is particular to Ireland. The country's relatively small population is spread across a large area. Dublin practitioners working online can reach clients in Galway, Cork, Limerick, Donegal, and rural communities throughout Ireland where specialist grief support is simply not available. That reach is one of the most meaningful things online delivery makes possible.
 
 ---
 
-Online sessions give you one of the most flexible and scalable practice formats available. Dublin's tech-comfortable, professionally mobile population is an ideal audience for online delivery, and the TRACE framework's structured, conversation-based approach translates fully and naturally to the video session format.
+## Why Online Works in Ireland
 
-Enrol in the TRACE Practitioner Certification at the Academy for Pet Loss and launch your Dublin online practice on a foundation that is professional, GDPR-compliant, and built to serve your clients wherever they are in Ireland.
+**Dublin's tech community.** The European headquarters of Google, Meta, LinkedIn, and many other major technology companies are based in Dublin. This creates a large cohort of professionals who live online, are comfortable with video sessions, and expect professional services to be available digitally. Many of these clients will seek you out online before they would ever find you through a local referral.
+
+**Rural reach.** Ireland outside the major cities has deep and significant relationships with animals, including working dogs, horses, and farm animals that rarely feature in mainstream pet bereavement services. A Dublin-based online practitioner can reach those communities without either party needing to travel.
+
+**Diaspora connections.** Ireland has a large diaspora, and many Irish people living abroad maintain strong cultural connections and may specifically seek an Irish-based practitioner when they need support. Online delivery makes that possible.
+
+---
+
+## Choosing a Platform
+
+**Zoom** is the most widely recognised option and the most familiar across all demographics. The free tier works for sessions under forty minutes. A paid subscription removes the time limit and provides a consistent meeting link.
+
+**Microsoft Teams** suits clients who already use it professionally. No download is required for guests joining through a browser.
+
+**Google Meet** requires no download and has a low barrier to entry. For less technically confident clients, it is one of the simplest options.
+
+**WhatsApp** video calling is very commonly used in Ireland and may be a practical option for clients who prefer it, though it is less professional in appearance.
+
+Whatever platform you use: a stable internet connection and good audio quality matter more than the platform itself. A USB microphone is a modest investment that makes a significant difference to how the session sounds.
+
+---
+
+## Your Professional Environment
+
+Choose a consistent, neutral background. A plain wall, a tidy bookshelf, or a window with soft natural light works well. Avoid distracting backgrounds or anything that reveals more of your home than is professional to share.
+
+Face your light source. Natural light from a window in front of you gives the best result. A small LED panel resolves poor natural light inexpensively.
+
+Reduce background noise before each session. Dublin can be lively, and Irish homes are not always quiet. A few minutes of preparation before each session communicates care to your client.
+
+---
+
+## EU GDPR
+
+Ireland operates under the EU General Data Protection Regulation (GDPR), which is enforced in Ireland by the Data Protection Commission (DPC). For most sole-trader TRACE practitioners, the practical requirements are the same as in the UK.
+
+Keep session notes in a secure location: a password-protected file on a secured device, or a locked physical folder. Notes should be brief: the session focus and key points relevant to the next session.
+
+Keep client contact details in a secured system. A password-protected spreadsheet is sufficient for most solo practices.
+
+Do not record sessions without your client's explicit, informed consent. Include a plain-English explanation of how you handle client information in your initial agreement or intake document.
+
+If your annual turnover from data processing activities is below the threshold, you may not need to register with the DPC. Check the DPC website at dataprotection.ie to confirm whether registration is required for your circumstances.
+
+---
+
+## Frequently Asked Questions
+
+**Is online TRACE as effective as in-person?**
+
+Yes. The TRACE framework is a structured conversation. Structured conversations work well over video. Dublin clients, particularly those in the tech sector and professional communities, are very comfortable with this format. Many clients find the privacy of their own home makes it easier to engage with the emotional content of the sessions.
+
+**Can I work with clients across Ireland?**
+
+Yes. Online delivery means geography is no constraint. Many Dublin practitioners work with clients across the island of Ireland. Rural clients in particular may have no local TRACE provision and will seek you out specifically because of your Dublin base and professional credentials.
+
+**Should I charge the same for online and in-person sessions?**
+
+Yes. The work is the same and the value is the same. Online delivery does not reduce what you are offering.
+
+**What if a client's technology fails?**
+
+Agree a protocol in session one: if the call drops and cannot be reconnected within five minutes, continue by phone, and carry on with the session. That agreement, made before it is needed, means a technical problem is a minor interruption.
+
+**Can I work with clients in Northern Ireland?**
+
+Yes. Online delivery crosses the border easily. Northern Ireland clients would be invoiced in sterling rather than euros, but there is no regulatory barrier to a Dublin practitioner seeing clients there. Be aware that different privacy regulatory contexts apply (UK GDPR rather than EU GDPR) for Northern Ireland clients.
+
+---
+
+## More guides for Dublin practitioners
+
+This is part of a series of guides for pet bereavement practitioners in Dublin:
+
+- [How to Set Up a Pet Bereavement Counselling Practice in Dublin](/blog/setup-pet-loss-practice-dublin)
+- [How to Advertise Your Pet Loss Practice in Dublin](/blog/advertise-pet-loss-practice-dublin)
+- [How to Price Your Pet Loss Support Sessions in Dublin](/blog/pricing-pet-loss-sessions-dublin)
+- [What to Expect as a Pet Bereavement Counsellor in Dublin](/blog/what-to-expect-pet-loss-counsellor-dublin)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Dublin](/blog/start-pet-loss-business-dublin)
+
+---
+
+## A Final Thought
+
+Ireland is a small country with a large heart and a deep relationship with animals. Online delivery means a Dublin-based TRACE practitioner can reach every corner of it. That is not a minor thing in a country where specialist support is scarce outside the cities.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the training to deliver this work with confidence, online or in person. The Core Programme is $395 and the Extended Programme is $525.
+
+Enrol at [www.academyforpetloss.com](https://www.academyforpetloss.com).
