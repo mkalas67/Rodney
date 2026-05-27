@@ -10,8 +10,8 @@ Vancouver, Melbourne, Auckland, Brisbane, Sydney, Atlanta, Toronto
 |---|---|---|
 | London | DONE | all 5 pages written |
 | Manchester | DONE | all 5 pages written |
-| Birmingham | IN PROGRESS | |
-| Edinburgh | pending | |
+| Birmingham | DONE | all 5 pages written |
+| Edinburgh | IN PROGRESS | |
 | Bristol | pending | pages 01,02,04,05 needed (03 approved) |
 | Dublin | pending | |
 | New York | pending | |
