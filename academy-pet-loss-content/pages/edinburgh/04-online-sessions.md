@@ -1,118 +1,127 @@
-# How to Run Online Pet Loss Support Sessions in Edinburgh
-
-Edinburgh is a city that supports online working particularly well. Its geography is compact, but its population is spread across distinct neighbourhoods and satellite communities, and the professional culture has fully normalised video calls for professional services since 2020. Running an online pet bereavement practice in Edinburgh means you can serve clients from Leith to Currie, from the New Town to Portobello, without either of you travelling. This guide covers everything you need to do it properly.
-
+---
+title: How to Run Online Pet Loss Support Sessions in Edinburgh
+meta_description: How to deliver TRACE pet bereavement support sessions online in Edinburgh. Platform setup, professional environment, GDPR, and reaching clients across Edinburgh and the Lothians.
+slug: online-pet-loss-sessions-edinburgh
+geo_target: Edinburgh, UK
+primary_keyword: online pet loss support sessions Edinburgh
+secondary_keywords: pet bereavement counselling online Edinburgh, TRACE sessions video call Scotland
 ---
 
-## Why Online Works Especially Well for Pet Loss Support
+# How to Run Online Pet Loss Support Sessions in Edinburgh
 
-The most important reason to work online with pet loss clients is also the most counterintuitive: the client's home is an asset, not a limitation.
+Edinburgh is compact enough that an in-person practice is genuinely feasible. Many Edinburgh TRACE practitioners do see clients face to face, and the city's size means travel is rarely the obstacle it is in larger cities.
 
-When a client sits in the room where their dog used to sleep, or at the kitchen table their cat favoured on winter mornings, they are surrounded by the textures of the relationship they are mourning. Photographs, favourite toys, the pet's blanket still in the corner: these are not distractions. They are the exact material the TRACE framework is designed to work with. Tell the Story, Recognise the Bond, and Celebrate the Life are richer when the client is in the space the animal inhabited.
+That said, online delivery opens your practice to clients across the Lothians, Fife, and the Scottish Borders who would otherwise have no local TRACE practitioner to turn to. Scotland's geography means there are communities within an hour of Edinburgh where pet bereavement support is simply not available. Online delivery changes that.
 
-Edinburgh specifically has a strong home-based culture. Many people work from home, study from home, or spend significant time in their domestic environment, and the video session has become a naturalised format. Your clients will, in the vast majority of cases, be entirely comfortable with it.
-
-From a practice management perspective, online delivery also means no room hire costs, no travel time, and the ability to see clients across a much wider geographic area. Someone in Penicuik, South Queensferry, or North Berwick can be your client without either party spending an hour in transit.
+There is also a particular advantage that is specific to this kind of work. For clients who are emotionally reserved, and many Edinburgh clients are, the privacy of their own home can make it easier to begin the TRACE journey than an unfamiliar consulting room. The screen creates a degree of protective distance that some clients, particularly in the early sessions, find useful.
 
 ---
 
 ## Choosing a Platform
 
-**Zoom** is the best choice for most pet bereavement practitioners. It is the most widely recognised video platform among the 30-65 age group that forms the core of your client base, requires no technical knowledge to join a session (clients click a link), and is stable on the broadband speeds found in Edinburgh residential areas. The free tier limits sessions to 40 minutes; the Pro plan (approximately £12/month) removes this restriction and adds a waiting room and recording capability. Recommended as the default for a new Edinburgh practice.
+The platform matters less than the stability of your connection and the quality of your audio. These are the most commonly used options.
 
-**Google Meet** is free and requires no download: clients open it in Chrome or Safari. It is slightly less feature-rich than Zoom but entirely adequate for 50-60 minute sessions. It is a good option if your clients are less technically confident, since there is no app to install. Some practitioners use it as a backup when Zoom has issues.
+**Zoom** is the most widely recognised and the most familiar to clients across all age groups. The free tier works for sessions of under forty minutes, which aligns with TRACE session length. A paid subscription removes the time limit and gives you a consistent meeting link, which is useful when sessions are scheduled close together.
 
-**Microsoft Teams** is familiar to corporate users and is pre-installed on many Windows machines. If you develop a relationship with Edinburgh-based employers who want to offer pet loss support as part of their employee wellbeing programme, Teams may be the natural choice. For a private client practice, it is more complex than necessary.
+**Microsoft Teams** is a strong option for clients who already use it professionally. It requires no additional software for guests who join through a browser. It feels formal, which can be reassuring for professional Edinburgh clients.
 
-**Doxy.me** is a healthcare-focused video platform that runs in a browser, stores no session data, and is designed for GDPR compliance by default. It includes a virtual waiting room and a clean, professional client-facing interface. The free tier is functional; Pro costs approximately $35/month. It is a reasonable choice if you plan to work alongside Edinburgh GP practices, veterinary mental health programmes, or other healthcare referral sources. In Edinburgh's clinically sophisticated professional environment, using a purpose-built healthcare platform signals additional seriousness.
+**Google Meet** works through a browser with no download required. For less technically confident clients, it is one of the lowest-barrier options available.
 
-For most practitioners starting an Edinburgh private practice: **Zoom Pro** as the primary platform, Google Meet as a free backup, Doxy.me if your referral network is clinical.
+**WhatsApp or FaceTime** are familiar and reliable for clients who prefer them, though they are less professional in presentation. They can work well for clients who find new platforms off-putting.
 
----
-
-## Setting Up Your Space
-
-How your space appears on screen communicates your professionalism before you say a word. Edinburgh clients are generally perceptive and attentive to detail; a well-composed setup matters.
-
-**Lighting.** Natural light works best, and Edinburgh offers it well for much of the year. The key is placement: the light source must face you (a window in front of you), not behind you. A window behind your head turns you into a silhouette. On darker Scottish winter days, a ring light or small LED panel (£25-£45) provides consistent, flattering illumination regardless of weather.
-
-**Audio.** Your built-in laptop microphone is adequate but a USB headset (Jabra Evolve, Logitech H390, or similar, £40-£60) eliminates ambient noise entirely and significantly improves call quality. Poor audio is the most common source of client fatigue in long video calls.
-
-**Background.** A plain wall, a simple bookshelf, or a houseplant are all appropriate. Avoid cluttered backgrounds, family photographs visible behind you, or virtual backgrounds (they shift and glitch in ways that are subtly distracting and look unprofessional). Your background should be calm and neutral. Edinburgh flats and Victorian tenements often have beautiful features (cornicing, tall skirting boards) that can serve as a warm, professional backdrop.
-
-**Privacy.** This is non-negotiable. Ensure the room cannot be entered during a session. Alert household members to your schedule. Put your phone on silent (not vibrate). A simple note on the inside of the door during sessions is good practice.
-
-**Your own presentation.** Sit back slightly from the camera so your face and upper chest are visible. Do not hunch forward. If you need to glance at notes, briefly tell the client rather than going silent. Dress as you would for an in-person professional meeting.
+Regardless of platform: a stable internet connection, ideally wired, and a good quality microphone make a significant difference to how the session feels.
 
 ---
 
-## Managing the Client Experience
+## Your Professional Environment
 
-The session itself is only part of what clients experience. How you manage every touchpoint around the session is what determines whether they return, refer others, or feel genuinely held.
+You need a consistent space that is quiet, private, and neutral in appearance.
 
-**Booking confirmation.** Send an automated confirmation email as soon as a session is booked. Include the date, time, the session link (Zoom or equivalent), a short note about what to have ready (a glass of water, tissues if they wish, no need to prepare anything else), and your cancellation policy. This email does significant emotional work: it reassures the client that they made a good decision by booking.
+Face a window so that natural light falls on your face. Sitting with a light source behind you creates a silhouette that makes it harder for clients to read your expression. If your room has poor natural light, a small LED panel resolves this inexpensively.
 
-**Opening the session.** Do not open Zoom and immediately launch into the session. Take a brief moment: "Take a moment to settle in. There's no hurry." This transition signal, even if it lasts only 15-20 seconds, marks the session as different from everything else in the client's day and invites genuine presence.
+Choose a background that is uncluttered. A plain wall, a tidy bookshelf, or a natural indoor setting works well. Avoid backgrounds that are distracting or that reveal more of your home than you want to share with clients.
 
-**The TRACE framework in an online session.** The five steps work identically online and in person. Tell the Story benefits particularly from online delivery because clients in their home environment often spontaneously gesture to places where their animal used to be, photographs on the wall, or objects nearby. These moments of physical context enrich the session in ways that a consulting room cannot replicate.
-
-**Closing.** Never end a session abruptly. Summarise one specific thing you witnessed: "Today you told me about how she used to sit outside the bathroom door every morning. That image speaks to how known you were to each other." Give the client a moment before the call ends. A warm close is disproportionately memorable.
-
-**Follow-up.** A brief email within 24 hours of each session ("Thank you for sharing your time with me today. I am here when you are ready") takes two minutes and significantly increases rebooking rates. Keep it warm and brief; do not include clinical content or session summaries in follow-up emails.
+Before each session, close windows to reduce street noise, notify others in your household that you are in a session, and put your phone on silent. These preparations take a few minutes and communicate to your client that the session is being taken seriously.
 
 ---
 
-## Scheduling and Payment Tools
+## Reaching Clients Beyond Edinburgh
 
-**Calendly** (calendly.com) is the simplest scheduling tool for a solo practice. Set your availability, share your Calendly link on your website and in emails, and clients book directly into your calendar. The free tier handles a single session type. The paid tier (approximately £10/month) allows multiple session types (single, packages, free introductory call) and integrates with payment processors.
+One of the genuine advantages of an Edinburgh-based online practice is geographic reach. The Scottish capital sits within reasonable distance of a large rural hinterland where professional wellbeing services are sparse.
 
-**Payment options for Edinburgh practitioners:**
-
-- **Stripe** integrates with Calendly and processes card payments automatically at booking. No monthly fee; approximately 1.5% + 20p per transaction. Clean and professional.
-- **PayPal** is widely trusted by clients and easy to set up with a business account. Fees are slightly higher (around 2.9% + 30p) but some clients, particularly those less comfortable with newer payment tools, prefer it.
-- **Bank transfer (BACS)** is free and straightforward. Provide your bank details in your confirmation email and invoice. Requires manual payment verification before each session, which adds a small amount of admin but costs nothing.
-
-For a new Edinburgh practice, bank transfer alongside Calendly is a workable zero-cost combination. Move to Stripe integration once you have five or more clients per week and the admin of manual verification becomes noticeable.
+Clients in East Lothian, Midlothian, the Scottish Borders, and across Fife may be looking for TRACE support and have no local practitioner. Making clear in your directory listings and website that you work with clients across Scotland, not just in Edinburgh, expands your reach significantly without adding complexity to your practice.
 
 ---
 
-## GDPR and Data Protection
+## Session Structure Online
 
-Holding client information (names, contact details, session notes) creates legal obligations under UK GDPR, which applies in Scotland exactly as it does in England and Wales.
+The five TRACE sessions follow exactly the same framework online as in person. A few practical details are worth noting.
 
-The essentials:
+Confirm at the start of each session that audio and video are working before the conversation begins. A brief check prevents technical interruptions once the session is under way.
 
-- Register with the ICO (Information Commissioner's Office) as a data controller. Annual fee is £40 for most small practitioners. Do this before your first client, not after.
-- Add a privacy policy to your website. Free templates are available on the ICO website; customise them for your practice. State what data you hold, why, how long you keep it, and how clients can request deletion.
-- Do not record sessions without explicit, documented consent. If you record for supervision purposes, store recordings on an encrypted device or a cloud service with UK data residency (Google Workspace, Microsoft OneDrive with UK settings). Delete them promptly after use.
-- Store client notes on an encrypted device or encrypted cloud storage. Do not keep notes in an unsecured email account or on a shared device.
-- Set a clear data retention period. Two years after the end of a client relationship is a common standard for non-clinical practitioners.
+Be slightly more deliberate about marking transitions between stages of the session than you might be in person. Online, physical cues are harder to read. Naming each transition clearly helps your client stay oriented within the structure.
+
+Take brief notes after each session and begin each subsequent session by connecting back to where you left off. This continuity is important in all TRACE work, and slightly more so when sessions are conducted over video.
+
+---
+
+## GDPR in Scotland
+
+UK GDPR applies in Scotland. The practical obligations for most individual TRACE practitioners are the same as elsewhere in the UK.
+
+Keep session notes in a secure location: a password-protected file on a password-protected device, or a locked physical folder. Notes should be brief: the session focus and key points relevant to the next session.
+
+Keep client contact details in a secured system. A simple spreadsheet on a password-protected laptop is sufficient for most solo practices.
+
+Do not record sessions without your client's explicit, informed consent. Include a clear, plain-English explanation of how you handle client information in your initial agreement or intake document.
+
+Most individual sole-trader practitioners do not need to register with the Information Commissioner's Office. Check the ICO website to confirm whether your circumstances require it.
 
 ---
 
 ## Frequently Asked Questions
 
-**What do I do if the video call drops mid-session in Edinburgh?**
-Agree on a protocol with clients in advance: if the call drops, wait two minutes, then both attempt to reconnect using the same link. If reconnection fails after two attempts, continue by phone until the session ends.
+**Is online TRACE as effective as in-person?**
 
-**Can I see Edinburgh clients from a co-working space or cafe?**
-No. Client confidentiality requires a private space. Co-working spaces and cafes are not suitable for pet bereavement sessions regardless of how quiet they seem.
+Yes. The TRACE framework is a structured conversation, and structured conversations work well over video. For clients who are emotionally reserved, the familiar environment of their own home can actually make it easier to engage. The quality of the work depends on the structure and the practitioner's presence, not on physical proximity.
+
+**What if the call drops mid-session?**
+
+Agree a protocol before it happens. The simplest: if the video call cannot be reconnected within five minutes, continue by phone, and reschedule the next session at the usual time and rate. That agreement, made in session one, means a technical problem is a minor interruption rather than a difficult situation.
 
 **Should I offer in-person sessions as well as online?**
-That is your choice. Many Edinburgh practitioners run entirely online practices with no loss of client satisfaction. If you prefer to offer in-person sessions, you will need either a home consulting room with a separate entrance or a hired room. The Wellbeing Centre in Edinburgh and various therapy room hire services charge approximately £15-£25 per hour.
 
-**What if a client becomes very distressed mid-session?**
-TRACE training covers this. Have crisis contact details easily accessible: Samaritans (116 123, available 24 hours), SAMH (Scottish Association for Mental Health, samh.org.uk), and the client's GP contact. Your role is compassionate structured support; for clinical crisis, you refer on.
+That is your choice. Edinburgh is small enough that in-person is logistically feasible. Some practitioners find that certain clients, particularly older clients or those who are less comfortable with video, prefer it. If you offer in-person sessions, you will need a private room: either a space in your home or a hired room at one of Edinburgh's wellbeing centres.
 
-**Does my insurance cover online sessions?**
-Confirm this with your insurer (Balens or Towergate) and specify online delivery when you take out the policy. Most specialist policies explicitly cover it, but verification is your responsibility.
+**Can I see clients across Scotland online?**
+
+Yes. Once you work online, there is no geographic limit to your practice within the UK. Many Edinburgh-based TRACE practitioners work with clients across Scotland. Rural clients in particular often have no local alternative and may seek you out specifically because of your Edinburgh base and professional profile.
+
+**Should I charge less for online sessions?**
+
+No. The work is the same, the framework is the same, and the value to your client is the same. Online delivery does not reduce the quality of what you offer. Your rate should reflect the work, not the medium.
 
 ---
 
-## Build Your Online Edinburgh Practice with TRACE
+## More guides for Edinburgh practitioners
 
-The TRACE Practitioner Programme provides the framework, credentials, and professional directory listing you need to run a credible, effective online pet bereavement practice in Edinburgh. The methodology is fully designed for online delivery, and Edinburgh's tech-comfortable, professional client base will engage with it readily.
+This is part of a series of guides for pet bereavement practitioners in Edinburgh:
 
-Enrol in the Core Programme for $395 or the Extended Programme for $525 at the Academy for Pet Loss and launch your Edinburgh online practice with the right foundation.
+- [How to Set Up a Pet Bereavement Counselling Practice in Edinburgh](/blog/setup-pet-loss-practice-edinburgh)
+- [How to Advertise Your Pet Loss Practice in Edinburgh](/blog/advertise-pet-loss-practice-edinburgh)
+- [How to Price Your Pet Loss Support Sessions in Edinburgh](/blog/pricing-pet-loss-sessions-edinburgh)
+- [What to Expect as a Pet Bereavement Counsellor in Edinburgh](/blog/what-to-expect-pet-loss-counsellor-edinburgh)
 
-**Enrol now at the Academy for Pet Loss and deliver professional pet bereavement support online to clients across Edinburgh and beyond.**
+For an overview: [Starting a Pet Bereavement Support Practice in Edinburgh](/blog/start-pet-loss-business-edinburgh)
+
+---
+
+## A Final Thought
+
+Online delivery means an Edinburgh-based TRACE practitioner can reach clients across a significant portion of Scotland. That is not a small thing. Rural Scotland has deep bonds with animals, a long tradition of loss around working and companion animals, and almost no specialist pet bereavement provision.
+
+The technology is the least interesting part of this. The work is what matters.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the training to deliver that work with confidence, online or in person. The Core Programme is $395 and the Extended Programme is $525.
+
+Enrol at [www.academyforpetloss.com](https://www.academyforpetloss.com).
