@@ -15,8 +15,8 @@ Vancouver, Melbourne, Auckland, Brisbane, Sydney, Atlanta, Toronto
 | Bristol | DONE | pages 01,02,04,05 written; 03 was approved master |
 | Dublin | DONE | all 5 pages written |
 | New York | DONE | all 5 pages written |
-| LA | IN PROGRESS | |
-| Chicago | pending | |
+| LA | DONE | all 5 pages written |
+| Chicago | IN PROGRESS | |
 | Houston | pending | |
 | Austin | pending | |
 | Seattle | pending | |
