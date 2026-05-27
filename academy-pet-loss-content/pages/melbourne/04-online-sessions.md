@@ -1,129 +1,149 @@
-# How to Run Online Pet Loss Counselling Sessions in Melbourne
+---
+title: How to Run Online Pet Loss Support Sessions in Melbourne
+meta_description: How to run online pet bereavement support sessions in Melbourne. Platform choices, setup, scheduling, payment, and privacy for certified pet loss practitioners in Victoria.
+slug: online-pet-loss-sessions-melbourne
+geo_target: Melbourne, Australia
+primary_keyword: online pet loss sessions Melbourne
+secondary_keywords: online pet bereavement counselling Melbourne, TRACE practitioner online Victoria
+---
 
-Online delivery is not a compromise for pet bereavement support. For many clients, it is the preferred format, and for Melbourne practitioners, it is the most practical way to build a scalable, sustainable practice without the overhead of a rented office space.
+# How to Run Online Pet Loss Support Sessions in Melbourne
 
-This page covers why online works particularly well for pet loss, which platforms and tools to use, how to create a professional client experience over video, and what you need to know about privacy and payment in Australia.
+If you are not particularly confident with technology, the idea of running sessions over video might feel like an obstacle. It is not. If you can join a WhatsApp video call or catch up with a friend on Facebook Messenger, you can run an online TRACE session. The skill is in the support you provide, not in the platform you use to provide it.
+
+Online delivery is not a compromise for this work. In many cases, it is actually the better option.
 
 ---
 
-## Why Online Works Especially Well for Pet Loss Support
+## Why Online Works Especially Well for This Work
 
-When someone has just lost a beloved animal companion, getting out of the house is hard. Grief does not care about the traffic on the Monash or whether there is a park nearby. The familiar surroundings of home, the presence of other pets for comfort, and the simple removal of logistical friction all make it easier for a client to show up for a session when it is online rather than in person.
+When someone is in the acute phase of pet grief, leaving the house is genuinely hard. They may be avoiding normal routines. Familiar spaces, without the animal in them, are painful. The last thing they need is a long drive or a commute to reach support.
 
-For pet loss specifically, there is also something meaningful about clients being in the space they shared with their animal. The chair their cat always sat on, the corner where the dog used to sleep, the garden where they scattered the ashes. These surroundings are not a distraction: they are part of the grief landscape, and a skilled practitioner can work with them directly during a video session.
+Being at home for a session removes that barrier entirely. More than that, being at home near the space where their pet lived can actually help the work. The chair their dog always slept on, the corner where the cat spent its afternoons, these are not distractions. They are part of the grief landscape, and a TRACE practitioner who understands this can work with them rather than around them.
 
-Melbourne's population is one of the most tech-connected in Australia. Inner-suburb and middle-ring households almost universally have fast NBN connections. Your clients will have used Zoom, Teams, or Google Meet before. The technical barrier is low.
+Melbourne's professional population is comfortable with video calls. Most of your clients will have used Zoom or similar platforms regularly since 2020. The technical barrier is genuinely low.
 
-An online practice also means you can serve clients across all of metropolitan Melbourne, including outer suburbs and the equestrian communities of the east and south-east, without anyone having to make a long commute. If you choose to, you can extend your reach across Victoria or across Australia entirely. The TRACE framework works identically whether the client is in Fitzroy or Fremantle.
-
----
-
-## Platform Comparison: What to Use
-
-**Zoom (recommended)**
-Zoom is the gold standard for professional one-to-one support sessions. The interface is familiar to most clients, the video quality is consistently good, the connection is reliable, and the free plan allows unlimited one-to-one calls (as of 2025). For group sessions, you will need a paid plan, which starts at approximately AUD $22 per month.
-
-Zoom also offers in-meeting features (chat, screen share for sharing a memorial page or a worksheet, virtual backgrounds for a professional appearance regardless of your home environment) that are genuinely useful in practice.
-
-**Google Meet**
-Google Meet is a reasonable free alternative, particularly if your clients are already in the Google ecosystem. It requires no download for clients using Chrome, which reduces setup friction. The quality is good. The main limitation is fewer in-meeting features compared to Zoom.
-
-**Microsoft Teams**
-Teams is less suited to private practice because it is primarily a workplace tool. Some clients find the interface confusing when accessed outside their employer account. Avoid it unless clients specifically request it.
-
-**Doxy.me**
-Doxy.me is designed for healthcare practitioners and includes waiting room functionality and a clean, simple interface. It is free for basic use. It does not offer features beyond a clean video call, but for some clients the healthcare context of the platform may increase comfort.
-
-**Recommendation:** Use Zoom as your primary platform. It is what most clients expect, and the free plan is sufficient for a solo practice running individual sessions.
+Running sessions online also means you are not limited to clients within reach of your home suburb. You can support people across the whole of metropolitan Melbourne, from the inner suburbs to Frankston, Sunbury, and everywhere between, without anyone needing to travel. If you choose to, you can work with clients anywhere in Victoria or anywhere in Australia.
 
 ---
 
-## Technical Setup for Professional Sessions
+## Which Platform to Use
 
-You do not need expensive equipment to run high-quality online sessions. You do need a few basics.
+**Zoom** is the right choice for most practitioners. It is the platform most clients will already know. It is reliable, the video and audio quality are consistently good, and the free plan allows unlimited one-to-one calls. For a sole practitioner running individual TRACE sessions, the free plan is entirely adequate.
 
-**Camera.** A modern laptop camera (2021 or later) is adequate. If you have an older laptop, an external webcam (Logitech C920 or similar, approximately AUD $100-$150) will noticeably improve your video quality.
+Zoom also lets you share your screen if you want to show a client something, a memorial page you are building together, for example, and virtual backgrounds are available if your home environment is not ideal.
 
-**Microphone.** Your built-in laptop microphone is usually acceptable in a quiet room. For better audio clarity and to eliminate background noise, a USB microphone or a wired headset with a microphone (AUD $40-$120) makes a real difference. Clients who can hear you clearly feel more comfortable and trusting.
+**Google Meet** is a reasonable free alternative. Clients on Chrome do not need to download anything, which reduces friction. The quality is good. It has fewer features than Zoom but is sufficient.
 
-**Lighting.** Natural light from a window facing you is ideal. If your setup does not allow this, a simple ring light (available for AUD $30-$80 on most online retailers) will make you look professional and approachable. Avoid sitting with a window or bright light source behind you: it creates a silhouette effect.
+**Doxy.me** is designed for health and wellbeing practitioners and has a clean, straightforward interface with waiting room functionality. It is free for basic use and may feel more professionally appropriate than a general-purpose platform.
 
-**Background.** A tidy, neutral background works best. A bookshelf, a plain wall, or a simple indoor plant arrangement all read as professional. Virtual backgrounds on Zoom work acceptably if your real background is unsuitable, though they can occasionally glitch.
+**Microsoft Teams** is primarily a workplace tool and can be confusing for clients who try to access it outside their employer account. It is worth avoiding for private practice.
 
-**Internet connection.** Wired Ethernet is more reliable than Wi-Fi for video calls. If you use Wi-Fi, ensure you are close to your router. Close browser tabs and background applications before a session to free up bandwidth.
-
-**Quiet space.** This sounds obvious but matters enormously for grief work. Find a private room where you will not be interrupted, where pets (if you have them) will not walk into frame unexpectedly, and where ambient noise is minimal. A "Do Not Disturb" sign on the door and a brief message to housemates or family before each session is sufficient.
+The recommendation is Zoom for simplicity and familiarity. Whatever you choose, use one platform consistently so clients know what to expect.
 
 ---
 
-## Creating a Professional Client Experience Online
+## Setting Up Your Space
 
-The warmth and professionalism of an online session comes primarily from your preparation and presence, not from the technology.
+You do not need a studio or a consulting room. You need a space that is quiet, private, and reasonably tidy. Here is what actually matters.
 
-Before the session: send a confirmation email with the Zoom link, a brief welcome note, and any intake information you need the client to provide. Let them know how long the session will run, what to expect, and how to reach you if they have connection trouble.
+**Lighting.** Natural light from a window facing you is ideal. If your setup does not allow this, a simple ring light, available online for around AUD $30 to $80, will make a real difference. Avoid sitting with a bright window behind you, as this creates a silhouette effect.
 
-At the start of the session: spend the first two minutes on logistics. Is the sound good? Can you both see and hear each other? Is the client in a comfortable, private space? These brief checks create safety and remove the awkwardness of technical issues arising mid-session.
+**Audio.** Your built-in laptop microphone is adequate in a quiet room. A wired headset or a simple USB microphone, around AUD $40 to $80, will improve your audio quality and help your client feel heard clearly. Good audio matters more than most people realise in grief conversations.
 
-During the session: maintain eye contact by looking at your camera rather than the screen. It feels unnatural at first but reads as attentive presence to the client. Keep your body language open. Nod, use verbal acknowledgements, and allow silences. Grief sessions online carry the same emotional weight as in-person ones.
+**Camera.** A modern laptop camera is sufficient. If yours is older and low quality, an external webcam (Logitech C920 or similar) costs around AUD $100 to $150 and noticeably improves your image.
 
-At the end of the session: summarise the key themes, agree on any follow-up (a memorial page, a reflection exercise, the next session date), and close warmly. Send a brief follow-up message within a few hours if the session was particularly emotional: a one-line check-in shows care.
+**Background.** A tidy, neutral background works well. A plain wall, a bookshelf, or a simple indoor plant reads as warm and professional. Virtual backgrounds are an option if needed, though they can occasionally glitch.
 
----
-
-## Scheduling and Payment in Australia
-
-**Scheduling.** Acuity Scheduling and Calendly both integrate with Zoom to generate automatic meeting links when a booking is confirmed. Clients can book at a time that suits them without back-and-forth emails. Both have free plans adequate for a solo practitioner.
-
-Set your available hours in your scheduling tool and block any times you need for admin, preparation, or self-care (see the What to Expect page for why this matters). Avoid leaving your calendar perpetually open: defined availability communicates that your time is structured and valuable.
-
-**Payment.** The most common payment methods in Australian private practice are:
-
-- **Bank transfer (direct bank payment):** Simple, no fees, and very familiar to Australian clients. You provide your BSB and account number; clients transfer before or at the time of the session. The main limitation is that you need to check manually that payment has cleared.
-
-- **Stripe:** The most professional option for a growing practice. Stripe allows you to send payment links, set up packages, and accept credit and debit cards. Fees are approximately 1.7% plus AUD $0.30 per transaction for Australian cards. Stripe integrates directly with Acuity and Calendly, so payment can be required at the time of booking.
-
-- **PayPal:** Widely familiar to Australian clients. Fees are higher than Stripe (approximately 2.6% plus a fixed fee). Useful as a secondary option if clients prefer it.
-
-Most established practitioners use Stripe as their primary payment method, with bank transfer as an alternative for clients who prefer it.
+**Quiet.** Let anyone in your home know you are in a session. Close the door. A short notification to housemates or family before each session is enough. Grief conversations deserve genuine quiet.
 
 ---
 
-## Privacy, Confidentiality, and the Australian Privacy Act
+## The Client Experience
 
-Pet loss counselling is not a health service as defined under the Australian Privacy Act 1988. This means you are not subject to the same mandatory requirements as registered health practitioners. However, following the spirit of privacy best practice is both professionally appropriate and a strong signal of trustworthiness.
+How you manage the session from the client's perspective shapes how much they trust you and how much they benefit from the work.
 
-In practical terms:
-- Do not record sessions without explicit written consent from the client
-- Store any notes or intake forms securely (a password-protected document rather than unsecured notes)
-- Do not share client information with third parties without consent
-- Use a professional email address rather than a personal one for client communication
-- If you use cloud storage for client documents, use a reputable provider with strong privacy settings
+Before the session: send a confirmation email with the Zoom link, a brief welcome note, and any intake details you need in advance. Let the client know what to expect from the first session and how to reach you if they have connection trouble.
 
-A simple one-page privacy statement on your website, describing how you handle client information, meets the expectations of Melbourne's professional client base and builds confidence in your practice.
+At the start of the session: take the first couple of minutes on logistics. Can you both see and hear each other clearly? Is the client in a private, comfortable space? These brief checks settle nerves and remove the awkwardness of technical issues arising mid-conversation.
+
+During the session: look at your camera rather than the screen. This feels unnatural at first, but it reads as eye contact to your client. Keep your body language open and your movements still. Nod, use short verbal acknowledgements, and allow pauses. Silence in grief work is not emptiness. It is often where the important things happen.
+
+After the session: follow up with a brief message within a few hours if the session was particularly heavy. A single sentence checking in shows care and costs almost nothing.
+
+---
+
+## Scheduling and Payment
+
+**Scheduling.** Calendly and Acuity Scheduling both integrate with Zoom to generate automatic meeting links when a booking is confirmed. Clients can choose a time without back-and-forth emails. Both have free plans adequate for a sole practitioner. Set your available hours and stick to them. Defined availability signals that your time is structured and valued.
+
+**Payment.** The most common methods in Australian private practice are bank transfer (direct bank payment), Stripe, and PayPal.
+
+Bank transfer is straightforward and familiar to Australian clients. You provide your BSB and account number, and clients transfer before or at the time of the session.
+
+Stripe integrates directly with Calendly and Acuity, so you can require payment at booking. Transaction fees are approximately 1.7% plus AUD $0.30 for Australian cards. This is the most professional option for a growing practice.
+
+PayPal is familiar to most Australians and is a reasonable secondary option. Fees are slightly higher than Stripe.
+
+Most established practitioners use Stripe as their primary method, with bank transfer available for clients who prefer it.
+
+---
+
+## Privacy and the Australian Privacy Act
+
+Pet loss support is not a registered health service under the Australian Privacy Act 1988, so you are not subject to the same mandatory requirements as registered health practitioners. Following sensible privacy practices is both professionally appropriate and a strong signal of trustworthiness to Melbourne clients.
+
+In practical terms, this means: do not record sessions without explicit consent from the client; keep any notes or intake forms in a password-protected document or file; do not share client information with anyone without consent; use a professional email address for all client communication; if you use cloud storage for client records, use a reputable provider with strong privacy settings.
+
+A brief privacy statement on your website, explaining clearly how you handle client information, is appropriate and builds confidence.
 
 ---
 
 ## Frequently Asked Questions
 
-**Can I run sessions from a home office?**
-Yes. Most Melbourne pet bereavement counsellors operate from home. A quiet, private, professional-looking space is all you need.
+**Can I run sessions from a home office in Melbourne?**
+
+Yes. Most certified pet loss practitioners in Melbourne operate from home. A quiet, private, reasonably tidy space is all you need. You do not need a consulting room.
 
 **What if the client has a poor internet connection?**
-Switch to a phone call if the connection drops below usable quality. Have the client's phone number before every session. A grief support session conducted by phone is entirely workable.
 
-**Do I need to declare online income differently for tax?**
-No. Income from online sessions is treated the same as income from in-person sessions for Australian tax purposes. Declare it as business income on your tax return. Keep records of all payments received.
+Switch to a phone call. Have the client's phone number before every session. A TRACE session conducted by voice call, without video, works perfectly well. The conversation is what matters.
 
-**Is it safe to offer online sessions to clients who are in acute distress?**
-For most clients in grief, yes. However, know your limits. If a client presents with what appears to be clinical depression, suicidal ideation, or a mental health crisis that requires clinical intervention, have a clear referral pathway ready and provide it. Your role is grief support, not clinical mental health management.
+**Is it appropriate to work online with clients who are deeply distressed?**
 
-**Can I work with clients interstate or internationally?**
-Yes. TRACE certification allows you to practise globally. For clients outside Australia, billing in AUD or USD is straightforward, and timezone management is easily handled through your scheduling tool.
+For most clients experiencing pet grief, yes. However, know your limits. If a client presents with signs of clinical distress, suicidal ideation, or anything that goes beyond pet bereavement, have a clear referral pathway ready and use it. Your role is structured grief support, not clinical mental health management.
+
+**Do I need to pay for a Zoom subscription?**
+
+The free Zoom plan allows unlimited one-to-one calls, which covers individual TRACE sessions entirely. You would only need a paid plan if you run group sessions, which have a 40-minute limit on the free tier.
+
+**Can I work with clients outside Melbourne?**
+
+Yes. There is no geographic restriction on online TRACE sessions. You can support clients anywhere in Victoria, anywhere in Australia, or anywhere in the world. Managing time zones is straightforward through any scheduling tool.
+
+**What should I do if a client's connection drops mid-session?**
+
+Stay calm, wait a minute, then call or message them. Start again from where you were. Brief technical disruptions do not derail grief sessions. Your composure in that moment is itself reassuring.
 
 ---
 
-## Start Seeing Clients Online: Enrol in TRACE Today
+## More guides for Melbourne practitioners
 
-An online practice means lower overheads, greater geographic reach, and a client experience tailored to the reality of grief. The TRACE Practitioner Certification gives you the framework to deliver that experience confidently and professionally.
+This is part of a series of guides for pet bereavement practitioners in Melbourne:
 
-Enrol in the Core Programme at the Academy for Pet Loss for USD $395 and begin building your Melbourne-based, online-ready practice.
+- [How to Set Up a Pet Bereavement Support Practice in Melbourne](/blog/setup-pet-loss-practice-melbourne)
+- [How to Advertise Your Pet Loss Practice in Melbourne](/blog/advertise-pet-loss-practice-melbourne)
+- [How to Price Your Pet Loss Sessions in Melbourne](/blog/pricing-pet-loss-sessions-melbourne)
+- [What to Expect as a Pet Bereavement Counsellor in Melbourne](/blog/what-to-expect-pet-loss-counsellor-melbourne)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Melbourne](/blog/start-pet-loss-business-melbourne)
+
+---
+
+## A Final Note
+
+The TRACE training covers the practical side of setting up for online sessions in more detail, including guidance on privacy, intake processes, and client management. You do not need to have figured all of this out before you begin.
+
+The Core Programme is $395 and the Extended Programme is $525, both from the Academy for Pet Loss. Self-paced, designed to fit around your existing life, and ready when you are.
+
+Visit [www.academyforpetloss.com](https://www.academyforpetloss.com) to find out more.

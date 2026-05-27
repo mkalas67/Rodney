@@ -1,117 +1,255 @@
+---
+title: How to Price Your Pet Loss Support Sessions in Austin
+meta_description: How to price TRACE pet bereavement support sessions in Austin, TX. Package vs per-session rates, local pricing ranges, and why charging properly helps your clients.
+slug: pricing-pet-loss-sessions-austin
+geo_target: Austin, TX, USA
+primary_keyword: pet loss counseling prices Austin
+secondary_keywords: pet bereavement support cost Austin, TRACE practitioner pricing Texas
+---
+
 # How to Price Your Pet Loss Support Sessions in Austin
 
-Setting your rates as a pet bereavement support practitioner in Austin requires understanding the local market, the perceived value of specialist emotional support, and the income goals you are working toward. This page gives you concrete numbers for Austin, explains how different session structures work, and walks through realistic income scenarios so you can make informed decisions from the start.
+Most people who come to this work do not come to it through ambition.
+They come because they understand what it is to lose an animal, and
+they want to be there for someone else going through the same thing.
+That is a genuinely good motivation. It is also, sometimes, the reason
+pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of
+someone's grief," this page is written for you.
 
 ---
 
-## Understanding the Austin Market
+## Why Pricing Feels Difficult
 
-Austin's cost of living and household income have risen sharply over the past decade. The city now sits firmly in the upper tier of US cities for professional service rates. Clients paying for a personal trainer, a health coach, or a massage therapist in Austin expect to pay $80-$150 per hour, and those services are not addressing grief.
+The discomfort most new practitioners feel around charging is not about
+greed. It is about doubt. The question underneath it is: am I actually
+giving them enough to justify this?
 
-Pet loss support is a specialist service. It addresses real emotional pain at a vulnerable moment. Clients who seek you out are not price-shopping in the way they might shop for a gym membership. They are looking for someone they can trust who clearly knows what they are doing. A rate that is too low can actually reduce confidence rather than increase accessibility.
+The answer lies in what you are actually delivering.
 
-The Austin market also skews toward younger professionals who are accustomed to paying for quality services, particularly those that feel personalized and emotionally intelligent. The "Keep Austin Weird" ethos extends to a genuine openness to non-traditional, holistic, and alternative approaches to wellbeing. Pet bereavement support fits that cultural frame very naturally.
+TRACE is not a conversation. It is a structured, five-session programme
+grounded in established grief theory. Each session has a specific
+purpose. Each stage builds on the last. Your client is not paying for
+your time or your company, though both matter. They are paying for a
+defined process that helps them move through their grief with structure
+and intention.
 
----
+That is worth a professional fee.
 
-## Recommended Rate Ranges in Austin
-
-**Early in practice ($90-$150 per session):**
-When you are building your first few clients, your rate should reflect your certification and training while leaving room to grow. A starting rate of $90-$120 for a single session is appropriate for most Austin practitioners. This is below the local mental health therapy rate ($150-$250 per session for licensed counselors) and reflects the non-clinical nature of your work, while still communicating professionalism.
-
-**Established practice ($130-$180 per session):**
-Once you have completed 20-30 sessions, have positive reviews or testimonials, and have a clear niche and method, move your rates to the $130-$180 range. At this level you are in line with health coaches and specialist wellness practitioners in Austin. Some practitioners with strong positioning and a full client load charge above $180.
-
-There is no rule that requires you to start low and raise rates gradually. If you are confident, have completed the TRACE programme, and have a professional online presence, starting at $120-$130 is entirely defensible.
-
----
-
-## Session Structures
-
-How you package your sessions affects both your income and the client experience. Consider the following structures.
-
-**Single sessions ($90-$150):** Appropriate for clients who are not sure what they need or who are at a specific acute moment in their grief, such as the days immediately following a pet's death. A single session allows them to access support without committing to a programme.
-
-**Session packages (3 or 5 sessions):** Bundling sessions at a slight discount encourages commitment and gives you more predictable income. A three-session package at $310-$390 (at $105-$130 per session) or a five-session package at $475-$625 is common. Clients also tend to experience better outcomes from structured work over several sessions rather than a single visit.
-
-**Ongoing monthly support:** Some clients need ongoing check-ins, particularly in the weeks and months after loss. A monthly rate for two sessions per month (for example, $220-$300 per month) creates recurring income.
-
-**Corporate or organizational sessions:** Austin's large employer base includes companies where many staff members are remote or work in pet-friendly offices. Offering a single session as an employee benefit, or a short group workshop for a team, is a growing niche. Rates for these engagements are typically $200-$400 per event depending on group size.
+When you charge an appropriate amount, you are doing something more
+than collecting payment. You are signaling to your client that this
+is real work, with real value. That signal matters. It helps them
+arrive properly, take the sessions seriously, and actually benefit
+from the process. Charging less does not make you more generous. It
+makes the whole thing feel less serious, and your client deserves
+better than that. The fee is part of the trust.
 
 ---
 
-## Memorial Pages
+## TRACE Is a Programme, Not an Open-Ended Service
 
-The TRACE Core Programme includes the ability to offer up to ten memorial pages to clients. These are hosted on the Academy for Pet Loss platform for three years. You set the price yourself.
+This is important to understand before you set any price.
 
-The most common rate is $99 per page. A memorial page provides a lasting digital tribute to the animal: a place for the family to save photographs, write about their pet's life, and return to in the months after loss.
+General grief therapists often charge by the hour. That makes sense
+for their work, because it is open-ended. They do not know how many
+sessions a client will need, or where the conversations will go.
+The hourly rate reflects that uncertainty.
 
-Memorial pages have a high perceived value at the moment of acute grief. Many clients will say yes without hesitation. Ten pages at $99 is $990 in additional income, and that is only your initial allocation. Pages are available for purchase beyond the first ten.
+TRACE is different. It is a five-session programme. Each session
+corresponds to one step in the framework: Tell the Story, Recognize
+the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What
+Remains. The process has a beginning, a shape, and a defined end.
 
-This is not a replacement for session income, but it is a meaningful add-on that deepens the client relationship and provides something tangible.
+This means the right way to price it is as a package, not as an
+hourly rate multiplied by however many sessions happen to occur.
 
----
-
-## Income Potential in Austin
-
-The following scenarios are illustrative but realistic based on Austin market rates.
-
-**Part-time practice (8 sessions per month at $120 per session):**
-$960 per month, or approximately $11,500 per year, before expenses. This is a viable supplementary income for someone who is building slowly or combining practice with another role.
-
-**Growing practice (16 sessions per month at $140 per session):**
-$2,240 per month, or approximately $26,900 per year. At this level you are seeing four clients per week, which is achievable within 6-12 months of active marketing for most practitioners.
-
-**Established practice (25 sessions per month at $160 per session):**
-$4,000 per month, or approximately $48,000 per year. This is a full-time income by most Austin standards, particularly with no state income tax. If you add memorial pages ($500-$1,000 per year), packages that improve your effective hourly rate, and occasional group or corporate work, you move past $50,000.
-
-These scenarios assume individual sessions only. Practitioners who add packages, memorial pages, and group work typically earn meaningfully more per client served.
+Each session runs for forty to fifty minutes. This is intentional.
+Each session has one specific focus, and that focus does not require
+a full clinical hour. Forty-five minutes of structured, purposeful
+conversation on one stage of the journey is enough. In practice,
+it is often more effective than a longer session that loses its thread.
 
 ---
 
-## When to Raise Your Prices
+## The Pricing Model We Recommend
 
-The clearest signal to raise your rates is a full or near-full schedule. If you are booking out two or more weeks in advance and regularly declining new clients, your rates are below market. Raise them.
+Offer both options and be clear about the difference between them.
 
-Other signals to raise rates: you have completed the Extended TRACE Programme and have a broader skill set; you have established referral relationships with veterinary practices that generate consistent inbound; you have strong testimonials or case studies; you have been practicing for more than 12 months.
+**Per-session rate**
 
-Never apologize for your rates. A concise, confident statement of your fee communicates professionalism. Most clients who are ready to book will not negotiate.
+A single session for clients who are cautious, or who want to
+experience the first session before committing to the full programme.
+Set this at your full rate. In Austin, that currently sits between
+$90 and $150 per session for a newly certified practitioner.
+
+**Five-session package**
+
+Price this at roughly sixty to eighty percent of what five individual
+sessions would cost. At $120 per session, five sessions individually
+would total $600. A package price of $360 to $480 represents a
+meaningful saving and reflects the reality that the programme is
+designed to be taken as a whole.
+
+**Why the package matters**
+
+Someone who has committed to the complete journey is far more likely
+to complete it and benefit from it. Each session builds on the
+previous one. A client who stops after two sessions has not had half
+the experience; they have had an incomplete one. Being clear from the
+outset that TRACE is a five-session programme, and pricing it
+accordingly, sets the right expectation and serves your clients well.
+
+There is no obligation to offer both options. Some practitioners
+prefer to offer only the package. Others offer the single-session
+rate for the first session and the package from session two. You
+decide what works for you and your clients.
 
 ---
 
-## Sliding Scale Considerations
+## What Austin Practitioners Charge
 
-Offering a sliding scale is a personal and ethical choice, not a business requirement. If you choose to offer one, the standard approach is to reserve a small number of sliding-scale slots (two or three per month at most) for clients who genuinely cannot access support at full rates.
+Austin has a professional, digitally confident population that is
+comfortable paying for quality services. The tech industry presence
+means many clients are used to paying for wellbeing support at
+professional rates. Holistic and alternative approaches are widely
+accepted in Austin's culture, which means a TRACE practitioner is
+entering a market that already understands non-clinical support.
 
-Be clear in how you communicate your sliding scale. A statement like "I hold a limited number of sessions each month for clients who are unable to pay my full rate, starting from $60. Please reach out to discuss availability" is honest and manageable.
+For reference, pet bereavement support practitioners in Austin
+currently tend to work within these ranges:
 
-Do not default to offering a sliding scale in response to general inquiries. Most people asking about your rates are not asking for a discount. State your fee. Let them respond.
+**Newly certified practitioners:**
+$90 to $150 per individual session
+$360 to $600 for a five-session package
+
+**Established practitioners with a local referral network:**
+$130 to $180 per individual session
+$520 to $720 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not
+set fees and does not recommend any specific rate. What you charge
+is your decision, based on your own circumstances, your confidence,
+and your read of your community.
+
+---
+
+## Memorial Pages as an Optional Addition
+
+Your TRACE certification includes ten memorial page credits on
+completion of the programme. These are digital memorial pages you
+can offer clients: a lasting, online space for the story of their
+animal, hosted for three years.
+
+How you use these is entirely your choice. Some practitioners include
+a memorial page within a package. Others offer it as an optional
+extra at the end of the programme, when the work reaches the
+Celebrate the Life stage and a memorial page becomes a natural part
+of the conversation. There is no right answer. You set the price.
 
 ---
 
 ## Frequently Asked Questions
 
-**Should I charge less than $90 per session to attract my first clients?**
-It is rarely necessary. A rate below $90 can undermine confidence in your professionalism. Instead, focus on building your referral relationships and completing your TRACE training before you begin seeing clients. That combination of preparation and credential tends to attract clients who are ready to pay a fair rate.
+**Why charge a package rate rather than an hourly rate?**
 
-**Do I charge for a discovery call?**
-Most practitioners offer a free 15-minute discovery call to allow prospective clients to ask questions and confirm fit. A 30-minute call may justify a fee of $25-$50. Keep it brief and structured.
+Because TRACE is a structured programme, not an open-ended service.
+General grief therapists charge hourly because their work does not
+follow a fixed structure and the number of sessions is unknown. TRACE
+is five sessions with a clear shape. Pricing it as a package reflects
+that honestly and helps clients commit to completing the journey,
+which is where the value lies.
 
-**Can I charge differently for online versus in-person sessions?**
-You can, though many practitioners charge the same for both. Online sessions save travel time for the client and have no overhead for you, which can actually justify the same or slightly higher rate.
+**Could the sessions turn into ongoing therapy?**
 
-**How do I handle payment?**
-Stripe, Square, and PayPal all work well for Austin practitioners. Calendly integrates payment collection into the booking flow, which makes the process simple for both you and the client.
+No, and a responsible TRACE practitioner makes that clear from the
+first session. The five-session structure is the complete programme.
+TRACE practitioners are not therapists. The training does not prepare
+practitioners to offer clinical, open-ended therapeutic support, and
+it would be wrong to present it as such. When the five sessions are
+complete, the practitioner's role within TRACE is done. If a client
+needs something more after that, the right response is a warm,
+clear referral to a qualified grief therapist or their GP.
 
-**What do I do if a client asks for a discount?**
-You are not obligated to reduce your fee. A simple response is: "My full rate is $[X]. If that is not workable for you right now, I am happy to discuss options or recommend other resources." This is warm, direct, and maintains your rates.
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest
+about that. TRACE prepares practitioners to guide clients through a
+specific, structured programme. What a client may need beyond those
+five sessions could be many things, and a TRACE practitioner is not
+trained to assess or provide it. The responsible and caring response
+is to acknowledge the limit of your role and support your client in
+finding appropriate clinical help. This is not a failure. It is
+professional integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a certified pet loss practitioner
+with the TRACE framework. That is a specific role with a specific
+scope. It does not qualify you to offer clinical therapy, psychological
+assessment, or any intervention beyond the five-session TRACE programme.
+Be clear with clients, referral partners, and anyone else about what
+you are and what you offer. This clarity protects your clients and
+protects you.
+
+**What if a client wants to stop after one or two sessions?**
+
+That is their right. You cannot and should not try to keep someone
+in a process they are not ready for. What you can do is explain
+clearly, before you begin, that each session builds on the last and
+that the value of TRACE comes from completing it. That conversation,
+early on, is usually enough. If someone still chooses to stop, wish
+them well and let them know the door is open if they want to return.
+
+**Should I charge less because this involves grief?**
+
+No. The structure of the work is what makes it valuable, and a
+professional fee reflects that. Reducing your rate does not make
+you more compassionate. It can actually make clients less likely
+to engage fully with the process, because the price carries a message
+about how seriously the work should be taken. Charge a fair rate.
+It serves your clients better than undercharging.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for
+clients in genuine financial difficulty. This is a personal decision,
+not an obligation. If you do offer reduced rates, be specific about
+what they are and how many you hold. Open-ended sliding scales can
+create unclear expectations. You are not required to offer this.
+Your own sustainability matters too.
 
 ---
 
-## Ready to Build a Practice That Pays You Well?
+## More guides for Austin practitioners
 
-The rates described on this page are achievable in Austin. The TRACE Practitioner Certificate from the Academy for Pet Loss gives you the structured framework, the professional credential, and the directory listing you need to attract clients who are ready to invest in quality support.
+This is part of a series of guides for pet bereavement practitioners
+in Austin:
 
-The Core Programme is $395. The Extended Programme is $525. Both are self-paced and available immediately.
+- [How to Set Up a Pet Bereavement Support Practice in Austin](/blog/setup-pet-loss-practice-austin)
+- [How to Advertise Your Pet Loss Practice in Austin](/blog/advertise-pet-loss-practice-austin)
+- [How to Run Online Pet Loss Sessions in Austin](/blog/online-pet-loss-sessions-austin)
+- [What to Expect as a Pet Bereavement Support Practitioner in Austin](/blog/what-to-expect-pet-loss-counsellor-austin)
 
-Visit the Academy for Pet Loss to enrol today.
+For an overview: [Starting a Pet Bereavement Support Practice in Austin](/blog/start-pet-loss-business-austin)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome
+as it is. It is the moment when someone says, for the first time,
+what their animal really meant to them, and feels genuinely heard.
+You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss
+gives you the framework, the credential, and the professional presence
+to start this work with confidence. The Core Programme is $395 and
+the Extended Programme is $525. Both are self-paced and designed to
+fit around your existing life.
+
+If this feels like the right thing for you to do, the Academy for
+Pet Loss is ready when you are.
+
+Visit [www.academyforpetloss.com](https://www.academyforpetloss.com)
+to find out more.

@@ -1,120 +1,143 @@
-# How to Set Up a Pet Bereavement Counselling Practice in Brisbane
+---
+title: How to Set Up a Pet Bereavement Support Practice in Brisbane
+meta_description: How to set up a pet bereavement support practice in Brisbane. TRACE certification, ABN registration, finding clients, and first steps for certified pet loss practitioners in Queensland.
+slug: setup-pet-loss-practice-brisbane
+geo_target: Brisbane, Australia
+primary_keyword: set up pet loss practice Brisbane
+secondary_keywords: pet bereavement support Brisbane, TRACE practitioner Queensland, certified pet loss practitioner Brisbane
+---
 
-Brisbane is one of the fastest-growing cities in Australia, and that growth is creating an outsized opportunity for practitioners in niche wellness services. Pet bereavement counselling is almost entirely absent from the Brisbane support landscape. If you are looking for a meaningful, low-overhead practice in a city that is genuinely ready for this work, the timing is right.
+# How to Set Up a Pet Bereavement Support Practice in Brisbane
 
-This page walks you through every step of setting up your practice: the business registration, the regulatory picture, the credentials you need, and how to find your first clients in Brisbane.
+Queensland is one of the most pet-connected places in Australia. The outdoor lifestyle means that dogs especially are not just household companions. They are exercise partners, social facilitators, and daily presences that shape the rhythm of a person's life. When they die, the loss is profound, and for most people in Brisbane, structured support for it essentially does not exist.
+
+That is the gap this work fills.
 
 ---
 
-## The Brisbane Market Opportunity
+## Is There a Need for This in Brisbane?
 
-Brisbane's population has grown significantly over the past decade, accelerated by interstate migration from Victoria and New South Wales. The city now has a younger demographic profile than Sydney or Melbourne, with a large proportion of working-age families and individuals who form deep bonds with their animals.
+Yes. And it is not a subtle need.
 
-Queensland's outdoor lifestyle means that dogs, in particular, are woven into daily life in ways that are almost inseparable from identity. Dog owners in Brisbane run with their dogs, kayak with them, and take them to Riverlife events along the Kangaroo Point Cliffs. When a dog dies, it is not just a pet that is lost: it is a daily companion, an exercise partner, and a social facilitator. The grief is profound, and structured support for it essentially does not exist.
+The community awareness of pet grief in Queensland has more momentum than in almost any other part of Australia, partly because of what happened in 2022. The Brisbane floods forced a city-wide confrontation with sudden, traumatic loss, including the loss of animals. Many people who lost pets during the floods found almost no support pathways at all. They turned to community Facebook groups, which are among the most active in Australia, and found each other rather than professional help. That collective experience left a lasting awareness that this kind of grief is real and that it deserves a proper response.
 
-The 2022 Brisbane floods added another layer. The disaster created a city-wide experience of sudden, traumatic loss, including the loss of animals, that left a lasting awareness of how unprepared Queensland communities are for grief support. Brisbane residents who lost pets in the floods often found no support pathways at all. Community Facebook groups, which are extremely active across Queensland, became the primary place people turned to process these losses. The conversation about pet grief in Queensland has more community momentum than almost anywhere else in Australia as a result.
+Beyond that particular history, Brisbane's rapid growth, driven significantly by people moving from Melbourne and Sydney, has brought in a large cohort of pet owners who are used to expecting a wide range of wellbeing services. The gap between that expectation and what actually exists here is one that a thoughtful, certified pet loss practitioner can begin to fill.
 
-Brisbane is also a practical, action-oriented city. Practitioners who can describe their service clearly and concisely, demonstrate that they are qualified, and offer accessible, affordable support will find a responsive market.
+Vets and their teams deal with grieving clients regularly. They often do not know what to do beyond the consultation, and many would welcome something they can offer clients after an end-of-life appointment. That opening exists in Brisbane, it is not taken by anyone, and you do not need to manufacture it.
+
+---
+
+## Who Does This Work?
+
+Two kinds of person come to TRACE certification.
+
+The first is someone with a deep affection for animals and for people. Warm, personable, with time available and a genuine desire to be useful in their community. They could use the supplementary income, but that is not the main thing. If it were mainly about the money, it would feel wrong, and they would know it. Many of these people come to this because they lost a pet themselves and wished something like this had existed. That thought, "I wish I had had this," is usually enough.
+
+The second is an existing professional. A counsellor, life coach, vet nurse, grief support worker, or similar, who wants to add a specific, structured specialisation to their existing work. They know how to introduce themselves to other practitioners and are comfortable in professional environments.
+
+Neither type is primarily commercially driven. This is not the right work for someone who wants to build a high-revenue business. It is the right work for someone who wants to do something genuinely useful for people in their community and wants to do it properly.
+
+---
+
+## What Does Getting Started Actually Involve?
+
+The starting point is TRACE certification, not a business plan.
+
+TRACE stands for Therapeutic Remembrance for Animal Companions and their Endings. It is a five-session structured programme. Each session covers one step in the framework: Tell the Story, Recognise the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What Remains. The programme is finite, with a clear shape and a defined end. That structure is not incidental. It is one of the things that makes it work.
+
+The Academy for Pet Loss offers two certification options. The Core Programme is $395 and covers six modules in self-paced video format. The Extended Programme is $525 and adds two further modules covering complex loss and widening the circle of support. Both include your TRACE Practitioner Certificate, a one-year listing in the Academy directory, and ten memorial page credits on completion.
+
+After your first year, a permanent 50% loyalty discount applies to all Academy renewals and services.
+
+You do not need a business structure in place before you start. You do not need a client list or a consulting room. The TRACE training covers the practical side of setting up your work, including guidance on taking payments, running online sessions, and questions around local registration and insurance. You do not need to have resolved any of that before you begin.
 
 ---
 
 ## Business Structure in Brisbane
 
-Setting up your practice is administratively simple. Here is what you need to do.
+Most TRACE practitioners in Queensland operate as sole traders. This is the simplest structure and is right for most people doing this work on a part-time or supplementary basis.
 
-**Register for an ABN.** An Australian Business Number is free and takes around ten minutes at abr.gov.au. You need an ABN to invoice clients, register a business name, and operate professionally as a sole trader. Most practitioners start as sole traders. There is no need to form a company in your early years.
+To operate professionally, you need an Australian Business Number (ABN). This is free and takes around fifteen minutes to apply for online through the Australian Business Register at abr.business.gov.au. Your ABN identifies you to the tax system and to clients, and you will need it to receive payments properly.
 
-**Register a business name (optional but useful).** If you want to trade under a name other than your own, register a business name through ASIC at asic.gov.au. As of 2025, this costs approximately AUD $40 per year. A name that communicates your niche immediately, such as "Brisbane Pet Loss Support" or "Healing Paws Brisbane," simplifies your marketing.
+If you want to trade under a business name rather than your own name, register that name with ASIC (the Australian Securities and Investments Commission). This costs approximately $42 per year. It is not mandatory if you practise under your own name.
 
-**Pet loss counselling is not regulated by AHPRA.** This is an important and frequently misunderstood point. The Australian Health Practitioner Regulation Agency regulates clinical health professions including psychology, occupational therapy, and nursing. Pet bereavement counselling is not a regulated health profession. You do not need an AHPRA registration, a supervised practice period, or a clinical degree.
+You are not required to form a company. For most practitioners starting out, a sole trader ABN is entirely sufficient.
 
-**Medicare and NDIS do not apply.** Pet loss support is not a Medicare-rebatable service and does not fall under NDIS funding categories. You will operate as a private-pay practitioner. Clients pay your fee directly, and you set that fee yourself.
-
-**Professional indemnity insurance.** While not legally mandated, professional indemnity insurance is prudent for any practitioner working with emotionally vulnerable clients. Several Australian insurers offer policies for coaches, counsellors, and complementary health practitioners. Annual premiums for sole traders typically start at AUD $400-$600.
-
-**Keeping records.** Maintain basic financial records for tax purposes: income received, practice expenses, ABN details. A simple spreadsheet is sufficient to start. A Queensland accountant familiar with small service businesses can handle your annual return at modest cost.
+Pet loss support does not fall under AHPRA-regulated professions (medicine, psychology, social work, nursing). The title "counsellor" is largely unregulated in Australia, but using "certified pet loss practitioner" is accurate, clear, and professionally appropriate. Pet loss support is not covered by Medicare or NDIS.
 
 ---
 
-## Credentials: What Matters in Brisbane
+## First Steps to Finding Clients in Brisbane
 
-Brisbane clients are practical. They want to know you are qualified, but they do not necessarily expect clinical credentials. What they want to know is: have you been trained in this specifically, do you have a structured approach, and are you accountable to a professional standard?
+**Local vets**
 
-A certificate from a recognised pet loss support programme answers these questions directly. It tells clients you have completed structured training in the specific nature of pet grief, that you have a framework for working with them, and that you are not simply offering sympathy without method.
+Your most important referral source. Veterinary practices across Brisbane and the Gold Coast corridor deal with grieving pet owners regularly. They often do not know what to do for a client after a difficult end-of-life appointment, and a card or leaflet they can offer is a genuine help, not an imposition.
 
-General coaching or life counselling certificates are helpful background but are not a substitute for a pet-loss-specific credential. Clients who find you for pet loss support want a specialist, and your certification should reflect that.
+The approach is direct. Introduce yourself as a certified pet loss practitioner, explain briefly what TRACE-based support involves, and ask about the process for placing materials in the practice. Most practices have a process for this. You are offering something that helps their clients. That framing, rather than asking for a favour, usually gets a good response.
 
----
+**RSPCA Queensland and welfare organisations**
 
-## TRACE Certification: The Academy for Pet Loss
+RSPCA Queensland operates extensively across the state. Brisbane Animal Care and Protection Society also works across the city. Both encounter pet owners in distress, around euthanasia decisions, sudden loss, and animal surrender. An introduction to the right team in either organisation is worth pursuing.
 
-The TRACE Practitioner Certification offered by the Academy for Pet Loss is the most direct path to credentialling yourself as a pet bereavement counsellor.
+**Pet cremation services**
 
-TRACE stands for Therapeutic Remembrance for Animal Companions and their Endings. The framework guides clients through five structured steps: Tell the Story, Recognise the Bond, Acknowledge the Pain, Celebrate the Life, and Embrace What Remains. It is explicitly non-clinical: approximately 97% of the work is compassionate presence and structured conversation. You do not need a clinical background to practise it effectively.
+Queensland Pet Cremation and Pawssum, which offers veterinary and end-of-life services, both work with families at their most acute point of grief. A simple professional introduction and a supply of cards or a referral arrangement can position you in front of people at exactly the right moment. Any referral arrangement should be transparent and consistent with good practice.
 
-The Core Programme costs USD $395 and covers six self-paced video modules. On completion, you receive a TRACE Practitioner Certificate, a one-year premium listing in the Academy's practitioner directory, and ten memorial pages to offer your clients.
+**PetBarn Queensland**
 
-The Extended Programme costs USD $525 and covers eight modules with additional depth.
+PetBarn locations are high-traffic community touchpoints. Connecting with store community coordinators raises awareness among a broad pet-owning audience without requiring the more formal process of a clinical referral relationship.
 
-After your first year, you receive a permanent 50% loyalty discount on all renewals, which means the ongoing cost of maintaining your certification and directory listing is minimal.
+**Other placement**
 
-The self-paced format is well-suited to Brisbane's busy professionals and career-changers. You can complete the programme alongside existing work and take your first clients before you have finished the final module.
-
----
-
-## Professional Presence
-
-Before you approach your first client, you need a minimum viable professional presence that signals credibility.
-
-A simple website with a clear description of your service, your TRACE credentials, session pricing, and a contact or booking form is sufficient. Squarespace, Wix, and Showit are all popular, affordable platforms for sole practitioners. You do not need anything elaborate.
-
-Your Academy for Pet Loss directory listing begins generating visibility from day one of premium enrolment. For many new practitioners, this is the fastest way to appear in search results for pet bereavement support in Queensland before your own website has accumulated any search authority.
-
-A professional email address (yourname@yourpractice.com.au) costs very little through Google Workspace or Microsoft 365 and is a meaningful signal of credibility compared to a Gmail address.
-
----
-
-## Getting Your First Clients in Brisbane
-
-Your first clients are almost certainly going to come through your local network and through the referral relationships you build with veterinary and animal welfare organisations.
-
-**Veterinary practices** are your most important referral source. Brisbane's suburban vet practices, as well as those along the Gold Coast corridor, see bereaved clients regularly, particularly around end-of-life decisions, sudden deaths, and long-term illness outcomes. A warm, professional letter of introduction with a brief explanation of your service and a small supply of business cards is an effective opening. Visit in person where possible, and ask whether the practice manager would be open to putting your card on their referral board.
-
-**RSPCA Queensland** operates extensively across the state. Their staff and volunteers encounter pet loss, surrender grief, and end-of-life situations daily. An introduction to the community education or regional volunteer coordination team is worth pursuing.
-
-**Brisbane Animal Care and Protection Society (BACPS)** works with pet owners across Brisbane. Staff and volunteers here regularly encounter people in distress around animal welfare decisions, including euthanasia and sudden loss.
-
-**PetBarn Queensland** locations are high-traffic community touchpoints. While retail partnerships differ from clinical referral relationships, building a connection with store managers and community coordinators can generate awareness among a large pet-owning audience.
-
-**Queensland Pet Cremation and Pawssum** both work with families at the point of acute loss. A professional introduction and a small supply of cards or a QR code card with these providers positions you directly in front of people who need you at exactly the right moment.
-
-**Queensland emergency services and community groups.** The 2022 Brisbane floods created a significant community awareness of sudden, traumatic pet loss. Emergency services staff, SES volunteers, and community Facebook groups that formed during and after the floods are all appropriate points of outreach. Frame your introduction around the specific experience of sudden loss and the unique grief it carries.
+Pet shops, grooming salons, dog walkers, and supermarket community boards in residential areas are all appropriate. Queensland's outdoor and community culture means that pet owners are well connected in local networks, and a well-placed leaflet can travel further than it would in a more anonymous urban environment.
 
 ---
 
 ## Frequently Asked Questions
 
-**Do I need a counselling degree or psychology qualification to practise as a pet bereavement counsellor in Brisbane?**
-No. Pet bereavement counselling is not regulated by AHPRA and is not a clinical health profession. A certificate in pet loss support, combined with the TRACE framework, is sufficient to practise professionally.
+**Do I need any existing qualifications to become a certified pet loss practitioner in Brisbane?**
 
-**Is pet loss counselling covered by Medicare or NDIS in Queensland?**
-No. Pet loss support is not a Medicare-rebatable service and is not within NDIS funding parameters. Clients pay out of pocket at your own set rates.
+No. The TRACE certification is open to anyone. You do not need a background in counselling, psychology, or veterinary medicine. What matters is that you have the right disposition for this work: warmth, the ability to listen without needing to fix, and genuine care for both animals and people.
 
-**How long does it take to get started?**
-With an ABN registered and your TRACE certification in progress, you can begin taking initial clients within four to six weeks. Many practitioners take their first client before completing the final module, offering a reduced introductory rate.
+**Is pet loss support regulated in Queensland?**
 
-**Can I practise online from Brisbane and serve clients across Queensland?**
-Yes. Online sessions work extremely well for pet bereavement support, and Brisbane's growing, tech-connected population is comfortable with video calls. An online practice also lets you reach clients in regional Queensland where specialist support is even harder to find.
+No. Pet loss support does not fall under AHPRA-regulated professions. The same regulatory picture applies across all of Australia. Using "certified pet loss practitioner" is the accurate and appropriate title.
 
-**What if I have no prior experience with grief support?**
-The TRACE programme is designed precisely for practitioners without clinical backgrounds. The five-step framework provides a clear structure for every session, so you always know what you are doing and why.
+**Do I need a consulting room?**
+
+Not necessarily. Many TRACE sessions are conducted online, and online delivery often works especially well for this type of support. The client is at home, near the space where their pet lived, which can actually help the process. If you do see clients in person, a quiet, private space is what matters.
+
+**How long does TRACE certification take?**
+
+The training is self-paced. Most practitioners complete the Core Programme over a few weeks, fitting it around existing commitments.
+
+**Is this a full-time career?**
+
+For most practitioners, no, at least not at first. A realistic picture is a part-time supplementary practice that fits around your existing life. Pets have long, mostly happy lives. This will not be a relentless caseload. That is reassuring, not a warning. The work grows slowly and organically, which is the right shape for it.
+
+**Will I need insurance?**
+
+Professional indemnity insurance is strongly recommended. The TRACE training covers guidance on insurance options appropriate for practitioners in Australia. You do not need to arrange this before you start.
 
 ---
 
-## Start Your Practice: Enrol in TRACE Today
+## More guides for Brisbane practitioners
 
-Brisbane's pet bereavement support gap is real and growing. The market is young, the competition is minimal, and the community is ready. What you need is a structured framework and the confidence to begin.
+This is part of a series of guides for pet bereavement practitioners in Brisbane:
 
-Enrol in the TRACE Practitioner Certification at the Academy for Pet Loss. The Core Programme is USD $395 and includes everything you need: certification, a premium directory listing, and ten memorial pages to offer your clients.
+- [How to Advertise Your Pet Loss Practice in Brisbane](/blog/advertise-pet-loss-practice-brisbane)
+- [How to Price Your Pet Loss Sessions in Brisbane](/blog/pricing-pet-loss-sessions-brisbane)
+- [How to Run Online Pet Loss Sessions in Brisbane](/blog/online-pet-loss-sessions-brisbane)
+- [What to Expect as a Pet Bereavement Counsellor in Brisbane](/blog/what-to-expect-pet-loss-counsellor-brisbane)
 
-Visit the Academy for Pet Loss to enrol today.
+For an overview: [Starting a Pet Bereavement Support Practice in Brisbane](/blog/start-pet-loss-business-brisbane)
+
+---
+
+## A Note to Close
+
+Most people who do this work say the same thing at some point: that they wish something like it had existed when they needed it. That is the most honest reason to do it, and it is also the most reliable foundation for doing it well.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the structure, the credential, and the professional standing to begin. The Core Programme is $395 and the Extended Programme is $525. Both are self-paced and designed to fit around your existing life.
+
+If this feels like the right thing to do, visit [www.academyforpetloss.com](https://www.academyforpetloss.com) to find out more.

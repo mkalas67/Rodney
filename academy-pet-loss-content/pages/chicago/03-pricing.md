@@ -1,126 +1,258 @@
+---
+title: How to Price Your Pet Loss Support Sessions in Chicago
+meta_description: How to price TRACE pet bereavement support sessions in Chicago. Package vs per-session pricing, local USD rates, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-chicago
+geo_target: Chicago, IL, USA
+primary_keyword: pet loss support prices Chicago
+secondary_keywords: pet bereavement session cost Chicago, TRACE practitioner pricing Illinois
+---
+
 # How to Price Your Pet Loss Support Sessions in Chicago
 
-Pricing your services is one of the most practical decisions you will make as a pet bereavement practitioner, and it is one that most new practitioners get wrong, not by charging too much, but by charging too little. This page breaks down the real market rates for pet loss support in Chicago, what different session structures look like in practice, how memorial pages add a second revenue stream, and what realistic income looks like at different stages of your practice. All figures are in USD.
+Most people who come to this work do not come to it through ambition.
+They come because they understand what it is to lose an animal, and
+they want to be there for someone else going through the same thing.
+That is a genuinely good motivation. It is also, sometimes, the reason
+pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of
+someone's grief," this page is written for you.
 
 ---
 
-## Understanding the Chicago Market
+## Why Pricing Feels Difficult
 
-Chicago is one of the most economically stratified cities in the United States. The professional and white-collar population, particularly in the North Side neighbourhoods of Lincoln Park, Lakeview, Wicker Park, Andersonville, and the downtown area, commands some of the highest income levels in the Midwest. These clients are accustomed to paying professional rates for quality services and will judge low pricing as a signal of low quality.
+The discomfort most new practitioners feel around charging is not
+about greed. It is about doubt. The question underneath it is: am I
+actually giving them enough to justify this?
 
-That said, Chicago also has a wide range of income levels, particularly on the South and West Sides, and a practitioner who wants to serve all of Chicago will need to think carefully about pricing structure. A tiered model or a sliding scale (discussed later) allows you to serve both markets without underselling your worth to those who can afford full rates.
+The answer lies in what you are actually delivering.
 
-Wellness and coaching services in Chicago generally run between $100 and $250 per hour depending on specialism, credential level, and market positioning. Pet loss support sits comfortably in the lower-to-middle range of that spectrum, which makes it accessible while still being financially viable.
+TRACE is not a conversation. It is a structured, five-session program
+grounded in established grief theory. Each session has a specific
+purpose. Each stage builds on the last. Your client is not paying for
+your time or your company, though both matter. They are paying for a
+defined process that helps them move through their grief with structure
+and intention.
 
----
+That is worth a professional fee.
 
-## Market Rates for Pet Loss Support in Chicago
-
-**Early-stage practice (your first six to twelve months):** $100 to $160 per session.
-
-Starting in this range is appropriate while you are building your client base, gathering testimonials, and refining your TRACE practice. It is not a charity rate. A 60-minute session at $120 in Chicago is a fair and professional fee for a certified practitioner. Do not start below $100 for a standard session. Pricing below that level makes it difficult to sustain your practice and can inadvertently signal low quality.
-
-**Established practice (twelve months onward):** $140 to $200 per session.
-
-Once you have testimonials, a strong directory listing, a visible referral network, and consistent client flow, raising your rates is appropriate. Many established Chicago practitioners charge $160 to $180 as their standard rate and reserve the $140 level for sliding scale spots. Practitioners with additional credentials, therapy training, or specialist skills (such as equine or exotic animal loss) can sit toward or above the $200 mark.
-
----
-
-## Session Structures and Formats
-
-**Single sessions.** A 60-minute individual session is the most common format. This is the entry point for most new clients, often booked as a first conversation to see whether the support feels right for them. Price range: $100 to $160 early stage, $140 to $200 established.
-
-**Session packages.** Offering a three-session or five-session package at a modest discount (typically 10% to 15%) encourages clients to commit to the full arc of structured TRACE support and provides you with more predictable revenue. A three-session package at $120 per session might be priced at $330 rather than $360. Five sessions at $150 might be offered as a $675 package rather than $750.
-
-**Memorial and tribute sessions.** A structured 90-minute session focused entirely on the Celebrate the Life and Embrace What Remains steps, producing a written tribute or the content for a memorial page. These can be priced slightly higher, $160 to $200, because they deliver a tangible output as well as emotional support.
-
-**Group sessions.** Small online group sessions for Chicago pet owners can be priced at $35 to $60 per participant. Groups of four to six people allow you to serve more clients per hour while keeping each individual's cost lower. These work well for community events, grief groups attached to shelters or vet clinics, and themed sessions such as holiday grief support.
+When you charge an appropriate amount, you are doing something more
+than collecting payment. You are signaling to your client that this
+is real work, with real value. That signal matters. It helps them
+arrive prepared, take the sessions seriously, and actually benefit
+from the process. Charging less does not make you more generous. It
+makes the whole thing feel less serious, and your client deserves
+better than that. The fee is part of the trust.
 
 ---
 
-## Memorial Pages: A Second Revenue Stream
+## TRACE Is a Program, Not an Open-Ended Service
 
-Your TRACE certification includes 10 memorial pages on completion. These are professionally hosted online memorials that clients can use to honour their animal companions. The Academy for Pet Loss hosts the pages for three years.
+This is important to understand before you set any price.
 
-You set your own price for these pages. The standard market rate is $99 per page, but practitioners typically charge anywhere from $75 to $150 depending on how they position the service. Memorial pages are most naturally offered as an add-on to a session package or a tribute session. A client who has completed three sessions with you and has a rich record of their animal's life is an ideal candidate.
+General grief therapists often charge by the hour. That makes sense
+for their work, because it is open-ended. They do not know how many
+sessions a client will need, or where the conversations will go.
+The hourly rate reflects that uncertainty.
 
-Revenue from memorial pages is clean, simple, and requires almost no additional time once the client has provided content.
+TRACE is different. It is a five-session program. Each session
+corresponds to one step in the framework: Tell the Story, Recognize
+the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What
+Remains. The process has a beginning, a shape, and a defined end.
 
----
+This means the right way to price it is as a package, not as an
+hourly rate multiplied by however many sessions happen to occur.
 
-## Income Potential at Different Practice Levels
-
-The following figures are illustrative and based on a Chicago rate of $130 to $150 per session. Your actual income will depend on your rates, session format, and whether you supplement with packages and memorial pages.
-
-**Part-time practice: 5 sessions per week**
-
-- 5 sessions x $140 average = $700 per week
-- 48 working weeks per year = $33,600 gross annual revenue
-- Add 1-2 memorial pages per month: $1,200 to $2,400 additional
-- Total gross: approximately $35,000 to $36,000 per year
-
-This is a meaningful supplementary income for someone maintaining another primary role, or a realistic starting point for a practitioner building toward full-time.
-
-**Full-time practice: 10 to 15 sessions per week**
-
-- 12 sessions x $155 average = $1,860 per week
-- 48 working weeks = $89,280 gross annual revenue
-- Add 3-5 memorial pages per month: $3,600 to $6,000 additional
-- Total gross: approximately $92,000 to $95,000 per year
-
-Reaching 12 to 15 sessions per week typically takes 12 to 18 months of consistent practice building, referral development, and marketing. It is achievable in a city with Chicago's population, but it requires active effort, particularly in the first year.
-
-**Package revenue boost.** If a proportion of your clients book three-session packages, your average revenue per client increases and your booking effort per dollar earned decreases. A practice where 60% of clients book packages is both more financially stable and less demanding to maintain than one relying entirely on single-session bookings.
+Each session runs for forty to fifty minutes. This is intentional.
+Each session has one specific focus, and that focus does not require
+a full clinical hour. Forty-five minutes of structured, purposeful
+conversation on one stage of the journey is enough. In practice, it
+is often more effective than a longer session that loses its thread.
 
 ---
 
-## When to Raise Your Prices
+## The Pricing Model We Recommend
 
-Raise your rates when any two of the following are true:
+Offer both options and be clear about the difference between them.
 
-- You have a consistent waitlist or frequently turn away new clients
-- You have five or more testimonials that speak to the quality of your support
-- You have been practising for twelve months or more
-- Your referral network is generating consistent inbound enquiries
-- Your rates have not changed since you started
+**Per-session rate**
 
-Raising rates does not require announcing it to existing clients. Apply new rates to new clients. You may choose to honour existing clients' current rate for a defined period (such as the next three months) as a loyalty gesture, but you are not obligated to do so.
+A single session for clients who are cautious, or who want to
+experience the first session before committing to the full program.
+Set this at your full rate. In Chicago, that currently sits between
+$100 and $160 per session for a newly certified practitioner.
 
-Do not apologise for your rates. Practitioners who caveat their fees with phrases like "I know it's a lot" undermine their own credibility. State your rate clearly and let the client decide.
+**Five-session package**
+
+Price this at roughly sixty to eighty percent of what five individual
+sessions would cost. At $130 per session, five sessions individually
+would total $650. A package price of $390 to $520 represents a
+meaningful saving and reflects the reality that the program is
+designed to be taken as a whole.
+
+**Why the package matters**
+
+Someone who has committed to the complete journey is far more likely
+to complete it and benefit from it. Each session builds on the
+previous one. A client who stops after two sessions has not had half
+the experience. They have had an incomplete one. Being clear from
+the outset that TRACE is a five-session program, and pricing it
+accordingly, sets the right expectation and serves your clients well.
+
+There is no obligation to offer both options. Some practitioners
+prefer to offer the package only. Others offer the single-session
+rate for the first session and the package from session two. You
+decide what works for your clients and your context.
 
 ---
 
-## Sliding Scale Pricing
+## What Chicago Practitioners Charge
 
-Offering a small number of sliding scale spots, typically two to four at any one time, allows you to serve clients in genuine financial hardship without devaluing your practice or compromising your income.
+Chicago has a professional culture that values credentials. Clients
+here, particularly in Lincoln Park, Lakeview, and the broader North
+Side, are used to paying professional rates for wellbeing services.
+They generally accept a fair rate without resistance, provided you
+present yourself clearly and can speak with confidence about what
+TRACE is and what the program involves.
 
-A sliding scale in Chicago might run from $70 to $100 per session for clients who cannot afford standard rates. Limit the number of sliding scale spots and be clear that they are available in limited quantity. Some practitioners require clients to self-declare financial need rather than asking for proof; others use an income-based application form. Both approaches work.
+For reference, pet bereavement support practitioners in Chicago
+currently tend to work within these ranges:
 
-Sliding scale spots are not charity. They are a structured, bounded commitment that reflects your values while protecting your financial sustainability.
+**Newly certified practitioners:**
+$100 to $160 per individual session
+$380 to $560 for a five-session package
+
+**Established practitioners with a local referral network:**
+$140 to $200 per individual session
+$500 to $700 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not
+set fees and does not recommend any specific rate. What you charge
+is your decision, based on your own circumstances, your confidence,
+and your read of your community.
+
+---
+
+## Memorial Pages as an Optional Addition
+
+Your TRACE certification includes ten memorial page credits on
+completion of the program. These are digital memorial pages you can
+offer clients: a lasting, online space for the story of their animal,
+hosted for three years.
+
+How you use these is entirely your choice. Some practitioners include
+a memorial page within a package. Others offer it as an optional
+extra at the end of the program, when the work reaches the Celebrate
+the Life stage and a memorial page becomes a natural part of the
+conversation. Others hold them for clients who seem to want something
+tangible to mark the end of the journey.
+
+There is no right answer. You set the price. The important thing is
+that you are offering something of genuine value, at whatever price
+reflects that value to you.
 
 ---
 
 ## Frequently Asked Questions
 
-**Should I charge less because I'm new to practice?**
-Starting slightly below your eventual rate is reasonable while you gather testimonials, but do not undercut yourself dramatically. $100 to $120 per session is an appropriate starting rate for a certified Chicago practitioner, not $50. Low pricing signals low confidence and can attract clients who are not serious about engaging with the process.
+**Why charge a package rate rather than an hourly rate?**
 
-**Can I charge different rates for different types of sessions?**
-Yes. A 90-minute memorial tribute session can be priced higher than a standard 60-minute session. Group sessions per person should be lower. The key is to make your pricing clear and transparent on your website.
+Because TRACE is a structured program, not an open-ended service.
+General grief therapists charge hourly because their work does not
+follow a fixed structure and the number of sessions is unknown. TRACE
+is five sessions with a clear shape. Pricing it as a package reflects
+that honestly and helps clients commit to completing the journey,
+which is where the value lies.
 
-**Is it better to charge per session or offer packages?**
-A combination works best. Offer single sessions for clients who want to try before committing, and packages for those who are ready to engage fully. Packages increase your average client value and improve the continuity of the TRACE framework, which works best across multiple sessions.
+**Could the sessions turn into ongoing therapy?**
 
-**How do I handle clients who ask for a discount?**
-Acknowledge the request warmly and point to your sliding scale if they have genuine financial need. Otherwise, hold your rate. You might say: "I have a limited number of reduced-rate spots for clients in financial hardship. If that applies to you, I'm happy to discuss it. Otherwise my standard rate is X." That phrasing is both compassionate and professional.
+No, and a responsible TRACE practitioner makes that clear from the
+first session. The five-session structure is the complete program.
+TRACE practitioners are not therapists. The training does not prepare
+practitioners to offer clinical, open-ended therapeutic support, and
+it would be wrong to present it as such. When the five sessions are
+complete, the practitioner's role within TRACE is done. If a client
+needs something more after that, the right response is a warm, clear
+referral to a qualified grief therapist or their doctor.
 
-**Do I need to charge tax on sessions?**
-Consult a local accountant, but in most cases personal service income in Illinois is not subject to sales tax. You will need to pay income tax on your earnings. A flat-rate quarterly tax payment based on your projected income is the most common approach for self-employed practitioners.
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be
+honest about that. TRACE prepares practitioners to guide clients
+through a specific, structured program. What a client may need beyond
+those five sessions could be many things, and a TRACE practitioner
+is not trained to assess or provide it. The responsible response is
+to acknowledge the limit of your role and support your client in
+finding appropriate professional help. This is not a failure. It is
+professional integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a certified pet loss practitioner.
+That is a specific role with a specific scope. It does not qualify
+you to offer clinical therapy, psychological assessment, or any
+intervention beyond the five-session TRACE program. You should never
+present yourself as a therapist, and you should be clear with clients,
+referral partners, and anyone else about what you are and what you
+offer. This clarity protects your clients and protects you.
+
+**What if a client wants to stop after one or two sessions?**
+
+That is their right. You cannot and should not try to keep someone
+in a process they are not ready for. What you can do is explain
+clearly, before you begin, that each session builds on the last and
+that the value of the TRACE program comes from completing it. That
+conversation, had early on, is usually enough. If someone still
+chooses to stop, wish them well and let them know the door is open
+if they want to return.
+
+**Should I charge less because this involves grief?**
+
+No. The structure of the work is what makes it valuable, and a
+professional fee reflects that. Reducing your rate does not make you
+more compassionate. It can actually make clients less likely to engage
+fully with the process, because the price carries a message about how
+seriously the work should be taken. Charge a fair rate. It serves
+your clients better than undercharging.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for
+clients in genuine financial difficulty. This is a personal decision,
+not an obligation. If you do offer reduced rates, be specific about
+what they are and how many you hold. Open-ended sliding scales create
+awkward conversations and unclear expectations. Your own sustainability
+matters too.
 
 ---
 
-## Get Certified and Start Building Your Chicago Practice
+## More guides for Chicago practitioners
 
-Pricing is ultimately a confidence issue as much as a market issue. The clearer and more structured your practice, the easier it is to hold your rates and communicate your value. TRACE certification from the Academy for Pet Loss gives you that structure, along with the credentials, the directory listing, and the tools (including memorial pages) to build a financially viable practice.
+This is part of a series of guides for pet bereavement practitioners
+in Chicago:
 
-Enrol in the TRACE Practitioner Certification today at the Academy for Pet Loss and start your Chicago practice on a foundation that supports you and your clients.
+- [How to Set Up a Pet Bereavement Support Practice in Chicago](/blog/setup-pet-loss-practice-chicago)
+- [How to Advertise Your Pet Loss Practice in Chicago](/blog/advertise-pet-loss-practice-chicago)
+- [How to Run Online Pet Loss Sessions in Chicago](/blog/online-pet-loss-sessions-chicago)
+- [What to Expect as a Pet Bereavement Support Practitioner in Chicago](/blog/what-to-expect-pet-loss-counsellor-chicago)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Chicago](/blog/start-pet-loss-business-chicago)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome
+as it is. It is the moment when someone says, for the first time,
+what their animal really meant to them, and feels genuinely heard.
+You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss
+gives you the framework, the credential, and the professional
+presence to start this work with confidence. The Core Program is
+$395 and the Extended Program is $525. Both are self-paced and
+designed to fit around your existing life.
+
+If this feels like the right thing for you to do, the Academy for
+Pet Loss is ready when you are. Visit www.academyforpetloss.com.

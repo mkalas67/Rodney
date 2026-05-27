@@ -1,128 +1,151 @@
-# How to Price Your Pet Loss Counselling Sessions in Melbourne
+---
+title: How to Price Your Pet Loss Support Sessions in Melbourne
+meta_description: How to price TRACE pet bereavement support sessions in Melbourne. Package vs per-session pricing, local AUD rates, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-melbourne
+geo_target: Melbourne, Australia
+primary_keyword: pet loss counselling prices Melbourne
+secondary_keywords: pet bereavement support cost Melbourne, TRACE practitioner pricing Australia
+---
 
-Pricing is where many new practitioners get stuck. Charge too little and you signal low value, exhaust yourself, and build a practice that cannot sustain itself. Charge too much before you have established credibility and you slow the growth of your client base. This page gives you Melbourne-specific benchmarks, practical session structures, and a clear framework for building income over time.
+# How to Price Your Pet Loss Support Sessions in Melbourne
+
+Most people who come to this work do not come to it through ambition. They come because they understand what it is to lose an animal, and they want to be there for someone else going through the same thing. That is a genuinely good motivation. It is also, sometimes, the reason pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of someone's grief," this page is written for you.
 
 ---
 
-## What Pet Loss Counsellors Charge in Melbourne
+## Why Pricing Feels Difficult
 
-Melbourne's wellness and complementary health market supports pricing that reflects genuine expertise. Pet bereavement counselling, as a specialist niche, commands rates comparable to life coaching and specialist grief support, not general counselling rebated through Medicare.
+The discomfort most new practitioners feel around charging is not about greed. It is about doubt. The question underneath it is: am I actually giving them enough to justify this?
 
-**Early-stage practitioners (first six to twelve months):**
-AUD $100 to $175 per session (50-60 minutes).
+The answer lies in what you are actually delivering.
 
-This range is appropriate when you are building your case studies, testimonials, and confidence. It reflects real value while leaving room to grow. Do not undercharge significantly below this range. Rates below AUD $80 tend to attract clients who question your expertise and make it harder to raise rates later.
+TRACE is not a conversation. It is a structured, five-session programme grounded in established grief theory. Each session has a specific purpose. Each stage builds on the last. Your client is not paying for your time or your company, though both matter. They are paying for a defined process that helps them move through their grief with structure and intention.
 
-**Established practitioners (twelve months plus, with a referral network and reviews):**
-AUD $145 to $225 per session.
+That is worth a professional fee.
 
-Melbourne clients who are actively seeking specialist pet loss support are willing to pay at this level when they trust the practitioner's credentials and experience. A well-maintained online presence, clear TRACE certification, and genuine client reviews support rates at the higher end of this range.
-
-**Note on TRACE programme pricing:** The TRACE Practitioner Certification is priced in USD. The Core Programme is USD $395 and the Extended Programme is USD $525. At current exchange rates, this is approximately AUD $610 to $810. This is a one-time investment that pays for itself within three to four client sessions.
+When you charge an appropriate amount, you are doing something more than collecting payment. You are signalling to your client that this is real work, with real value. That signal matters. It helps them arrive properly, take the sessions seriously, and actually benefit from the process. Charging less does not make you more generous. It makes the whole thing feel less serious, and your client deserves better than that. The fee is part of the trust.
 
 ---
 
-## Session Structures That Work in Melbourne
+## TRACE Is a Programme, Not an Open-Ended Service
 
-**Single session (50-60 minutes): AUD $120-$175**
-Good for clients who want to try once before committing, or for people at a particular acute moment (the day of euthanasia, the day after a sudden death). Single sessions are straightforward to price and easy for clients to access.
+This is important to understand before you set any price.
 
-**Package of three sessions: AUD $330-$480 (saving AUD $30-$45 vs individual sessions)**
-A three-session package is the most natural structure for the TRACE framework, which moves through five distinct steps. You can complete the full framework in three 60-minute sessions for most clients, or stretch to four for those who need more time at the Acknowledge the Pain stage. Packages encourage commitment, improve client outcomes, and smooth your income across the month.
+General grief therapists often charge by the hour. That makes sense for their work, because it is open-ended. They do not know how many sessions a client will need, or where the conversations will go. The hourly rate reflects that uncertainty.
 
-**Package of five sessions: AUD $525-$800**
-For clients dealing with complex grief (the loss of a long-term companion, sudden traumatic death, or the loss of multiple animals in a short period), a five-session package provides thorough support. At the established pricing tier, a five-session package represents a meaningful income from a single client relationship.
+TRACE is different. It is a five-session programme. Each session corresponds to one step in the framework: Tell the Story, Recognise the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What Remains. The process has a beginning, a shape, and a defined end.
 
-**Ongoing monthly support: AUD $150-$200 per month for fortnightly 30-minute check-ins**
-Some clients, particularly those who have experienced multiple losses or who have anticipatory grief around a terminally ill pet, value ongoing lighter-touch support. A monthly retainer for two brief check-in calls is an option that suits this need and smooths your income.
+This means the right way to price it is as a package, not as an hourly rate multiplied by however many sessions happen to occur.
+
+Each session runs for forty to fifty minutes. This is intentional. Each session has one specific focus, and that focus does not require a full clinical hour. Forty to fifty minutes of structured, purposeful conversation on one stage of the journey is enough. In practice, it is often more effective than a longer session that loses its thread.
 
 ---
 
-## Memorial Pages: A Revenue Stream Unique to TRACE Practitioners
+## The Pricing Model We Recommend
 
-Your TRACE certification includes ten memorial pages, hosted for three years each, to offer to clients. Memorial pages are a digital tribute page where families document and honour their pet: photos, stories, tributes from family members, and a permanent record of the life they shared.
+Offer both options and be clear about the difference between them.
 
-The standard market rate for a memorial page is USD $99 per page (approximately AUD $155 at current exchange rates). You set your own pricing.
+**Per-session rate**
 
-Many Melbourne practitioners include a memorial page as a bonus within a package (for example, included with a five-session package) rather than selling it separately. Others offer it as an add-on at the conclusion of a bereavement series: "As a way of honouring [pet's name] beyond our sessions together, I can create a memorial page for you."
+A single session for clients who are cautious, or who want to experience the first session before committing to the full programme. Set this at your full rate. In Melbourne, that currently sits between AUD $100 and $175 per session for a newly certified practitioner.
 
-Ten memorial pages on completion of your TRACE certification represents up to AUD $1,550 in potential revenue beyond your session income, or a powerful differentiator that justifies higher session pricing.
+**Five-session package**
 
----
+Price this at roughly sixty to eighty percent of what five individual sessions would cost. At AUD $140 per session, five sessions individually would total $700. A package price of AUD $490 to $560 represents a meaningful saving and reflects the reality that the programme is designed to be taken as a whole.
 
-## Income Potential in Melbourne: Realistic Scenarios
+**Why the package matters**
 
-**Scenario 1: Part-time practice (8 sessions per week)**
-At AUD $130 per session (early-stage pricing): AUD $1,040 per week, approximately AUD $50,000 per year based on 48 working weeks.
+Someone who has committed to the complete journey is far more likely to complete it and benefit from it. Each session builds on the previous one. A client who stops after two sessions has not had half the experience; they have had an incomplete one. Being clear from the outset that TRACE is a five-session programme, and pricing it accordingly, sets the right expectation and serves your clients well.
 
-At AUD $175 per session (established pricing): AUD $1,400 per week, approximately AUD $67,200 per year.
-
-**Scenario 2: Full-time practice (16 sessions per week)**
-At AUD $155 per session (mid-range established): AUD $2,480 per week, approximately AUD $119,000 per year.
-
-At AUD $200 per session (upper established): AUD $3,200 per week, approximately AUD $153,600 per year.
-
-These are gross figures before expenses and tax. But they illustrate clearly that even a modest, well-priced Melbourne practice generates a viable professional income.
-
-Add memorial page revenue, group sessions (see below), and the potential for corporate wellbeing partnerships, and the income ceiling is higher than most new practitioners expect.
-
-**Group sessions**
-Group support sessions for pet loss are increasingly common. A facilitated group of four to six participants at AUD $65-$85 per person per session delivers AUD $260-$510 per hour and often creates powerful peer support that individual sessions cannot replicate. Melbourne's progressive community culture supports group formats in areas like Fitzroy, Northcote, and St Kilda.
+There is no obligation to offer both options. Some practitioners prefer to offer only the package. Others offer the single-session rate for the first session and the package from session two. You decide what works for you and your clients.
 
 ---
 
-## When to Raise Your Rates
+## What Melbourne Practitioners Charge
 
-Raise your rates when:
-- You have a consistent waiting list (more enquiries than available slots)
-- You have five or more genuine positive testimonials or Google reviews
-- You have been practising for twelve months or more
-- You feel confident explaining your framework and its outcomes
-- You are turning down clients because you are at capacity
+Melbourne has a well-established culture of paying professional rates for wellbeing and complementary services. Clients here generally accept a fair rate without resistance, provided you present yourself professionally and can speak clearly about what TRACE is and what the programme involves.
 
-Raise rates for new clients first. You are not obligated to raise rates for existing long-term clients simultaneously, although you can give them three months' notice of a rate increase.
+For reference, pet bereavement support practitioners in Melbourne currently tend to work within these ranges:
 
-A rate increase of AUD $20-$30 per session is a natural step. Many practitioners find that the increase causes almost no enquiry drop-off when they have a solid reputation.
+**Newly certified practitioners:**
+AUD $100 to $175 per individual session
+AUD $420 to $700 for a five-session package
+
+**Established practitioners with a local referral network:**
+AUD $145 to $225 per individual session
+AUD $580 to $900 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not set fees and does not recommend any specific rate. What you charge is your decision, based on your own circumstances, your confidence, and your read of your community.
 
 ---
 
-## Sliding Scale: Whether and How to Offer It
+## Memorial Pages as an Optional Addition
 
-A sliding scale is a reduced rate for clients who cannot afford your standard fee. It is a personal decision with legitimate arguments on both sides.
+Your TRACE certification includes ten memorial page credits on completion of the programme. These are digital memorial pages you can offer clients: a lasting, online space for the story of their animal, hosted for three years.
 
-In Melbourne, the population of people who genuinely cannot afford AUD $100-$120 for specialist support is smaller than in some cities. However, genuine financial hardship exists, and some practitioners feel strongly about accessibility.
+How you use these is entirely your choice. Some practitioners include a memorial page within a package. Others offer it as an optional extra at the end of the programme, when the work reaches the Celebrate the Life stage and a memorial page becomes a natural part of the conversation. Others hold them for clients who seem to want something tangible to mark the end of the journey.
 
-If you offer a sliding scale:
-- Set a floor (for example, AUD $70 minimum) and hold it
-- Limit sliding scale spots to two or three per week so it does not erode your income
-- Ask clients to self-identify rather than making assumptions about affordability
-- Review periodically: a sliding scale client who has been with you for six months can transition to standard rates if their situation improves
+There is no right answer. You set the price. The important thing is that you are offering something of genuine value.
 
-There is no obligation to offer a sliding scale, and many excellent practitioners do not.
+---
+
+## Payments in Australia
+
+The most common payment methods for Australian practitioners are bank transfer (direct bank payment), Stripe, and PayPal. Stripe integrates with scheduling tools like Calendly and Acuity and allows clients to pay by card at the time of booking, which removes the awkwardness of chasing payment. Bank transfer is simpler for clients who prefer it. Offer at least two options.
 
 ---
 
 ## Frequently Asked Questions
 
-**How does Melbourne pricing compare to other Australian cities?**
-Melbourne sits alongside Sydney as the highest-rate market in Australia. The depth of the wellness culture, the income levels in inner suburbs, and the density of professional clients support the upper end of the ranges given here.
+**Why charge a package rate rather than an hourly rate?**
 
-**Should I list my prices publicly on my website?**
-Yes. Transparent pricing reduces the number of time-consuming enquiries from clients who cannot afford you, and builds trust with those who can. A simple sentence like "Sessions are AUD $150 for 60 minutes. Package options available on request" is sufficient.
+Because TRACE is a structured programme, not an open-ended service. General grief therapists charge hourly because their work does not follow a fixed structure and the number of sessions is unknown. TRACE is five sessions with a clear shape. Pricing it as a package reflects that honestly and helps clients commit to completing the journey, which is where the value lies.
 
-**Can I charge in AUD even though the Academy is priced in USD?**
-Yes. Your sessions are priced in AUD. The USD pricing of the TRACE programme is an upfront investment, not something that affects your session pricing.
+**Could the sessions turn into ongoing therapy?**
 
-**How do I handle no-shows and cancellations?**
-State your cancellation policy clearly at booking: for example, "Full fee applies for cancellations with less than 24 hours notice." Most clients will respect this, and it protects your income from the reality of last-minute changes.
+No, and a responsible TRACE practitioner makes that clear from the first session. The five-session structure is the complete programme. TRACE practitioners are not therapists. The training does not prepare practitioners to offer clinical, open-ended therapeutic support, and it would be wrong to present it as such. When the five sessions are complete, the practitioner's role within TRACE is done. If a client needs something more after that, the right response is a warm, clear referral to a qualified grief therapist or their GP.
 
-**What payment methods should I accept?**
-Bank transfer (direct bank payment), Stripe, and PayPal are the most common in Australian private practice. Stripe integrates easily with booking platforms like Calendly or Acuity and allows credit card payments without requiring you to handle card details. Offer at least two options.
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest about that. TRACE prepares practitioners to guide clients through a specific, structured programme. What a client may need beyond those five sessions could be many things, and a TRACE practitioner is not trained to assess or provide it. The responsible and caring response is to acknowledge the limit of your role and support your client in finding appropriate clinical help. This is not a failure. It is professional integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a certified pet loss practitioner with the TRACE framework. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy, psychological assessment, or any intervention beyond the five-session TRACE programme. It is important that you never present yourself as a therapist, and that you are clear with clients, referral partners, and anyone else about what you offer. This clarity protects your clients and protects you.
+
+**What if a client wants to stop after one or two sessions?**
+
+That is their right. You cannot and should not try to keep someone in a process they are not ready for. What you can do is explain clearly, before you begin, that each session builds on the last and that the value of the TRACE programme comes from completing it. That conversation, early on, is usually enough. If someone still chooses to stop, wish them well and let them know the door is open if they want to return.
+
+**Should I charge less because this involves grief?**
+
+No. The structure of the work is what makes it valuable, and a professional fee reflects that. Reducing your rate does not make you more compassionate. It can actually make clients less likely to engage fully with the process, because the price carries a message about how seriously the work should be taken. Charge a fair rate. It serves your clients better than undercharging.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for clients in genuine financial difficulty. This is a personal decision, not an obligation. If you do offer reduced rates, be specific about what they are and how many you hold. Open-ended sliding scales can create awkward conversations and unclear expectations. Your own sustainability matters too.
 
 ---
 
-## Your Investment Returns Quickly: Enrol in TRACE Today
+## More guides for Melbourne practitioners
 
-The TRACE Core Programme at USD $395 pays for itself within three to four sessions at Melbourne market rates. Beyond year one, you renew at a permanent 50% loyalty discount, making it one of the most cost-effective professional certifications available.
+This is part of a series of guides for pet bereavement practitioners in Melbourne:
 
-Enrol at the Academy for Pet Loss today and begin building a practice that is both financially sustainable and genuinely meaningful.
+- [How to Set Up a Pet Bereavement Support Practice in Melbourne](/blog/setup-pet-loss-practice-melbourne)
+- [How to Advertise Your Pet Loss Practice in Melbourne](/blog/advertise-pet-loss-practice-melbourne)
+- [How to Run Online Pet Loss Sessions in Melbourne](/blog/online-pet-loss-sessions-melbourne)
+- [What to Expect as a Pet Bereavement Counsellor in Melbourne](/blog/what-to-expect-pet-loss-counsellor-melbourne)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Melbourne](/blog/start-pet-loss-business-melbourne)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome as it is. It is the moment when someone says, for the first time, what their animal really meant to them, and feels genuinely heard. You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Programme is $395 and the Extended Programme is $525. Both are self-paced and designed to fit around your existing life.
+
+If this feels like the right thing for you to do, visit [www.academyforpetloss.com](https://www.academyforpetloss.com) when you are ready.

@@ -16,15 +16,15 @@ Vancouver, Melbourne, Auckland, Brisbane, Sydney, Atlanta, Toronto
 | Dublin | DONE | all 5 pages written |
 | New York | DONE | all 5 pages written |
 | LA | DONE | all 5 pages written |
-| Chicago | IN PROGRESS | |
-| Houston | pending | |
-| Austin | pending | |
-| Seattle | pending | |
-| Denver | pending | |
-| Vancouver | pending | |
-| Melbourne | pending | |
-| Auckland | pending | |
-| Brisbane | pending | |
-| Sydney | pending | |
-| Atlanta | pending | |
-| Toronto | pending | |
+| Chicago | DONE | all 5 pages written |
+| Houston | DONE | all 5 pages written |
+| Austin | DONE | all 5 pages written |
+| Seattle | DONE | all 5 pages written |
+| Denver | DONE | all 5 pages written |
+| Vancouver | DONE | all 5 pages written |
+| Melbourne | DONE | all 5 pages written |
+| Auckland | DONE | all 5 pages written |
+| Brisbane | DONE | all 5 pages written |
+| Sydney | DONE | all 5 pages written |
+| Atlanta | DONE | all 5 pages written |
+| Toronto | DONE | all 5 pages written |

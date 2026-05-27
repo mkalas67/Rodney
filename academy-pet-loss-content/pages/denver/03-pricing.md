@@ -1,120 +1,145 @@
+---
+title: How to Price Your Pet Loss Support Sessions in Denver
+meta_description: How to price TRACE pet bereavement support sessions in Denver. Package vs per-session pricing, local rates in USD, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-denver
+geo_target: Denver, CO, USA
+primary_keyword: pet loss support pricing Denver
+secondary_keywords: pet bereavement session cost Denver, TRACE practitioner fees Colorado, certified pet loss practitioner Denver
+---
+
 # How to Price Your Pet Loss Support Sessions in Denver
 
-One of the most common questions new pet loss support practitioners ask is: what should I charge? The answer depends on your level of experience, the structure of your sessions, and the market you are serving. Denver is a strong market with residents who are accustomed to paying for quality wellness and professional services. Underpricing yourself does not attract more clients. It signals a lack of confidence in your own value and, counterintuitively, can reduce the perceived quality of your work. This guide covers the full picture: local market rates, session structures, income potential, and when to raise your prices.
+Most people who come to this work do not come to it through ambition. They come because they understand what it is to lose an animal, and they want to be there for someone else going through the same thing. That is a genuinely good motivation. It is also, sometimes, the reason pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of someone's grief," this page is written for you.
 
 ---
 
-## Local Market Rates in Denver
+## Why Pricing Feels Difficult
 
-Pet loss support in Denver sits at a price point below licensed clinical therapy (which typically runs $140 to $220 per hour in the Metro area) and above informal grief coaching offered by untrained volunteers.
+The discomfort most new practitioners feel around charging is not about greed. It is about doubt. The question underneath it is: am I actually giving them enough to justify this?
 
-**Early-stage practitioners (0-12 months, building reputation):**
-The typical range is $90 to $155 USD per session. At this stage you are accumulating client experience, building referral relationships, and refining your practice. Your pricing should reflect that you are qualified and certified (TRACE gives you that credibility immediately) while being accessible enough to bring in a steady flow of early clients.
+The answer lies in what you are actually delivering.
 
-**Established practitioners (12+ months, active referral network, reviews):**
-As your practice matures, $130 to $185 USD per session is well within the range that Denver clients will pay. Some practitioners in premium niches (corporate clients, executive pet owners, in-person sessions in upmarket areas like Cherry Creek or Wash Park) charge at the higher end or beyond.
+TRACE is not a conversation. It is a structured, five-session program grounded in established grief theory. Each session has a specific purpose. Each stage builds on the last. Your client is not paying for your time or your company, though both matter. They are paying for a defined process that helps them move through their grief with structure and intention.
 
-These rates reflect individual 50-75 minute support sessions. Group formats, memorial services, and one-off milestone sessions (six-month anniversary calls, for example) are priced differently and discussed below.
+That is worth a professional fee.
 
----
-
-## Note on TRACE Programme Pricing
-
-The TRACE Practitioner Certification itself is priced in USD, as it is offered by the Academy for Pet Loss: $395 USD for the Core Programme and $525 USD for the Extended Programme. Your client-facing session fees are set by you and, for Denver-based practitioners, will naturally be in USD. These are distinct. Your certification is a one-time investment. Your session rates are the income you set.
+When you charge an appropriate amount, you are doing something more than collecting payment. You are signaling to your client that this is real work, with real value. That signal matters. It helps them arrive properly, take the sessions seriously, and actually benefit from the process. Charging less does not make you more generous. It makes the whole thing feel less serious, and your client deserves better than that. The fee is part of the trust.
 
 ---
 
-## Session Structures and What to Charge
+## TRACE Is a Program, Not an Open-Ended Service
 
-**Single 60-minute session: $100-$155 USD**
-A standalone session suits clients who are not sure whether they want ongoing support or who have a specific need (a sudden death, a first anniversary, a decision about euthanasia). Price this at a level that makes the decision easy but reflects your time and preparation.
+This is important to understand before you set any price.
 
-**Package of four sessions: $360-$560 USD**
-Packaged sessions at a slight discount (around 10%) give clients a clear pathway and give you predictable income. A four-session arc follows the TRACE framework naturally: establishing the story and bond, working through pain, celebrating the life, and beginning to embrace what remains. Many clients who book a single session will convert to a package when offered one.
+General grief therapists often charge by the hour. That makes sense for their work, because it is open-ended. They do not know how many sessions a client will need, or where the conversations will go. The hourly rate reflects that uncertainty.
 
-**Package of six sessions: $510-$780 USD**
-Suitable for complex losses, sudden death, or clients who want more space to work through the grief process. Six sessions across six to eight weeks provide continuity and depth.
+TRACE is different. It is a five-session program. Each session corresponds to one step in the framework: Tell the Story, Recognize the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What Remains. The process has a beginning, a shape, and a defined end.
 
-**Group support sessions: $35-$65 USD per person**
-Small group sessions of four to eight participants can be offered in partnership with veterinary clinics, the Denver Dumb Friends League, or community organisations. Groups generate income at a lower per-person rate but are time-efficient and have strong community value. Facilitated through Zoom or in a hired meeting room, a group of six at $50 per person generates $300 for a 90-minute facilitated session.
+This means the right way to price it is as a package, not as an hourly rate multiplied by however many sessions happen to occur.
 
-**Telephone or Zoom check-in (20-30 minutes): $45-$75 USD**
-Short follow-up calls for clients between or after sessions can be offered as a paid add-on. These are valued by clients who want a low-barrier touchpoint during particularly difficult periods such as the first week of loss or the day of euthanasia.
+Each session runs for forty to fifty minutes. This is intentional. Each session has one specific focus, and that focus does not require a full clinical hour. Forty-five minutes of structured, purposeful conversation on one stage of the journey is enough. In practice, it is often more effective than a longer session that loses its thread.
 
 ---
 
-## Memorial Pages: A Distinct Revenue Stream
+## The Pricing Model We Recommend
 
-As a TRACE-certified practitioner, you can create up to 10 memorial pages for your clients (included with the Core Programme at completion). These are hosted pages that celebrate an individual animal's life and serve as a lasting tribute.
+Offer both options and be clear about the difference between them.
 
-The Academy for Pet Loss hosts these pages at no ongoing cost to you. You offer them to clients at whatever price you choose. The typical market rate is around $99 USD per page. Some practitioners include one memorial page as part of a session package. Others offer them as standalone products.
+**Per-session rate**
 
-At $99 per page, 10 pages per year adds $990 USD to your income with minimal additional work. As your practice grows and you renew your Academy membership, you can continue offering memorial pages.
+A single session for clients who are cautious, or who want to experience the first session before committing to the full program. Set this at your full rate. In Denver, that currently sits between $90 and $155 per session for a newly certified practitioner.
 
-This is worth communicating clearly in your marketing. Families often want something tangible and lasting when a pet dies. A professionally created, hosted memorial page that combines photos, a written tribute, and elements of the animal's story is genuinely meaningful and something many clients will value more than a session alone.
+**Five-session package**
 
----
+Price this at roughly sixty to eighty percent of what five individual sessions would cost. At $120 per session, five sessions individually would total $600. A package price of $400 to $480 represents a meaningful saving and reflects the reality that the program is designed to be taken as a whole.
 
-## Income Potential in Denver
+**Why the package matters**
 
-Let's put some real numbers on the table. These projections are illustrative, not guaranteed, but they are grounded in realistic assumptions about a Denver-based practice.
+Someone who has committed to the complete journey is far more likely to complete it and benefit from it. Each session builds on the previous one. A client who stops after two sessions has not had half the experience; they have had an incomplete one. Being clear from the outset that TRACE is a five-session program, and pricing it accordingly, sets the right expectation and serves your clients well.
 
-**Part-time practice (10 client sessions per week):**
-At $120 average session rate, 10 sessions per week generates $1,200 per week or approximately $4,800 per month before tax. At 48 working weeks per year (allowing four weeks for holidays and slow periods), that is approximately $57,600 USD per year before tax and business expenses.
-
-**Leaner start (4 client sessions per week):**
-This is a realistic first six months for many practitioners building from scratch. At $100 average rate, four sessions per week is $400 per week or approximately $1,600 per month. This is not yet a replacement income for most people, but it is meaningful supplementary income while the practice builds. By month nine or ten, most practitioners with active referral relationships are seeing six to eight sessions per week.
-
-**Adding packages and memorial pages:**
-If five of your weekly clients are on four-session packages at $480 each, and you sell four memorial pages per month at $99 each, your monthly income at 10 weekly sessions looks more like $5,800 to $6,000 USD, before factoring in group sessions or other formats.
-
-**The multiplier effect of referral relationships:**
-A single strong referral relationship with a veterinary clinic that sends you two to three clients per month is worth $2,400 to $4,320 USD per year at mid-range rates. Five such relationships and your practice is effectively full.
+There is no obligation to offer both options. Some practitioners prefer to offer only the package. Others offer the single-session rate for the first session and the package from session two. You decide what works for you and your clients.
 
 ---
 
-## When to Raise Your Prices
+## What Denver Practitioners Charge
 
-The right time to raise your rates is when one or more of the following is true:
-- You have a waiting list, or bookings consistently extend more than two weeks out.
-- You have five or more genuine client reviews or testimonials.
-- You have been practising for more than 12 months.
-- You have added the Extended Programme or additional specialist training to your credentials.
-- Your referral partners are sending you clients without any prompting on your part.
+Denver has a strong culture of paying professional rates for wellbeing services. The growing tech sector and young professional population in the city are accustomed to investing in personal support, and they understand quality when it is presented to them clearly.
 
-Raise prices gradually: a $10 to $20 increase per session is rarely noticed by existing clients and significantly improves your annualised income. Communicate changes to existing clients in advance, ideally with a 30-day notice period. New clients book at the new rate immediately.
+For reference, pet bereavement support practitioners in the Denver area currently tend to work within these ranges:
+
+**Newly certified practitioners:**
+$90 to $155 per individual session
+$360 to $620 for a five-session package
+
+**Established practitioners with a local referral network:**
+$130 to $185 per individual session
+$520 to $740 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not set fees and does not recommend any specific rate. What you charge is your decision, based on your own circumstances, your confidence, and your read of your community.
 
 ---
 
-## Sliding Scale Considerations
+## Memorial Pages as an Optional Addition
 
-A sliding scale (offering reduced rates to clients who cannot afford standard pricing) is a personal and ethical decision. If you choose to offer one, be intentional about it. Reserve two or three slots per week for reduced-rate work rather than making it broadly available, which can erode your standard rate structure. Document your sliding scale policy and apply it consistently.
+Your TRACE certification includes ten memorial page credits on completion of the program. These are digital memorial pages you can offer clients: a lasting, online space for the story of their animal, hosted for three years.
 
-Some practitioners partner with animal shelters or humane organisations to offer sponsored sessions for lower-income clients, with the organisation covering the fee. This generates both income and goodwill.
+How you use these is entirely your choice. Some practitioners include a memorial page within a package. Others offer it as an optional extra at the end of the program, when the work reaches the Celebrate the Life stage and a memorial page becomes a natural part of the conversation. Others hold them for clients who seem to want something tangible to mark the end of the journey.
+
+There is no right answer. You set the price. The important thing is that you are offering something of genuine value.
 
 ---
 
 ## Frequently Asked Questions
 
-**Should I list my prices publicly?**
-Yes, for two reasons. Clients who enquire already knowing your rates are more likely to book and less likely to drop off after a discovery call because of sticker shock. Transparent pricing also builds trust in a field where some practitioners are deliberately vague.
+**Why charge a package rate rather than an hourly rate?**
 
-**What if a client says my rates are too high?**
-This is almost always a fit issue rather than a genuine budget issue. A client who values professional support for the loss of a deeply loved pet and who has done their research will not balk at $120 for a 60-minute session. If price objections are common, review your marketing to ensure you are reaching the right clients.
+Because TRACE is a structured program, not an open-ended service. General grief therapists charge hourly because their work does not follow a fixed structure and the number of sessions is unknown. TRACE is five sessions with a clear shape. Pricing it as a package reflects that honestly and helps clients commit to completing the journey, which is where the value lies.
 
-**Do I charge for a first consultation?**
-A free 20-minute discovery call is industry standard and works well. It lets both of you determine fit before committing. A free call is not the same as a free session. Your first full session is billed at your standard rate.
+**Could the sessions turn into ongoing therapy?**
 
-**Can I charge more for in-person sessions than online?**
-Many Denver practitioners charge a small premium (around $10 to $20) for in-person sessions to account for room hire, travel time, and the additional logistical burden. This is entirely reasonable and well understood by clients.
+No, and a responsible TRACE practitioner makes that clear from the first session. The five-session structure is the complete program. TRACE practitioners are not therapists. The training does not prepare practitioners to offer clinical, open-ended therapeutic support, and it would be wrong to present it as such. When the five sessions are complete, the practitioner's role within TRACE is done. If a client needs something more after that, the right response is a warm, clear referral to a qualified grief therapist or their GP.
 
-**How do I collect payment?**
-Stripe is the dominant option for professional service providers and integrates cleanly with scheduling tools like Calendly and Acuity. Square and PayPal are also straightforward. Collect payment at the time of booking or 24 hours before the session to reduce no-shows.
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest about that. TRACE prepares practitioners to guide clients through a specific, structured program. What a client may need beyond those five sessions could be many things, and a TRACE practitioner is not trained to assess or provide it. The responsible and caring response is to acknowledge the limit of your role and support your client in finding appropriate clinical help. This is not a failure. It is professional integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a TRACE practitioner. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy, psychological assessment, or any intervention beyond the five-session TRACE program. It is important that you never present yourself as a therapist, and that you are clear with clients, referral partners, and anyone else about what you are and what you offer. This clarity protects your clients and protects you.
+
+**What if a client wants to stop after one or two sessions?**
+
+That is their right. You cannot and should not try to keep someone in a process they are not ready for. What you can do is explain clearly, before you begin, that each session builds on the last and that the value of the TRACE program comes from completing it. That conversation, early on, is usually enough. If someone still chooses to stop, wish them well and let them know the door is open if they want to return.
+
+**Should I charge less because this involves grief?**
+
+No. The structure of the work is what makes it valuable, and a professional fee reflects that. Reducing your rate does not make you more compassionate. It can actually make clients less likely to engage fully with the process, because the price carries a message about how seriously the work should be taken. Charge a fair rate. It serves your clients better than undercharging.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for clients in genuine financial difficulty. This is a personal decision, not an obligation. If you do offer reduced rates, be specific about what they are and how many you hold. Open-ended sliding scales can create awkward conversations and unclear expectations. Your own sustainability matters too.
 
 ---
 
-## Your Next Step
+## More guides for Denver practitioners
 
-Confident pricing starts with confident credentials. The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the training, and the professional identity that supports premium rates in the Denver market.
+This is part of a series of guides for pet bereavement practitioners in Denver:
 
-Enrol in the Core Programme at $395 USD or the Extended Programme at $525 USD. The practice you build from that foundation will pay back the investment many times over in your first year alone.
+- [How to Set Up a Pet Bereavement Support Practice in Denver](/blog/setup-pet-loss-practice-denver)
+- [How to Advertise Your Pet Loss Practice in Denver](/blog/advertise-pet-loss-practice-denver)
+- [How to Run Online Pet Loss Sessions in Denver](/blog/online-pet-loss-sessions-denver)
+- [What to Expect as a Pet Bereavement Support Practitioner in Denver](/blog/what-to-expect-pet-loss-counsellor-denver)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Denver](/blog/start-pet-loss-business-denver)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome as it is. It is the moment when someone says, for the first time, what their animal really meant to them, and feels genuinely heard. You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Program is $395 and the Extended Program is $525. Both are self-paced and designed to fit around your existing life.
+
+If this feels like the right thing for you to do, the Academy for Pet Loss is ready when you are. Visit www.academyforpetloss.com to find out more.

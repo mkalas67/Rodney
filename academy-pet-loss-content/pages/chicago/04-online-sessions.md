@@ -1,121 +1,269 @@
+---
+title: How to Run Online Pet Loss Support Sessions in Chicago
+meta_description: How to run online pet bereavement support sessions in Chicago. Platform options, setup guidance, scheduling, payments, and why online works especially well for this work.
+slug: online-pet-loss-sessions-chicago
+geo_target: Chicago, IL, USA
+primary_keyword: online pet loss support Chicago
+secondary_keywords: virtual pet bereavement sessions Chicago, TRACE online practitioner Illinois
+---
+
 # How to Run Online Pet Loss Support Sessions in Chicago
 
-Most pet bereavement practitioners in Chicago work primarily or exclusively online, and for good reason. The city's geography, commuting culture, and the particular nature of grief all make online sessions not just acceptable but often preferable to in-person meetings. This page covers why online works so well for this type of support, which platforms to use, how to set up your technology, how to manage the client experience, and how to handle scheduling and payment professionally.
+Most pet bereavement support practitioners in Chicago work primarily
+or entirely online, and there are good reasons for that. Chicago is
+a city where commuting is real, where weather in winter is a
+genuine deterrent, and where people are already highly comfortable
+with video calls from years of professional and personal use.
+
+Online sessions are not a compromise for this kind of work. They are
+often the better environment for it.
 
 ---
 
-## Why Online Works Especially Well for Pet Loss Support
+## Why Online Works Especially Well for This Work
 
-Pet loss support is different from many other professional services in one important respect: the client's home is often where the grief is most acute. The chair where the dog used to sleep, the space by the food bowl, the back garden where the cat used to sit. Online sessions allow clients to stay in a familiar, safe environment while receiving support, rather than asking them to travel to an unfamiliar office in the middle of active grief.
+When someone is grieving the loss of a pet, their home is where that
+grief lives. The chair the animal used to sleep in is there. The
+food bowl is still in the corner. The leash is hanging by the door.
 
-For Chicago clients specifically, online sessions remove a significant practical barrier. Chicago is a large, spread-out city with unpredictable traffic and a public transit system that is excellent in some areas and inconvenient in others. A client in Evanston or Oak Park does not want to commute across the city when they are already emotionally depleted. A client grieving the loss of a pet during a Chicago winter, when temperatures drop well below freezing, has an even more immediate reason to appreciate a session they can take from their own living room.
+Being in that space during a session is not a distraction. It is
+often an asset. The client does not need to compose themselves for
+a journey across the city. They can be present and honest from
+the first minute. The rawness that is most useful in a TRACE session
+is more accessible when someone is at home.
 
-Telehealth and online professional services are well established in Chicago. The city's professional population has been comfortable with remote-first working and online appointments since well before 2020. You are not asking clients to adopt something unfamiliar. You are offering them convenience at a difficult time.
-
-Online practice also removes the overhead costs of renting clinic or therapy space, which makes your practice financially viable from day one.
-
----
-
-## Platform Comparison
-
-The right platform is one that is reliable, private, and easy for clients who may not be especially tech-savvy to use. Here is how the main options compare.
-
-**Zoom (recommended).** Zoom is the most widely recognised and used video platform for professional services in the US. Most Chicago clients will already have it installed or will know how to use it. It is stable, has good audio and video quality, and allows you to record sessions (with client consent) if you use recordings as a personal reflective tool. A Zoom Pro subscription costs approximately $15 per month and removes the 40-minute limit on meetings. For a private practice, Zoom is the most practical choice.
-
-**Google Meet.** A solid alternative that requires no download for clients who access it via a browser. It is free, stable, and integrates well with Google Calendar. The main limitation is that some clients find it less intuitive than Zoom, and the recording and feature set are more limited.
-
-**Microsoft Teams.** More common in corporate settings. Functional but heavier than necessary for a one-to-one practice. Not recommended unless a specific client already uses it and has a strong preference.
-
-**Doxy.me.** A healthcare-adjacent video platform designed with privacy in mind. It operates entirely in the browser, requires no app download for clients, and is free for basic use. It is a good option if you want a platform with a cleaner healthcare positioning. Not as widely recognised by Chicago clients as Zoom, so expect occasional questions about how to access it.
-
-**Recommendation:** Start with Zoom Pro. It is the path of least resistance for clients, and at $15 per month it is a negligible business cost.
+For the practitioner, there is no commute, no rented consulting
+room, and no dead time between sessions. The work fits around
+your life more easily, which matters if you are building this
+practice alongside other commitments.
 
 ---
 
-## Tech Setup for a Professional Session
+## This Is Not a Technology Barrier
 
-Your tech setup does not need to be expensive. What matters is that it is reliable and that the experience it creates for your clients feels calm and focused.
+If you have used Facebook Messenger video, WhatsApp video calls,
+or FaceTime, you are already capable of running an online session.
+The platforms used for professional practice are slightly more
+structured, but the experience of sitting in front of your phone
+or laptop and talking to someone on a screen is something almost
+everyone is now familiar with.
 
-**Camera.** The built-in camera on a modern laptop or desktop is adequate. If you want to upgrade, a Logitech C920 or similar webcam costs $60 to $80 and produces noticeably better quality.
-
-**Microphone.** Audio quality matters more than video quality for support sessions. A USB headset or a dedicated USB microphone (Blue Yeti, Rode NT-USB Mini) eliminates background noise and ensures your voice is clear. Built-in laptop microphones are acceptable in a quiet room but pick up echo and ambient noise in a way that a dedicated mic does not.
-
-**Lighting.** Position yourself facing a window if possible so that natural light falls on your face. If you work in the evenings or in a room without good natural light, a simple ring light ($30 to $50) will make a significant difference to how you appear on screen.
-
-**Background.** Your background should be neutral, tidy, and professional. A plain wall, a bookshelf, or a softly lit room all work well. Avoid virtual backgrounds if possible. They can be distracting and occasionally glitch, which interrupts the feeling of presence that pet loss sessions depend on.
-
-**Internet connection.** Use a wired ethernet connection if possible, or sit close to your router. A stable connection matters more than high speed. If your connection drops during a session with a distressed client, it disrupts the experience significantly.
-
-**Quiet space.** Ensure your session space is private and quiet. Inform anyone in your home that you are in a session. Use a "Do Not Disturb" sign on the door if needed. Interruptions during a grief support session are jarring for clients.
+Do not let any uncertainty about technology stop you from starting.
+The learning curve is short, and the training addresses the practical
+setup in detail.
 
 ---
 
-## Managing the Client Experience Online
+## Which Platform to Use
 
-The online environment requires a few deliberate choices to create the same quality of presence you would offer in person.
+**Zoom**
 
-**Before the session.** Send a confirmation email 24 hours before the session with the Zoom link, a brief note about what to expect, and a gentle suggestion that the client find a quiet, private space for the call. Some practitioners also send a short intake form in advance asking about the animal, the loss, and what the client is hoping for from the session. This primes a much richer first conversation.
+Zoom is the recommended platform for most practitioners. It is
+widely known, straightforward to use, and does not require your
+client to have an account to join a session. You share a link,
+they click it, and the session begins. The free tier allows
+sessions up to forty minutes, which is exactly the TRACE session
+length. The paid tier, currently around $15 per month, removes
+that limit and adds scheduling and recording features.
 
-**At the start of the session.** Open by checking the client's audio and video quality and asking if they have everything they need: water, a tissue, a comfortable seat. These small gestures communicate care and help clients settle. Then let them begin to talk.
+**Google Meet**
 
-**During the session.** Online sessions require more deliberate eye contact (look at the camera, not the screen), slightly slower speech, and more explicit verbal acknowledgment than in-person sessions because the visual cues of presence are subtler on screen. Say the client's name occasionally. Reflect back what you hear. The TRACE framework works the same way online as in person, but you may need to be marginally more intentional about pacing.
+A solid, free alternative. Works through a browser without any
+download required. If your clients are primarily Google Workspace
+users, or if they are not comfortable with Zoom, Google Meet is
+a seamless option. The quality and reliability are comparable.
 
-**After the session.** Follow up with a brief email within 24 hours that includes a warm summary of what was covered and any resources or next steps you discussed. This is not a clinical note; it is a gesture of ongoing care. It also reinforces the value of the session and prompts future bookings.
+**Microsoft Teams**
+
+Less appropriate for this context. Teams is primarily an enterprise
+tool and feels clinical in a way that does not suit the warmth this
+work requires. It is an option if a client specifically requests it,
+but not a first choice.
+
+**Doxy.me**
+
+A telehealth-specific video platform that some wellbeing practitioners
+use because of its simple, browser-based design and privacy focus.
+Free for basic use. Worth knowing about, particularly if you are
+working with clients who are sensitive about data and privacy.
+
+For most Chicago practitioners, Zoom is the practical starting
+point.
+
+---
+
+## Setting Up Your Space
+
+**Lighting**
+
+Natural light from in front of you is best. Light from behind you
+creates a shadow and makes you hard to see. If you do not have
+natural light available, a simple ring light in front of your face
+makes a significant difference. This is a small investment with a
+visible result.
+
+**Audio**
+
+Clear audio matters more than high video quality. A headset or
+earbuds with a microphone produce better audio than your laptop's
+built-in speakers and are less likely to create echo or feedback.
+If you use your laptop, sit in a quieter room and close doors where
+possible.
+
+**Background**
+
+Your background should be calm and uncluttered. A plain wall, a
+bookshelf, or a simple room are all appropriate. You do not need
+a professional setup. Zoom and Google Meet both offer virtual
+backgrounds if you prefer. Keep it neutral.
+
+**Camera position**
+
+Your camera should be at or near eye level. Laptop cameras are
+often positioned below eye level, which creates an unflattering
+angle and gives the impression you are looking down at the client.
+Raise your laptop on books or a stand until the camera is level
+with your face. This makes a genuine difference to the quality
+of connection in the session.
+
+---
+
+## The Client Experience
+
+**Before the first session**
+
+Send a confirmation email that includes the session link, the date
+and time, and a brief note about what to expect in the first session.
+Keep it warm and clear. Let them know approximately how long the
+session will run (forty to fifty minutes), what they should have
+with them if anything, and that they can join from wherever they
+feel comfortable.
+
+**During the session**
+
+Begin on time. End on time. The forty to fifty minute TRACE session
+has a specific focus and a defined scope. Overrunning sessions
+blurs the structure that makes the program valuable and sets an
+unsustainable precedent.
+
+**After each session**
+
+A brief follow-up message, sent within a few hours of the session,
+reinforces the continuity of the process. It does not need to be
+long. A few sentences acknowledging the session and confirming the
+next appointment is enough.
 
 ---
 
 ## Scheduling and Payment
 
-Removing friction from booking and payment is important. Clients in grief should not have to navigate a complicated process to access support.
+**Calendly**
 
-**Scheduling.** Calendly is the most widely used scheduling tool for independent practitioners. It connects to your Google or Outlook calendar, allows clients to self-book sessions at times you have marked as available, and sends automatic reminders to both parties. The free tier is sufficient to start. The paid tier ($10 to $16 per month) adds additional features like intake questionnaires and automatic time zone conversion, which is useful if you take clients from across the US.
+Calendly is the simplest scheduling tool for individual
+practitioners. You set your available times, share a link, and
+clients book directly. It integrates with Zoom to automatically
+create session links. The free tier is sufficient for most solo
+practitioners. At roughly $10 per month, the paid tier adds
+additional customization and automated reminders.
 
-**Payment.** For US-based clients, the main options are Stripe, Square, and PayPal. All are reliable and accept major credit and debit cards.
+**Payment methods**
 
-- **Stripe** is the most versatile and has the lowest fees for online card payments. It integrates directly with scheduling tools and websites.
-- **Square** is easy to set up and has a free point-of-sale app. A good option if you occasionally take in-person payments.
-- **PayPal** is widely recognised but charges slightly higher fees and some clients have reservations about it for professional services.
+In Chicago, the most common payment methods for professional
+services are:
 
-Decide whether you want to take payment at the time of booking (via Calendly + Stripe integration) or via invoice after the session. Upfront payment reduces no-shows significantly. Many practitioners require payment at booking and offer a 24-hour cancellation policy with a full refund if cancelled in time.
+- Stripe: the most widely used payment processor for online
+  practitioners. Clients pay by credit or debit card. Simple to
+  set up, professional appearance.
+- PayPal: familiar and trusted by many US clients. Slightly less
+  professional in appearance than Stripe, but entirely functional.
+- Venmo: common for informal payments in the US, but less
+  appropriate for a professional practice. Best avoided.
+- Bank transfer: available but less commonly used in the US than in
+  the UK or Europe.
+
+Stripe is the recommended starting point. Most TRACE practitioners
+take payment before or at the time of the first session, or when a
+client books a package.
 
 ---
 
-## Confidentiality and Professionalism
+## Privacy and Data
 
-Pet loss support is not a regulated clinical service and is not covered by HIPAA (the Health Insurance Portability and Accountability Act). However, good professional practice means treating client information with care and maintaining appropriate confidentiality standards.
+TRACE pet loss support is not a clinical health service and is not
+subject to HIPAA requirements in the US. However, good data practice
+matters and reflects well on your professionalism.
 
-Practical steps to take:
+Keep a simple, secure record of your clients' contact details and
+session notes. Do not share client information with third parties
+without consent. Use password-protected devices. These are
+reasonable habits for any professional working in a support role.
 
-- Use a video platform that does not record by default and only record sessions with explicit, written client consent
-- Store any client notes securely, using a password-protected document or a simple client management tool
-- Do not discuss client details with third parties without consent
-- Include a simple confidentiality statement in your intake process, for example: "What we discuss in our sessions remains private. I will not share your details with anyone without your consent, except in rare circumstances where I believe there is a risk to your safety or the safety of others."
-
-This is not a legal or clinical requirement; it is a professional one. Clients who trust you with their grief deserve to know their information is safe.
+The TRACE training covers practical guidance on data and records.
+You do not need to have this fully worked out before you start.
 
 ---
 
 ## Frequently Asked Questions
 
-**What if a client is not comfortable using video?**
-Phone sessions are a fully acceptable alternative. The TRACE framework works as well by voice as it does on video. Offer phone as an option in your booking flow and let clients choose.
+**Do I need a separate office or consulting room for online sessions?**
 
-**Do I need to be based in Chicago to serve Chicago clients?**
-No. If you are licensed or certified (not regulated) and operating as a non-clinical practitioner, you can see clients anywhere in the US from any location. Your Academy directory listing and Google presence can target Chicago specifically regardless of where you are physically based.
+No. A quiet room in your home with reasonable lighting and a stable
+internet connection is entirely sufficient. Clients generally do not
+expect a clinical environment for this kind of support, and a warm,
+domestic setting is often more appropriate than a formal office.
 
-**How do I handle a session where a client becomes very distressed?**
-Be present, slow down, and let the distress move. You are not required to fix it. Your role is compassionate presence and structured conversation, not crisis intervention. If a client discloses active suicidal ideation or a mental health emergency, you should have a referral ready and know the basic step of directing them to 988 (the Suicide and Crisis Lifeline) or 911.
+**What if my client is not comfortable with technology?**
 
-**Is a ring light really necessary?**
-Not essential, but it makes a measurable difference to how you appear. For a $30 to $50 investment, it is worth it.
+Most people are more comfortable with video calls than they think.
+A brief practice call before the first session, offered as a simple
+option rather than a formal technical check, can put nervous clients
+at ease. Walk them through joining the call at their pace.
 
-**How long should sessions be?**
-60 minutes is standard. Some practitioners offer 90-minute memorial or tribute sessions. Sessions shorter than 50 minutes can feel rushed for grief work.
+**Is online as effective as in-person for this kind of support?**
+
+For most clients, yes. The research on remote emotional support
+indicates broadly comparable outcomes to in-person support for
+clients who are comfortable with the format. The particular context
+of pet loss, where the home is central to the grief, often makes
+online sessions especially appropriate.
+
+**Should I record sessions?**
+
+No, and you should tell clients you do not record. Recording creates
+data management obligations and may make clients less open in their
+sessions. Notes taken after the session are sufficient for your
+own professional record.
+
+**What happens if the technology fails mid-session?**
+
+Have a phone number for your client and a clear protocol: if the
+video call drops and cannot be restored within five minutes, switch
+to a phone call or reschedule. State this in your pre-session
+confirmation email so clients know what to expect. Technical
+difficulties happen occasionally and are not a reflection on you.
 
 ---
 
-## Start Your Online Practice with TRACE Certification
+## More guides for Chicago practitioners
 
-Running an online pet loss support practice in Chicago is technically straightforward, financially accessible, and highly practical for both you and your clients. The TRACE Certification from the Academy for Pet Loss gives you the structured framework and professional credentials to run sessions with confidence from anywhere.
+This is part of a series of guides for pet bereavement practitioners
+in Chicago:
 
-Enrol in the TRACE Practitioner Certification today at the Academy for Pet Loss and build an online practice that reaches grieving pet owners across Chicago and beyond.
+- [How to Set Up a Pet Bereavement Support Practice in Chicago](/blog/setup-pet-loss-practice-chicago)
+- [How to Advertise Your Pet Loss Practice in Chicago](/blog/advertise-pet-loss-practice-chicago)
+- [How to Price Your Pet Loss Sessions in Chicago](/blog/pricing-pet-loss-sessions-chicago)
+- [What to Expect as a Pet Bereavement Support Practitioner in Chicago](/blog/what-to-expect-pet-loss-counsellor-chicago)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Chicago](/blog/start-pet-loss-business-chicago)
+
+---
+
+## Ready to Start
+
+The TRACE Practitioner Certification from the Academy for Pet Loss
+gives you the framework, the credential, and the professional
+presence to begin this work with confidence. The Core Program is
+$395 and the Extended Program is $525. Both are self-paced and
+designed to fit around your existing life.
+
+Visit www.academyforpetloss.com to find out more.

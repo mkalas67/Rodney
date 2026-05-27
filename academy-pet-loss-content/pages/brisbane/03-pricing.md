@@ -1,13 +1,13 @@
 ---
-title: How to Price Your Pet Loss Support Sessions in Sydney
-meta_description: How to price TRACE pet bereavement support sessions in Sydney. Package vs per-session pricing, local AUD rates, and why charging appropriately helps your clients trust the process.
-slug: pricing-pet-loss-sessions-sydney
-geo_target: Sydney, Australia
-primary_keyword: pet loss counselling prices Sydney
-secondary_keywords: pet bereavement support cost Sydney, TRACE practitioner pricing Australia
+title: How to Price Your Pet Loss Support Sessions in Brisbane
+meta_description: How to price TRACE pet bereavement support sessions in Brisbane. Package vs per-session pricing, local AUD rates, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-brisbane
+geo_target: Brisbane, Australia
+primary_keyword: pet loss counselling prices Brisbane
+secondary_keywords: pet bereavement support cost Brisbane, TRACE practitioner pricing Queensland
 ---
 
-# How to Price Your Pet Loss Support Sessions in Sydney
+# How to Price Your Pet Loss Support Sessions in Brisbane
 
 Most people who come to this work do not come to it through ambition. They come because they understand what it is to lose an animal, and they want to be there for someone else going through the same thing. That is a genuinely good motivation. It is also, sometimes, the reason pricing feels uncomfortable.
 
@@ -39,7 +39,7 @@ TRACE is different. It is a five-session programme. Each session corresponds to 
 
 This means the right way to price it is as a package, not as an hourly rate multiplied by however many sessions happen to occur.
 
-Each session runs for forty to fifty minutes. This is intentional. Each session has one specific focus, and that focus does not require a full clinical hour. Forty-five minutes of structured, purposeful conversation on one stage of the journey is enough. In practice, it is often more effective than a longer session that loses its thread.
+Each session runs for forty to fifty minutes. This is intentional. Each session has one specific focus, and that focus does not require a full clinical hour. Forty to fifty minutes of structured, purposeful conversation on one stage of the journey is enough. In practice, it is often more effective than a longer session that loses its thread.
 
 ---
 
@@ -49,11 +49,11 @@ Offer both options and be clear about the difference between them.
 
 **Per-session rate**
 
-A single session for clients who are cautious, or who want to experience the first session before committing to the full programme. Set this at your full rate. In Sydney, that currently sits between AUD $100 and $170 per session for a newly certified practitioner.
+A single session for clients who are cautious, or who want to experience the first session before committing to the full programme. Set this at your full rate. In Brisbane, that currently sits between AUD $90 and $155 per session for a newly certified practitioner.
 
 **Five-session package**
 
-Price this at roughly sixty to eighty percent of what five individual sessions would cost. At AUD $130 per session, five sessions individually would total $650. A package price of AUD $390 to $520 represents a meaningful saving and reflects the reality that the programme is designed to be taken as a whole.
+Price this at roughly sixty to eighty percent of what five individual sessions would cost. At AUD $120 per session, five sessions individually would total $600. A package price of AUD $420 to $480 represents a meaningful saving and reflects the reality that the programme is designed to be taken as a whole.
 
 **Why the package matters**
 
@@ -63,23 +63,21 @@ There is no obligation to offer both options. Some practitioners prefer to offer
 
 ---
 
-## What Sydney Practitioners Charge
+## What Brisbane Practitioners Charge
 
-Sydney is a large, varied market. People here pay professional rates for specialist wellbeing and coaching services without hesitation, provided the practitioner can explain what they offer and what it involves.
+Brisbane is a practical city, and clients here respond well to transparent, straightforward pricing presented with confidence. The city is growing and its wellness culture is developing rapidly. Clients who actively seek out a certified pet loss practitioner generally accept a fair rate, provided you can speak clearly about what TRACE is and what the programme involves.
 
-For reference, pet bereavement support practitioners in Sydney currently tend to work within these ranges:
+For reference, pet bereavement support practitioners in Brisbane currently tend to work within these ranges:
 
 **Newly certified practitioners:**
-AUD $100 to $170 per individual session
-AUD $400 to $680 for a five-session package
+AUD $90 to $155 per individual session
+AUD $380 to $620 for a five-session package
 
-**Established practitioners with a referral network:**
-AUD $145 to $220 per individual session
-AUD $580 to $880 for a five-session package
+**Established practitioners with a local referral network:**
+AUD $130 to $195 per individual session
+AUD $520 to $780 for a five-session package
 
 These are reference points only. The Academy for Pet Loss does not set fees and does not recommend any specific rate. What you charge is your decision, based on your own circumstances, your confidence, and your read of your community.
-
-**A note on the TRACE training cost.** The Core Programme is $395 USD and the Extended Programme is $525 USD. Both are priced in US dollars. Pet bereavement support is not covered by Medicare or NDIS. Clients pay out of pocket, which is standard for wellness and coaching services in Australia.
 
 ---
 
@@ -89,15 +87,13 @@ Your TRACE certification includes ten memorial page credits on completion of the
 
 How you use these is entirely your choice. Some practitioners include a memorial page within a package. Others offer it as an optional extra at the end of the programme, when the work reaches the Celebrate the Life stage and a memorial page becomes a natural part of the conversation. Others hold them for clients who seem to want something tangible to mark the end of the journey.
 
-There is no right answer. You set the price. The important thing is that you are offering something of genuine value, at whatever price reflects that value to you.
+There is no right answer. You set the price. The important thing is that you are offering something of genuine value.
 
 ---
 
-## Payment Methods in Sydney
+## Payments in Australia
 
-Bank transfer (direct deposit) is widely used for personal services in Australia. Provide your BSB and account number in your booking confirmation. Stripe is well-suited for website checkout and card payments and integrates cleanly with scheduling tools. PayPal is familiar to many clients as an alternative.
-
-Collect payment before or at the start of the session. A clear cancellation policy, such as twenty-four hours notice for a refund or rebooking credit, sets professional expectations from the beginning.
+The most common payment methods for Australian practitioners are bank transfer (direct bank payment), Stripe, and PayPal. Stripe integrates with scheduling tools like Calendly and Acuity and allows clients to pay by card at the time of booking. Bank transfer is simpler for clients who prefer it. Offer at least two options.
 
 ---
 
@@ -117,7 +113,7 @@ This is genuinely unknown territory, and it is important to be honest about that
 
 **Does TRACE training certify me as a therapist?**
 
-No. TRACE training certifies you as a TRACE practitioner. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy, psychological assessment, or any intervention beyond the five-session TRACE programme. It is important that you never present yourself as a therapist, and that you are clear with clients, referral partners, and anyone else about what you are and what you offer. This clarity protects your clients and protects you.
+No. TRACE training certifies you as a certified pet loss practitioner with the TRACE framework. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy, psychological assessment, or any intervention beyond the five-session TRACE programme. It is important that you never present yourself as a therapist, and that you are clear with clients, referral partners, and anyone else about what you offer. This clarity protects your clients and protects you.
 
 **What if a client wants to stop after one or two sessions?**
 
@@ -133,16 +129,16 @@ Some practitioners keep a small number of reduced-rate spaces for clients in gen
 
 ---
 
-## More guides for Sydney practitioners
+## More guides for Brisbane practitioners
 
-This is part of a series of guides for pet bereavement practitioners in Sydney:
+This is part of a series of guides for pet bereavement practitioners in Brisbane:
 
-- [How to Set Up a Pet Bereavement Support Practice in Sydney](/blog/setup-pet-loss-practice-sydney)
-- [How to Advertise Your Pet Loss Practice in Sydney](/blog/advertise-pet-loss-practice-sydney)
-- [How to Run Online Pet Loss Sessions in Sydney](/blog/online-pet-loss-sessions-sydney)
-- [What to Expect as a Pet Bereavement Support Practitioner in Sydney](/blog/what-to-expect-pet-loss-counsellor-sydney)
+- [How to Set Up a Pet Bereavement Support Practice in Brisbane](/blog/setup-pet-loss-practice-brisbane)
+- [How to Advertise Your Pet Loss Practice in Brisbane](/blog/advertise-pet-loss-practice-brisbane)
+- [How to Run Online Pet Loss Sessions in Brisbane](/blog/online-pet-loss-sessions-brisbane)
+- [What to Expect as a Pet Bereavement Counsellor in Brisbane](/blog/what-to-expect-pet-loss-counsellor-brisbane)
 
-For an overview: [Starting a Pet Bereavement Support Practice in Sydney](/blog/start-pet-loss-business-sydney)
+For an overview: [Starting a Pet Bereavement Support Practice in Brisbane](/blog/start-pet-loss-business-brisbane)
 
 ---
 
@@ -150,6 +146,6 @@ For an overview: [Starting a Pet Bereavement Support Practice in Sydney](/blog/s
 
 What keeps most TRACE practitioners going is not the income, welcome as it is. It is the moment when someone says, for the first time, what their animal really meant to them, and feels genuinely heard. You are offering that. Charge accordingly.
 
-The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Programme is $395 USD and the Extended Programme is $525 USD. Both are self-paced and designed to fit around your existing life.
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Programme is $395 and the Extended Programme is $525. Both are self-paced and designed to fit around your existing life.
 
-If this feels like the right thing for you to do, the Academy for Pet Loss is ready when you are. Visit www.academyforpetloss.com.
+If this feels like the right thing for you to do, visit [www.academyforpetloss.com](https://www.academyforpetloss.com) when you are ready.

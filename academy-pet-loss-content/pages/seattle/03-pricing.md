@@ -1,113 +1,254 @@
+---
+title: How to Price Your Pet Loss Support Sessions in Seattle
+meta_description: How to price TRACE pet bereavement support sessions in Seattle, WA. Package vs per-session rates, local pricing ranges in USD, and why charging properly helps your clients.
+slug: pricing-pet-loss-sessions-seattle
+geo_target: Seattle, WA, USA
+primary_keyword: pet loss counseling prices Seattle
+secondary_keywords: pet bereavement support cost Seattle, TRACE practitioner pricing Washington
+---
+
 # How to Price Your Pet Loss Support Sessions in Seattle
 
-Seattle is one of the higher-income urban markets in the United States, and its professional culture means clients are accustomed to paying well for services they trust. Setting your rates as a pet bereavement support practitioner here is an opportunity, not a source of anxiety. This page gives you concrete rate ranges, session structures, and realistic income scenarios so you can approach your practice with financial clarity.
+Most people who come to this work do not come to it through ambition.
+They come because they understand what it is to lose an animal, and
+they want to be there for someone else going through the same thing.
+That is a genuinely good motivation. It is also, sometimes, the reason
+pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of
+someone's grief," this page is written for you.
 
 ---
 
-## Understanding the Seattle Market
+## Why Pricing Feels Difficult
 
-Seattle consistently ranks among the highest-cost US cities for professional services. The city's large technology workforce, combined with a general population that values mental health, holistic wellbeing, and professional expertise, creates a client base that understands the cost of quality support.
+The discomfort most new practitioners feel around charging is not about
+greed. It is about doubt. The question underneath it is: am I actually
+giving them enough to justify this?
 
-Clients who seek specialist pet bereavement support in Seattle are not comparing you to a general grief counselor. They are looking for someone who specifically understands the human-animal bond and who brings a structured, evidence-informed approach to the work. That specialization carries pricing power.
+The answer lies in what you are actually delivering.
 
-Seattle also has a strong culture of financial transparency. Being clear about your rates, in writing and upfront, is not off-putting here. It signals professionalism. Clients who are accustomed to booking lawyers, coaches, and therapists online, paying at the point of booking, and receiving a clear service description are your audience. Meet them where they are.
+TRACE is not a conversation. It is a structured, five-session programme
+grounded in established grief theory. Each session has a specific
+purpose. Each stage builds on the last. Your client is not paying for
+your time or your company, though both matter. They are paying for a
+defined process that helps them move through their grief with structure
+and intention.
 
----
+That is worth a professional fee.
 
-## Recommended Rate Ranges in Seattle
-
-**Early in practice ($100-$170 per session):**
-When you are new to practice, a starting rate of $100-$130 for a single session is appropriate. This is below the Seattle rate for licensed mental health therapy ($180-$280 per session for a licensed counselor) and reflects the non-clinical nature of your work, while clearly communicating that you offer a professional service with recognized training. A rate below $100 in a Seattle context is likely to reduce rather than increase confidence.
-
-**Established practice ($145-$210 per session):**
-Once you have completed 20-30 sessions, have strong testimonials, and have built referral relationships with local vet practices, move to the $145-$210 range. At this level you are in line with health coaches, executive coaches, and specialist wellness practitioners in Seattle. Some practitioners with strong positioning and a full client load in Seattle charge above $210 per session.
-
----
-
-## Session Structures
-
-Your session structure directly affects your income and the quality of the client experience. The following formats are all used by pet bereavement practitioners in Seattle.
-
-**Single sessions ($100-$170):** Appropriate for clients who want to try the approach first, or who are in acute grief immediately after a loss and need support before they can think about a longer commitment. Single-session availability also makes you accessible for clients who are referred at a moment of crisis.
-
-**Session packages (3 or 5 sessions):** Bundling sessions encourages structured engagement and improves outcomes. A three-session package at $330-$450 (equivalent to $110-$150 per session) or a five-session package at $525-$800 gives clients a modest saving while improving your income predictability. Seattle clients who are familiar with coaching and therapy packages understand this model immediately.
-
-**Monthly ongoing support:** Some clients need sustained support through the weeks and months after a loss. A monthly rate for two sessions (for example, $265-$360 per month) creates a reliable recurring income stream and deepens the therapeutic relationship.
-
-**Corporate and workplace sessions:** Seattle's tech sector creates a genuinely novel opportunity here. Companies where pets are workplace presences (Amazon, for example, is well known for its dog-friendly offices) face a real and unmet need when those pets die. An HR team that can offer a structured pet bereavement session to an employee, or a brief group session for a team that has lost a shared office pet, is providing a meaningful benefit. Rates for these engagements are typically $200-$500 depending on format and group size. This is an underexplored revenue stream that may be more accessible in Seattle than anywhere else in the US.
+When you charge an appropriate amount, you are doing something more
+than collecting payment. You are signaling to your client that this
+is real work, with real value. That signal matters. It helps them
+arrive properly, take the sessions seriously, and actually benefit
+from the process. Charging less does not make you more generous. It
+makes the whole thing feel less serious, and your client deserves
+better than that. The fee is part of the trust.
 
 ---
 
-## Memorial Pages
+## TRACE Is a Programme, Not an Open-Ended Service
 
-Completing the TRACE Core Programme gives you the ability to offer up to ten memorial pages to clients. These are hosted on the Academy for Pet Loss platform for three years. You set the price.
+This is important to understand before you set any price.
 
-The standard rate is $99 per page. A memorial page provides a lasting digital tribute: space for photographs, writing about the animal's life, and a place the family can return to. At the moment of acute grief, the offer of a permanent memorial is often accepted immediately.
+General grief therapists often charge by the hour. That makes sense
+for their work, because it is open-ended. They do not know how many
+sessions a client will need, or where the conversations will go.
+The hourly rate reflects that uncertainty.
 
-Ten pages at $99 is $990 in additional income alongside your session revenue. As your practice grows, you can purchase additional memorial page allocations. This income line is particularly well-matched to Seattle's tech culture, where digital memorialization feels natural and valued.
+TRACE is different. It is a five-session programme. Each session
+corresponds to one step in the framework: Tell the Story, Recognize
+the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What
+Remains. The process has a beginning, a shape, and a defined end.
 
----
+This means the right way to price it is as a package, not as an
+hourly rate multiplied by however many sessions happen to occur.
 
-## Income Potential in Seattle
-
-The following scenarios are realistic based on Seattle market rates.
-
-**Part-time practice (8 sessions per month at $130 per session):**
-$1,040 per month, or approximately $12,500 per year before expenses. A comfortable supplementary income, and a realistic starting point for someone building steadily alongside another role.
-
-**Growing practice (16 sessions per month at $155 per session):**
-$2,480 per month, or approximately $29,800 per year. At this volume you are seeing four clients per week, which many practitioners reach within 6-12 months of active marketing and referral development.
-
-**Established practice (25 sessions per month at $180 per session):**
-$4,500 per month, or approximately $54,000 per year. This is a full-time professional income by Seattle standards, and Washington's lack of state income tax means your net take-home compares favorably to equivalent salaries in many other sectors. Adding memorial pages ($500-$1,000 per year), session packages that improve your effective per-hour rate, and occasional corporate sessions moves this figure past $60,000.
-
-These figures assume individual sessions only. Practitioners who diversify into packages, corporate work, and memorial pages typically achieve meaningfully better per-client revenue.
+Each session runs for forty to fifty minutes. This is intentional.
+Each session has one specific focus, and that focus does not require
+a full clinical hour. Forty-five minutes of structured, purposeful
+conversation on one stage of the journey is enough. In practice,
+it is often more effective than a longer session that loses its thread.
 
 ---
 
-## When to Raise Your Prices
+## The Pricing Model We Recommend
 
-The clearest indicator to raise your rates is a schedule that is consistently full or nearly full. If you are booking more than two weeks in advance and turning down new clients, your rates are below the market clearing price. Raise them.
+Offer both options and be clear about the difference between them.
 
-Additional signals: you have completed the Extended TRACE Programme; you have established strong referral relationships with vet practices or Seattle Humane; you have been practicing for more than 12 months; you have verifiable testimonials or case studies that demonstrate outcomes.
+**Per-session rate**
 
-Raise your rates for new clients first. You can gradually transition existing long-term clients to new rates with reasonable notice and a clear explanation. Most clients who have experienced genuine value from your sessions will not object.
+A single session for clients who are cautious, or who want to
+experience the first session before committing to the full programme.
+Set this at your full rate. In Seattle, that currently sits between
+$100 and $170 per session for a newly certified practitioner.
+
+**Five-session package**
+
+Price this at roughly sixty to eighty percent of what five individual
+sessions would cost. At $130 per session, five sessions individually
+would total $650. A package price of $390 to $520 represents a
+meaningful saving and reflects the reality that the programme is
+designed to be taken as a whole.
+
+**Why the package matters**
+
+Someone who has committed to the complete journey is far more likely
+to complete it and benefit from it. Each session builds on the
+previous one. A client who stops after two sessions has not had half
+the experience; they have had an incomplete one. Being clear from the
+outset that TRACE is a five-session programme, and pricing it
+accordingly, sets the right expectation and serves your clients well.
+
+There is no obligation to offer both options. Some practitioners
+prefer to offer only the package. Others offer the single-session
+rate for the first session and the package from session two. You
+decide what works for you and your clients.
 
 ---
 
-## Sliding Scale Considerations
+## What Seattle Practitioners Charge
 
-Whether to offer a sliding scale is a personal and ethical decision. If you choose to, reserve a small number of reduced-rate slots (two or three per month) for clients who genuinely cannot access support at your full rate. A clear, brief statement on your website handles this gracefully:
+Seattle is one of the higher-income urban markets in the United States.
+The tech sector means a significant portion of the population is
+accustomed to paying professional rates for services they value.
+Mental health awareness is high in Seattle, which means clients are
+more likely to understand the value of structured emotional support
+and less likely to push back on professional pricing.
 
-"I hold a small number of sessions each month for clients who cannot access my full rate. Reduced-rate sessions start from $70. Please reach out to ask about current availability."
+For reference, pet bereavement support practitioners in Seattle
+currently tend to work within these ranges:
 
-Do not offer a sliding scale in response to rate inquiries. Most clients asking about your fees are not asking for a discount. State your rate directly and wait for their response. Seattle clients are financially sophisticated and generally respect straightforward pricing.
+**Newly certified practitioners:**
+$100 to $170 per individual session
+$400 to $680 for a five-session package
+
+**Established practitioners with a local referral network:**
+$145 to $210 per individual session
+$580 to $840 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not
+set fees and does not recommend any specific rate. What you charge
+is your decision, based on your own circumstances, your confidence,
+and your read of your community.
+
+---
+
+## Memorial Pages as an Optional Addition
+
+Your TRACE certification includes ten memorial page credits on
+completion of the programme. These are digital memorial pages you
+can offer clients: a lasting, online space for the story of their
+animal, hosted for three years.
+
+How you use these is entirely your choice. Some practitioners include
+a memorial page within a package. Others offer it as an optional
+extra at the end of the programme, when the work reaches the
+Celebrate the Life stage and a memorial page becomes a natural part
+of the conversation. There is no right answer. You set the price.
 
 ---
 
 ## Frequently Asked Questions
 
-**Should I charge less than $100 per session when I start in Seattle?**
-This is not recommended. A rate below $100 in a Seattle context can actively reduce a prospective client's confidence in your professionalism. Your TRACE certification and the structured nature of the work support a rate of $100 or above from day one.
+**Why charge a package rate rather than an hourly rate?**
 
-**Do I charge for discovery calls?**
-Most practitioners offer a free 15-minute discovery call to allow the client to ask questions and confirm fit. A 30-minute paid discovery call at $25-$50 is also reasonable and filters for more committed clients.
+Because TRACE is a structured programme, not an open-ended service.
+General grief therapists charge hourly because their work does not
+follow a fixed structure and the number of sessions is unknown. TRACE
+is five sessions with a clear shape. Pricing it as a package reflects
+that honestly and helps clients commit to completing the journey,
+which is where the value lies.
 
-**Do online and in-person sessions command the same rate in Seattle?**
-Most practitioners charge the same for both. Online sessions save the client travel time and are widely preferred in Seattle. Charging more for in-person sessions to cover any additional overhead is reasonable if applicable.
+**Could the sessions turn into ongoing therapy?**
 
-**How do I handle payment in Seattle?**
-Stripe is the most trusted option for seamless, professional payment. It integrates with Calendly to allow payment at booking, which eliminates no-shows and admin overhead. Many Seattle clients will specifically prefer a digital booking and payment link over an invoice or cash arrangement.
+No, and a responsible TRACE practitioner makes that clear from the
+first session. The five-session structure is the complete programme.
+TRACE practitioners are not therapists. The training does not prepare
+practitioners to offer clinical, open-ended therapeutic support, and
+it would be wrong to present it as such. When the five sessions are
+complete, the practitioner's role within TRACE is done. If a client
+needs something more after that, the right response is a warm, clear
+referral to a qualified grief therapist or their GP.
 
-**What if a corporate client asks for a volume discount?**
-Corporate rates for workshops or group sessions are negotiated separately from your individual session rate. A base rate of $300-$500 per group session, scaling with group size or number of sessions, is a reasonable starting point. You do not need to discount your individual rate to offer a separate corporate arrangement.
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest
+about that. TRACE prepares practitioners to guide clients through a
+specific, structured programme. What a client may need beyond those
+five sessions could be many things, and a TRACE practitioner is not
+trained to assess or provide it. The responsible response is to
+acknowledge the limit of your role and support your client in finding
+appropriate clinical help. This is not a failure. It is professional
+integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a certified pet loss practitioner
+with the TRACE framework. That is a specific role with a specific scope.
+It does not qualify you to offer clinical therapy, psychological
+assessment, or any intervention beyond the five-session TRACE programme.
+In Washington State, the title "Licensed Mental Health Counselor" is
+regulated. Using "certified pet loss practitioner" is the right title
+for TRACE-trained practitioners.
+
+**What if a client wants to stop after one or two sessions?**
+
+That is their right. What you can do is explain clearly, before you
+begin, that each session builds on the last and that the value of
+TRACE comes from completing it. That conversation, early on, is
+usually enough. If someone still chooses to stop, wish them well
+and let them know the door is open if they want to return.
+
+**Should I charge less because this involves grief?**
+
+No. The structure of the work is what makes it valuable, and a
+professional fee reflects that. Reducing your rate does not make you
+more compassionate. It can actually make clients less likely to engage
+fully with the process, because the price carries a message about
+how seriously the work should be taken. Charge a fair rate. It serves
+your clients better than undercharging.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for
+clients in genuine financial difficulty. This is a personal decision,
+not an obligation. If you do offer reduced rates, be specific about
+what they are and how many you hold. Open-ended sliding scales can
+create unclear expectations. You are not required to offer this.
+Your own sustainability matters too.
 
 ---
 
-## Ready to Build a Practice That Pays You Well?
+## More guides for Seattle practitioners
 
-The rates described on this page are achievable in Seattle. A clear credential, a structured approach, and a professional presence are what converts a prospective client into a paying one. The TRACE Practitioner Certificate provides all three.
+This is part of a series of guides for pet bereavement practitioners
+in Seattle:
 
-The Core Programme is $395. The Extended Programme is $525. Both are self-paced and available immediately.
+- [How to Set Up a Pet Bereavement Support Practice in Seattle](/blog/setup-pet-loss-practice-seattle)
+- [How to Advertise Your Pet Loss Practice in Seattle](/blog/advertise-pet-loss-practice-seattle)
+- [How to Run Online Pet Loss Sessions in Seattle](/blog/online-pet-loss-sessions-seattle)
+- [What to Expect as a Pet Bereavement Support Practitioner in Seattle](/blog/what-to-expect-pet-loss-counsellor-seattle)
 
-Visit the Academy for Pet Loss to enrol today.
+For an overview: [Starting a Pet Bereavement Support Practice in Seattle](/blog/start-pet-loss-business-seattle)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome
+as it is. It is the moment when someone says, for the first time,
+what their animal really meant to them, and feels genuinely heard.
+You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss
+gives you the framework, the credential, and the professional presence
+to start this work with confidence. The Core Programme is $395 and
+the Extended Programme is $525. Both are self-paced and designed to
+fit around your existing life.
+
+If this feels like the right thing for you to do, the Academy for
+Pet Loss is ready when you are.
+
+Visit [www.academyforpetloss.com](https://www.academyforpetloss.com)
+to find out more.

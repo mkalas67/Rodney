@@ -226,6 +226,22 @@ required to offer this. Your own sustainability matters too.
 
 ---
 
+---
+
+## More guides for Bristol practitioners
+
+This is part of a series of guides for pet bereavement practitioners
+in Bristol:
+
+- [How to Set Up a Pet Bereavement Counselling Practice in Bristol](/blog/setup-pet-loss-practice-bristol)
+- [How to Advertise Your Pet Loss Practice in Bristol](/blog/advertise-pet-loss-practice-bristol)
+- [How to Run Online Pet Loss Sessions in Bristol](/blog/online-pet-loss-sessions-bristol)
+- [What to Expect as a Pet Bereavement Counsellor in Bristol](/blog/what-to-expect-pet-loss-counsellor-bristol)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Bristol](/blog/start-pet-loss-business-bristol)
+
+---
+
 ## A Final Thought
 
 What keeps most TRACE practitioners going is not the income, welcome

@@ -1,104 +1,155 @@
-# How to Price Your Pet Loss Counselling Sessions in Vancouver
+---
+title: How to Price Your Pet Loss Support Sessions in Vancouver
+meta_description: How to price TRACE pet bereavement support sessions in Vancouver. Package vs per-session pricing, local CAD rates, and why charging appropriately helps your clients trust the process.
+slug: pricing-pet-loss-sessions-vancouver
+geo_target: Vancouver, Canada
+primary_keyword: pet loss counseling prices Vancouver
+secondary_keywords: pet bereavement support cost Vancouver, TRACE practitioner pricing Canada
+---
 
-Pricing is one of the most uncomfortable decisions a new practitioner faces. Charge too little and you signal low confidence, attract under-committed clients, and burn out quickly. Charge too much before you have built credibility and you will struggle to fill your diary. The good news is that the Vancouver market gives you clear reference points to work from, and the TRACE framework gives you a structured, evidence-based service that justifies professional rates from the start.
+# How to Price Your Pet Loss Support Sessions in Vancouver
 
-This page covers local pricing benchmarks in Canadian dollars, session structures, the additional revenue stream from memorial pages, realistic income projections, and how to raise your rates with confidence.
+Most people who come to this work do not come to it through ambition. They come because they understand what it is to lose an animal, and they want to be there for someone else going through the same thing. That is a genuinely good motivation. It is also, sometimes, the reason pricing feels uncomfortable.
+
+If you find yourself thinking "I do not want to make money out of someone's grief," this page is written for you.
 
 ---
 
-## What Pet Loss Counsellors Charge in Vancouver
+## Why Pricing Feels Difficult
 
-There is no formal pricing body for pet bereavement support, which means you have flexibility. Based on what wellness and counselling practitioners charge in the Metro Vancouver market, here is a reasonable framework.
+The discomfort most new practitioners feel around charging is not about greed. It is about doubt. The question underneath it is: am I actually giving them enough to justify this?
 
-**Early-career practitioners (first twelve to eighteen months):**
-CAD $95 to $155 per session. This range allows you to attract clients while you build your client base, gather testimonials, and develop confidence in delivering sessions. It positions you firmly in the professional wellness tier, not the charitable or volunteer tier.
+The answer lies in what you are actually delivering.
 
-**Established practitioners (eighteen months and beyond, with testimonials and a full profile):**
-CAD $135 to $200 per session. This is the rate range for a practitioner who has a visible online presence, reviews, referral relationships, and a track record of helping clients.
+TRACE is not a conversation. It is a structured, five-session program grounded in established grief theory. Each session has a specific purpose. Each stage builds on the last. Your client is not paying for your time or your company, though both matter. They are paying for a defined process that helps them move through their grief with structure and intention.
 
-For context, general counsellors in BC charge CAD $125 to $250 per session. Life coaches in Vancouver typically charge CAD $100 to $200. Pet bereavement support, because it is specialised and the need is acute, sits comfortably within the upper half of the wellness market.
+That is worth a professional fee.
 
-**A note on the TRACE programme cost.** The Academy for Pet Loss certification is priced in USD. The Core Programme is USD $395 and the Extended Programme is USD $525. At current exchange rates, this represents a one-time investment of approximately CAD $540 to $720, which most practitioners recover within five to ten sessions.
+When you charge an appropriate amount, you are doing something more than collecting payment. You are signaling to your client that this is real work, with real value. That signal matters. It helps them arrive properly, take the sessions seriously, and actually benefit from the process. Charging less does not make you more generous. It makes the whole thing feel less serious, and your client deserves better than that. The fee is part of the trust.
 
 ---
 
-## Session Structures
+## TRACE Is a Program, Not an Open-Ended Service
 
-How you package and structure your sessions affects both your income and your clients' experience.
+This is important to understand before you set any price.
 
-**Single session.** A one-time ninety-minute session works well for clients who have already moved through the first acute phase of grief and want a structured conversation to process what has happened. Price at or slightly above your standard hourly rate to reflect the longer format.
+General grief therapists often charge by the hour. That makes sense for their work, because it is open-ended. They do not know how many sessions a client will need, or where the conversations will go. The hourly rate reflects that uncertainty.
 
-**Three-session package.** Three sessions, usually over four to six weeks, allow you to move through the full TRACE framework at a natural pace. A package price of CAD $270 to $420 (depending on your rate stage) saves the client a small amount and commits them to the process. Packages also improve your cash flow predictability.
+TRACE is different. It is a five-session program. Each session corresponds to one step in the framework: Tell the Story, Recognize the Bond, Acknowledge the Pain, Celebrate the Life, Embrace What Remains. The process has a beginning, a shape, and a defined end.
 
-**Single follow-up session.** Offer a standalone follow-up session at your standard rate for clients who completed a package and want to check in weeks or months later. Anniversary dates, holidays, or new pet decisions often prompt these.
+This means the right way to price it is as a package, not as an hourly rate multiplied by however many sessions happen to occur.
 
-**Intensive single-day session.** Some practitioners offer a longer, more intensive session (three to four hours, with breaks) for clients who cannot commit to multiple appointments, such as people going through euthanasia decision-making who want support in a single block. Price this at two to two-and-a-half times your standard hourly rate.
-
----
-
-## Memorial Pages as a Second Revenue Stream
-
-Your TRACE certification includes the ability to create and host memorial pages for clients through the Academy for Pet Loss platform. These are dedicated pages celebrating the life of a specific animal, with photos, stories, and a permanent online record.
-
-You set the price for memorial pages yourself. The industry benchmark is USD $99 per page, hosted for three years. In the Vancouver market, where clients are accustomed to paying for quality digital services, a price of CAD $130 to $160 per page is reasonable.
-
-Memorial pages can be offered as a standalone service or bundled with a session package. A "complete package" that includes a three-session TRACE programme plus a memorial page is a natural premium offering: it serves the emotional need in full and can be priced at CAD $425 to $575 depending on your rate stage.
+Each session runs for forty to fifty minutes. This is intentional. Each session has one specific focus, and that focus does not require a full clinical hour. Forty-five minutes of structured, purposeful conversation on one stage of the journey is enough. In practice, it is often more effective than a longer session that loses its thread.
 
 ---
 
-## Realistic Income Projections for a Vancouver Practice
+## The Pricing Model We Recommend
 
-A part-time practice with ten sessions per week at CAD $120 average produces CAD $1,200 per week, or approximately CAD $57,600 per year before expenses. This is achievable within twelve to eighteen months for a practitioner who actively markets themselves.
+Offer both options and be clear about the difference between them.
 
-A full practice (twenty or more sessions per week) at established rates of CAD $155 to $180 per session produces CAD $3,100 to $3,600 per week, or CAD $140,000 to $170,000 annually. This level requires a strong referral network, a full Google Business Profile, and ongoing content marketing, but it is a realistic ceiling for a dedicated practitioner in a large city like Metro Vancouver.
+**Per-session rate**
 
-Add memorial page revenue and the occasional intensive session, and the income potential is meaningful. Pet bereavement is not a niche that limits you to a small practice. Vancouver is a large, pet-saturated city.
+A single session for clients who are cautious, or who want to experience the first session before committing to the full program. Set this at your full rate. In Vancouver, that currently sits between CAD $95 and $155 per session for a newly certified practitioner.
 
----
+**Five-session package**
 
-## When to Raise Your Rates
+Price this at roughly sixty to eighty percent of what five individual sessions would cost. At CAD $120 per session, five sessions individually would total $600. A package price of CAD $360 to $480 represents a meaningful saving and reflects the reality that the program is designed to be taken as a whole.
 
-Raise your rates when:
+**Why the package matters**
 
-- You are consistently full (turning away clients or have a waitlist).
-- You have five or more strong client testimonials or Google reviews.
-- You have been practising for twelve to eighteen months and have genuine confidence in your method.
-- Your referral network is generating steady inbound enquiries without paid advertising.
+Someone who has committed to the complete journey is far more likely to complete it and benefit from it. Each session builds on the previous one. A client who stops after two sessions has not had half the experience; they have had an incomplete one. Being clear from the outset that TRACE is a five-session program, and pricing it accordingly, sets the right expectation and serves your clients well.
 
-When you raise rates, give existing clients at least four to six weeks notice and allow them to book additional sessions at the old rate before the increase takes effect. This is courteous and maintains goodwill.
-
-You do not need to apologise for raising your rates. A clear, professional message stating that your pricing is changing from a specific date, with an invitation to book before then, is all that is required.
+There is no obligation to offer both options. Some practitioners prefer to offer only the package. Others offer the single-session rate for the first session and the package from session two. You decide what works for you and your clients.
 
 ---
 
-## Sliding Scale and Reduced-Fee Sessions
+## What Vancouver Practitioners Charge
 
-Whether to offer sliding scale pricing is a personal decision. Some practitioners reserve a small number of spots (two or three per month) for clients who cannot afford standard rates. This is especially worth considering for clients referred by the BC SPCA or Vancouver Humane Society, where the financial profile of the client base is more varied.
+Vancouver has a well-established culture of paying professional rates for wellbeing services. Clients here are generally comfortable with a fair rate, provided you present yourself professionally and can speak clearly about what TRACE is and what the program involves.
 
-If you offer a sliding scale, set a minimum rate that still feels respectful of your time. A minimum of CAD $55 to $70 per session is typical in the Vancouver wellness market. State clearly on your website how many reduced-fee spots you have and how to enquire.
+For reference, pet bereavement support practitioners in the Vancouver area currently tend to work within these ranges:
 
-Offering too many discounted sessions is a fast path to resentment and burnout. Protect your capacity.
+**Newly certified practitioners:**
+CAD $95 to $155 per individual session
+CAD $380 to $620 for a five-session package
+
+**Established practitioners with a referral network:**
+CAD $135 to $200 per individual session
+CAD $540 to $800 for a five-session package
+
+These are reference points only. The Academy for Pet Loss does not set fees and does not recommend any specific rate. What you charge is your decision, based on your own circumstances, your confidence, and your read of your community.
+
+**A note on the TRACE training cost.** The Core Program is $395 USD and the Extended Program is $525 USD. Both are priced in US dollars. At current exchange rates this represents approximately CAD $540 to $720 as a one-time investment.
+
+---
+
+## Memorial Pages as an Optional Addition
+
+Your TRACE certification includes ten memorial page credits on completion of the program. These are digital memorial pages you can offer clients: a lasting, online space for the story of their animal, hosted for three years.
+
+How you use these is entirely your choice. Some practitioners include a memorial page within a package. Others offer it as an optional extra at the end of the program, when the work reaches the Celebrate the Life stage and a memorial page becomes a natural part of the conversation. Others hold them for clients who seem to want something tangible to mark the end of the journey.
+
+There is no right answer. You set the price. The important thing is that you are offering something of genuine value, at whatever price reflects that value to you.
+
+---
+
+## Payment Methods in Vancouver
+
+In Canada, e-Transfer (Interac e-Transfer) is the standard payment method for personal services and is trusted and familiar to all Canadian bank clients. Include your e-Transfer email in your booking confirmation. Stripe is effective for website checkout and card payments and integrates with most scheduling tools. PayPal works for clients who prefer it.
+
+Collect payment before or at the start of the session, not after. A clear cancellation policy, such as twenty-four hours notice for a refund or rebooking credit, protects your time and sets professional expectations from the start.
 
 ---
 
 ## Frequently Asked Questions
 
-**Should I charge the same for online and in-person sessions?**
-Yes, in almost all cases. The value of the session is in your expertise and the structure of the conversation, not the location. Charging less for online sessions devalues the service and sets an expectation that is hard to reverse.
+**Why charge a package rate rather than an hourly rate?**
 
-**What if a client asks for a discount?**
-You are allowed to say no. A simple "My rates are set to reflect the value of the work and I'm not able to discount" is sufficient. If you feel moved to help someone in clear financial hardship, offer a reduced-fee spot explicitly rather than negotiating under pressure.
+Because TRACE is a structured program, not an open-ended service. General grief therapists charge hourly because their work does not follow a fixed structure and the number of sessions is unknown. TRACE is five sessions with a clear shape. Pricing it as a package reflects that honestly and helps clients commit to completing the journey, which is where the value lies.
 
-**How do I handle payment?**
-In Vancouver, e-Transfer is the dominant payment method for personal services and is trusted and familiar to most clients. Stripe and PayPal are also effective for online session payments and allow you to invoice professionally. Collect payment before or at the start of the session, not after.
+**Could the sessions turn into ongoing therapy?**
 
-**Is pet bereavement support subject to GST?**
-Counselling and psychotherapy services provided by registered practitioners are generally GST-exempt in Canada. Standalone coaching or support services may not qualify for the exemption. Seek advice from a Canadian accountant on your specific situation once your revenue approaches the $30,000 threshold.
+No, and a responsible TRACE practitioner makes that clear from the first session. The five-session structure is the complete program. TRACE practitioners are not therapists. The training does not prepare practitioners to offer clinical, open-ended therapeutic support, and it would be wrong to present it as such. When the five sessions are complete, the practitioner's role within TRACE is done. If a client needs something more after that, the right response is a warm, clear referral to a qualified grief therapist or their GP.
+
+**What if a client needs more support after the five sessions?**
+
+This is genuinely unknown territory, and it is important to be honest about that. TRACE prepares practitioners to guide clients through a specific, structured program. What a client may need beyond those five sessions could be many things, and a TRACE practitioner is not trained to assess or provide it. The responsible and caring response is to acknowledge the limit of your role and support your client in finding appropriate clinical help. This is not a failure. It is professional integrity.
+
+**Does TRACE training certify me as a therapist?**
+
+No. TRACE training certifies you as a TRACE practitioner. That is a specific role with a specific scope. It does not qualify you to offer clinical therapy, psychological assessment, or any intervention beyond the five-session TRACE program. It is important that you never present yourself as a therapist, and that you are clear with clients, referral partners, and anyone else about what you are and what you offer. This clarity protects your clients and protects you.
+
+**What if a client wants to stop after one or two sessions?**
+
+That is their right. You cannot and should not try to keep someone in a process they are not ready for. What you can do is explain clearly, before you begin, that each session builds on the last and that the value of the TRACE program comes from completing it. That conversation, early on, is usually enough. If someone still chooses to stop, wish them well and let them know the door is open if they want to return.
+
+**Should I charge less because this involves grief?**
+
+No. The structure of the work is what makes it valuable, and a professional fee reflects that. Reducing your rate does not make you more compassionate. It can actually make clients less likely to engage fully with the process, because the price carries a message about how seriously the work should be taken. Charge a fair rate. It serves your clients better than undercharging.
+
+**What if someone cannot afford my rate?**
+
+Some practitioners keep a small number of reduced-rate spaces for clients in genuine financial difficulty. This is a personal decision, not an obligation. If you do offer reduced rates, be specific about what they are and how many you hold. Open-ended sliding scales can create awkward conversations and unclear expectations. Your own sustainability matters too.
 
 ---
 
-## Set Your Rates and Start Building
+## More guides for Vancouver practitioners
 
-Pricing your practice is one of the most important signals you send to potential clients. Professional rates reflect professional training. The TRACE certification gives you the skills and credentials to charge what the Vancouver market will support.
+This is part of a series of guides for pet bereavement practitioners in Vancouver:
 
-Enrol in the Academy for Pet Loss TRACE Practitioner Certification and build a practice you are proud of. Visit [Academy for Pet Loss](https://academyforpetloss.com) to get started.
+- [How to Set Up a Pet Bereavement Support Practice in Vancouver](/blog/setup-pet-loss-practice-vancouver)
+- [How to Advertise Your Pet Loss Practice in Vancouver](/blog/advertise-pet-loss-practice-vancouver)
+- [How to Run Online Pet Loss Sessions in Vancouver](/blog/online-pet-loss-sessions-vancouver)
+- [What to Expect as a Pet Bereavement Support Practitioner in Vancouver](/blog/what-to-expect-pet-loss-counsellor-vancouver)
+
+For an overview: [Starting a Pet Bereavement Support Practice in Vancouver](/blog/start-pet-loss-business-vancouver)
+
+---
+
+## A Final Thought
+
+What keeps most TRACE practitioners going is not the income, welcome as it is. It is the moment when someone says, for the first time, what their animal really meant to them, and feels genuinely heard. You are offering that. Charge accordingly.
+
+The TRACE Practitioner Certification from the Academy for Pet Loss gives you the framework, the credential, and the professional presence to start this work with confidence. The Core Program is $395 and the Extended Program is $525. Both are self-paced and designed to fit around your existing life.
+
+If this feels like the right thing for you to do, the Academy for Pet Loss is ready when you are. Visit www.academyforpetloss.com.
