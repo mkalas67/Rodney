@@ -50,11 +50,11 @@ MUSIC_MAP = {
     "academy": {
         "track-a": "track-a-folding-maple.mp3",
         "track-b": "track-b-copper-conductor.mp3",
-        "track-c": "track-b-copper-conductor.mp3",  # fallback until track-c is added
+        "track-c": "Still Water Piano.mp3",
     },
     "trace-memorial": {
         "track-d": "track-d-long-decay-room.mp3",
-        "track-e": "track-d-long-decay-room.mp3",  # fallback until track-e added
+        "track-e": "Paper After Rain.mp3",
     },
 }
 
