@@ -1,0 +1,14 @@
+# Generated video output — lives in GCS, not git
+reels/output/
+
+# Music files — large binaries, managed separately
+reels/music/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
