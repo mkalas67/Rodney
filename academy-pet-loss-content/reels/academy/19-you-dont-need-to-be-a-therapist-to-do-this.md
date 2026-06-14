@@ -27,13 +27,13 @@ Wider than most people think.
 ## Veo prompts
 
 ### Clip 1
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a wide shot of several different people in different settings — a vet clinic corridor, a therapy room, an outdoor rescue space — each visible briefly in a slow cross-cut, their settings different, their quality of presence the same
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a wide shot of several different people in different settings — a vet clinic corridor, a therapy room, an outdoor rescue space — each visible briefly in a slow cross-cut, their settings different, their quality of presence the same
 
 ### Clip 2
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a person opening a door into a sunlit room, stepping through, the movement easy and unhurried, the room beyond warm and welcoming, the gesture of arrival rather than entry
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a person opening a door into a sunlit room, stepping through, the movement easy and unhurried, the room beyond warm and welcoming, the gesture of arrival rather than entry
 
 ### Clip 3
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a group of three people in a relaxed professional setting — not a formal meeting, more like a conversation in progress — listening and speaking in turn, the dynamic collegial and warm, different ages and appearances visible
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a group of three people in a relaxed professional setting — not a formal meeting, more like a conversation in progress — listening and speaking in turn, the dynamic collegial and warm, different ages and appearances visible
 
 ### Clip 4
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a practitioner at their desk, comfortable, at home in the space, a notebook open, a cup of tea, a framed photo, morning light — the portrait of someone who has built something purposeful from a very human starting point
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a practitioner at their desk, comfortable, at home in the space, a notebook open, a cup of tea, a framed photo, morning light — the portrait of someone who has built something purposeful from a very human starting point

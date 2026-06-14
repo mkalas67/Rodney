@@ -27,16 +27,16 @@ For both of them.
 ## Veo prompts
 
 ### Clip 1
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a quiet veterinary corridor, empty, late afternoon light coming through a frosted window at the end of the hall, a single door slightly ajar
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a quiet veterinary corridor, empty, late afternoon light coming through a frosted window at the end of the hall, a single door slightly ajar
 
 ### Clip 2
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet in scrubs standing still in a treatment room after a procedure, looking down at a stainless steel examination table, one hand resting on the edge, expression thoughtful and quiet
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet in scrubs standing still in a treatment room after a procedure, looking down at a stainless steel examination table, one hand resting on the edge, expression thoughtful and quiet
 
 ### Clip 3
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — close-up of a vet's hands removing surgical gloves slowly, the motion deliberate and heavy, a blurred clinical background behind them
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — close-up of a vet's hands removing surgical gloves slowly, the motion deliberate and heavy, a blurred clinical background behind them
 
 ### Clip 4
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a person (client) walking away down a corridor toward an exit door, shoulders slightly dropped, carrying a lead or an empty carrier, the vet standing motionless in the background watching them go
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a person (client) walking away down a corridor toward an exit door, shoulders slightly dropped, carrying a lead or an empty carrier, the vet standing motionless in the background watching them go
 
 ### Clip 5
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet sitting at a staff room table with a cup of tea, staring at it rather than drinking it, the room quiet and slightly dim, a window with soft daylight behind them
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet sitting at a staff room table with a cup of tea, staring at it rather than drinking it, the room quiet and slightly dim, a window with soft daylight behind them

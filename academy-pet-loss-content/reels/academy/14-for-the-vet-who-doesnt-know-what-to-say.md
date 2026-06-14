@@ -29,16 +29,16 @@ You don't have to keep guessing.
 ## Veo prompts
 
 ### Clip 1
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet in scrubs standing just inside the doorway of a treatment room, one hand on the door frame, looking into the room rather than away from it, the scene quiet and still
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet in scrubs standing just inside the doorway of a treatment room, one hand on the door frame, looking into the room rather than away from it, the scene quiet and still
 
 ### Clip 2
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet at a sink washing hands methodically, the motion familiar but the expression elsewhere — the kind of autopilot that follows a heavy moment, a window with daylight visible above the sink
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet at a sink washing hands methodically, the motion familiar but the expression elsewhere — the kind of autopilot that follows a heavy moment, a window with daylight visible above the sink
 
 ### Clip 3
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet seated at a desk between appointments, hands flat on the desk, looking at nothing in particular, a moment of pause between the clinical and the human
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet seated at a desk between appointments, hands flat on the desk, looking at nothing in particular, a moment of pause between the clinical and the human
 
 ### Clip 4
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet speaking quietly to a client in a hallway, both standing, the vet's body language open and attentive, the client listening, the corridor around them still and private
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet speaking quietly to a client in a hallway, both standing, the vet's body language open and attentive, the client listening, the corridor around them still and private
 
 ### Clip 5
-warm natural light, soft focus, muted earth tones, professional and calm, no text overlays — a vet walking to their car at the end of a shift, the light fading, their pace unhurried, the weight of the day visible in the slight heaviness of movement — then pausing and looking up, as if considering something new
+warm natural light, soft focus, muted earth tones, professional and calm, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain wall or open space — a vet walking to their car at the end of a shift, the light fading, their pace unhurried, the weight of the day visible in the slight heaviness of movement — then pausing and looking up, as if considering something new

@@ -22,10 +22,10 @@ Somewhere they do not get lost.
 ## Veo prompts
 
 ### Clip 1
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, close-up of a person scrolling slowly through a phone, the screen warm with light, pausing, a slight softness in their expression
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, close-up of a person scrolling slowly through a phone, the screen warm with light, pausing, a slight softness in their expression
 
 ### Clip 2
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, printed photographs spread across a table, a person's hands moving between them slowly, selecting, the images warm and personal
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, printed photographs spread across a table, a person's hands moving between them slowly, selecting, the images warm and personal
 
 ### Clip 3
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a hand holding a single photograph up toward a window, the image visible but private, soft backlight through the glass, a moment of looking
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a hand holding a single photograph up toward a window, the image visible but private, soft backlight through the glass, a moment of looking

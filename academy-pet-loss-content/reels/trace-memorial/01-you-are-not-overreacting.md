@@ -22,10 +22,10 @@ always leaves a mark.
 ## Veo prompts
 
 ### Clip 1
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a person sitting in a window seat, knees drawn up, holding a small worn blanket, looking out at rain on the glass, absolutely still
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a person sitting in a window seat, knees drawn up, holding a small worn blanket, looking out at rain on the glass, absolutely still
 
 ### Clip 2
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, close-up of a person's hands resting open in their lap, a small dog collar with a tag lying across their palm, stillness
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, close-up of a person's hands resting open in their lap, a small dog collar with a tag lying across their palm, stillness
 
 ### Clip 3
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, late afternoon light falling across an empty sofa, a slight indent still visible in the cushion where an animal used to sleep, dust motes drifting slowly
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, late afternoon light falling across an empty sofa, a slight indent still visible in the cushion where an animal used to sleep, dust motes drifting slowly

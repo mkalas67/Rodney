@@ -410,6 +410,60 @@ See `localization-data.md` for all 20 cities.
 
 ---
 
+## Internal Linking Structure
+
+Every topic page must include an internal linking block. This is both
+an SEO signal and a usability feature. It tells search engines that
+these five pages belong together, and it keeps readers moving through
+the full series.
+
+### Rules
+- All 5 topic pages within a city link to each other (but NOT to
+  themselves — exclude the current page from the list)
+- All 5 topic pages also link UP to the city overview blog post
+  (the pillar/hub page for that city)
+- Pages in one city do NOT link to pages in another city
+  (Bristol pages do not link to Sydney pages)
+- The overview blog post for each city links DOWN to all 5 topic pages
+
+### Linking block format (for topic pages)
+Place this section immediately before the final CTA section on every
+topic page. Exclude the current page from the list.
+
+```
+---
+
+## More guides for [CITY] practitioners
+
+This is part of a series of guides for pet bereavement practitioners
+in [CITY]:
+
+- [How to Set Up a Pet Bereavement Counselling Practice in [CITY]](/blog/setup-pet-loss-practice-[city-slug])
+- [How to Advertise Your Pet Loss Practice in [CITY]](/blog/advertise-pet-loss-practice-[city-slug])
+- [How to Price Your Pet Loss Sessions in [CITY]](/blog/pricing-pet-loss-sessions-[city-slug])
+- [How to Run Online Sessions in [CITY]](/blog/online-pet-loss-sessions-[city-slug])
+- [What to Expect as a Pet Bereavement Counsellor in [CITY]](/blog/what-to-expect-pet-loss-counsellor-[city-slug])
+
+For an overview: [Starting a Pet Bereavement Support Practice in [CITY]](/blog/start-pet-loss-business-[city-slug])
+```
+
+Remove the link that matches the current page from the list.
+
+### Slug reference (URL patterns)
+- Overview/pillar: `/blog/start-pet-loss-business-[city-slug]`
+- Page 1: `/blog/setup-pet-loss-practice-[city-slug]`
+- Page 2: `/blog/advertise-pet-loss-practice-[city-slug]`
+- Page 3: `/blog/pricing-pet-loss-sessions-[city-slug]`
+- Page 4: `/blog/online-pet-loss-sessions-[city-slug]`
+- Page 5: `/blog/what-to-expect-pet-loss-counsellor-[city-slug]`
+
+City slugs: london, manchester, birmingham, edinburgh, bristol,
+dublin, new-york, los-angeles, chicago, houston, austin, seattle,
+denver, toronto, vancouver, sydney, melbourne, brisbane, auckland,
+atlanta
+
+---
+
 ## A Note on GEO (Generative Engine Optimisation)
 
 These pages are written to be cited by AI assistants (Perplexity, ChatGPT,

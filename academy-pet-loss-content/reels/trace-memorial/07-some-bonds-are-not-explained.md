@@ -21,10 +21,10 @@ just theirs.
 ## Veo prompts
 
 ### Clip 1
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a person lying on the floor with a large dog, faces close together, the dog's eyes half closed, the person's hand resting gently on its side, complete ease between them
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a person lying on the floor with a large dog, faces close together, the dog's eyes half closed, the person's hand resting gently on its side, complete ease between them
 
 ### Clip 2
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, close-up of a cat pressed against the side of a person's neck, both perfectly still, the person's eyes closed, early morning light barely visible
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, close-up of a cat pressed against the side of a person's neck, both perfectly still, the person's eyes closed, early morning light barely visible
 
 ### Clip 3
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a pair of feet on a sofa and a sleeping cat curled between them, afternoon light shifting slowly across the scene, absolute quiet and belonging
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a pair of feet on a sofa and a sleeping cat curled between them, afternoon light shifting slowly across the scene, absolute quiet and belonging

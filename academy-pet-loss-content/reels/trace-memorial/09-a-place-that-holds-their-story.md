@@ -21,10 +21,10 @@ A place that keeps them.
 ## Veo prompts
 
 ### Clip 1
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a person's hand writing slowly in a journal with a fine pen, close-up, careful deliberate letters, warm desk lamp light on the page
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a person's hand writing slowly in a journal with a fine pen, close-up, careful deliberate letters, warm desk lamp light on the page
 
 ### Clip 2
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a photograph being gently placed face-up on a wooden surface, a hand smoothing the edge, another photo already beside it, quiet arrangement
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a photograph being gently placed face-up on a wooden surface, a hand smoothing the edge, another photo already beside it, quiet arrangement
 
 ### Clip 3
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a small wooden box on a shelf, a collar draped over it, a folded note beside it, late afternoon light resting across the objects, kept and cared for
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a small wooden box on a shelf, a collar draped over it, a folded note beside it, late afternoon light resting across the objects, kept and cared for

@@ -21,13 +21,13 @@ at which you should be done.
 ## Veo prompts
 
 ### Clip 1
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a window with changing light — clouds moving slowly across it, the room behind it unchanged, time passing quietly
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a window with changing light — clouds moving slowly across it, the room behind it unchanged, time passing quietly
 
 ### Clip 2
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a close-up of an older person's hands turning the pages of a small photo album slowly, no rush, late afternoon warmth
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a close-up of an older person's hands turning the pages of a small photo album slowly, no rush, late afternoon warmth
 
 ### Clip 3
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, leaves falling past a garden window in autumn light, unhurried, a person dimly visible sitting inside, looking out
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, leaves falling past a garden window in autumn light, unhurried, a person dimly visible sitting inside, looking out
 
 ### Clip 4
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a candle burning low on a windowsill, flame barely moving, dusk outside the glass, a photograph propped beside it, not fully in focus
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a candle burning low on a windowsill, flame barely moving, dusk outside the glass, a photograph propped beside it, not fully in focus

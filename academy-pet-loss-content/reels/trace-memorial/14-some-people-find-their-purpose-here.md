@@ -22,10 +22,10 @@ if you are looking for one.
 ## Veo prompts
 
 ### Clip 1
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a person standing at a large window, looking out at a garden in the early morning, one hand resting on the glass, expression open and considering
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a person standing at a large window, looking out at a garden in the early morning, one hand resting on the glass, expression open and considering
 
 ### Clip 2
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a person walking slowly along a path through a park, not rushing, head slightly down but moving forward, bare trees on either side, soft grey light
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a person walking slowly along a path through a park, not rushing, head slightly down but moving forward, bare trees on either side, soft grey light
 
 ### Clip 3
-soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, a person sitting at a desk with a notebook open and a cup of tea beside it, not writing yet, looking at the blank page, the window behind them showing a quiet morning outside
+soft diffused light, intimate and quiet, muted warm palette, gentle and still, no text overlays, subject positioned in lower two-thirds of frame, upper quarter of frame left clear with plain background, a person sitting at a desk with a notebook open and a cup of tea beside it, not writing yet, looking at the blank page, the window behind them showing a quiet morning outside
