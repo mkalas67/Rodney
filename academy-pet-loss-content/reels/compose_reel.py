@@ -24,6 +24,11 @@ TEXT_TOP_START = 80      # pixels from top of frame where text block begins
 WRAP_CHARS = 26          # max characters per line before wrapping
 BOX_PADDING = 10         # padding inside the text background box
 
+ENDCARD = {
+    "academy":       OUTPUT_DIR / "endcard-academy.mp4",
+    "trace-memorial": OUTPUT_DIR / "endcard-trace-memorial.mp4",
+}
+
 BRAND_CONFIG = {
     "academy": {
         "text_color": "0xFFFFFF",          # white — readable on any background
@@ -229,11 +234,36 @@ def compose_reel(brand: str, reel_num: int):
 
     if result.returncode != 0:
         print(f"  FFmpeg error:\n{result.stderr[-2000:]}")
-    else:
-        size_mb = output_path.stat().st_size / 1_000_000
-        print(f"  Done. File size: {size_mb:.1f} MB")
+        concat_file.unlink(missing_ok=True)
+        return
 
+    size_mb = output_path.stat().st_size / 1_000_000
+    print(f"  Done. File size: {size_mb:.1f} MB")
     concat_file.unlink(missing_ok=True)
+
+    # Append end card
+    endcard_path = ENDCARD.get(brand)
+    if endcard_path and endcard_path.exists():
+        final_path = clip_dir / f"{reel_name}-with-endcard.mp4"
+        with tempfile.NamedTemporaryFile(mode="w", suffix=".txt", delete=False, encoding="utf-8") as f:
+            ec_list = Path(f.name)
+            f.write(f"file '{output_path}'\n")
+            f.write(f"file '{endcard_path}'\n")
+        cmd_ec = [
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0", "-i", str(ec_list),
+            "-c", "copy",
+            str(final_path),
+        ]
+        result_ec = subprocess.run(cmd_ec, capture_output=True, text=True)
+        ec_list.unlink(missing_ok=True)
+        if result_ec.returncode != 0:
+            print(f"  End card append error:\n{result_ec.stderr[-1000:]}")
+        else:
+            size_mb = final_path.stat().st_size / 1_000_000
+            print(f"  With end card: {final_path.name} ({size_mb:.1f} MB)")
+    else:
+        print(f"  No end card found at {endcard_path} — skipping")
 
 
 def main():
