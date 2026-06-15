@@ -54,7 +54,8 @@ MUSIC_MAP = {
     },
     "trace-memorial": {
         "track-d": "track-d-long-decay-room.mp3",
-        "track-e": "Paper After Rain.mp3",
+        "track-e": "track eHeld Breath.mp3",
+        "track-f": "track fPaper After Rain.mp3",
     },
 }
 

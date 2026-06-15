@@ -74,6 +74,7 @@ def upload_reel(page_id, page_token, file_path, title, caption, scheduled_ts):
     init_resp.raise_for_status()
     init_data = init_resp.json()
     upload_session_id = init_data["upload_session_id"]
+    video_id = init_data["video_id"]
     start_offset = int(init_data["start_offset"])
     end_offset = int(init_data["end_offset"])
 
@@ -111,7 +112,7 @@ def upload_reel(page_id, page_token, file_path, title, caption, scheduled_ts):
         },
     )
     finish_resp.raise_for_status()
-    return finish_resp.json().get("video_id") or finish_resp.json().get("id")
+    return video_id
 
 
 def upload_photo(page_id, page_token, file_path, caption, scheduled_ts):
@@ -209,6 +210,10 @@ def main():
             post["scheduled_at"] = datetime.now().isoformat()
             print(f"        Scheduled. Facebook ID: {post_id}")
             scheduled_count += 1
+        except requests.HTTPError as e:
+            body = e.response.text if e.response is not None else "no body"
+            print(f"        ERROR: {e} | {body}")
+            error_count += 1
         except Exception as e:
             print(f"        ERROR: {e}")
             error_count += 1
